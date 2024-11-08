@@ -1,0 +1,3162 @@
+[
+    {
+        "Семестр 5": {
+            "АТ": {
+                "lessons": {
+                    "Название предмета": {}
+                },
+                "students": {
+                    "912d14ad-ac34-42ff-9fd3-b9d924125e0a": {
+                        "login": "malcevap_71at_211851 ",
+                        "password": "Maz#16479"
+                    },
+                    "bd11b9e9-39c1-4e64-a82f-1a8aea6d03d8": {
+                        "login": " toropkinda_71at_211866  ",
+                        "password": "Tor#43931"
+                    },
+                    "548cfb02-7f16-47b8-8db0-8c4434e3ca33": {
+                        "login": "cvenkinbergaa_71at_211773 ",
+                        "password": "Cve#16053"
+                    },
+                    "d8a4336b-aaa5-4a71-a8c3-c78af31c34a7": {
+                        "login": "mahsotovazz_71at_211765 ",
+                        "password": "Zhanna.makhsotova2001"
+                    },
+                    "a6a63a4a-9e80-45ed-8f77-e97e7e29e3d5": {
+                        "login": "zaljotovmj_71at_211852",
+                        "password": " Zaz#37944"
+                    },
+                    "256d1294-7a6a-4577-b59e-7397da60f1f5": {
+                        "login": "myrksinvs_71at_202960  ",
+                        "password": "Myr#61852"
+                    },
+                    "1bcc1855-4771-49f0-886f-0eba518d9188": {
+                        "login": "spicyndj_71at_211858 ",
+                        "password": "Messi12614-"
+                    },
+                    "6dcc7601-a80d-43fa-9d28-09f1f8d64349": {
+                        "login": "kirienkosv_71at_211868 ",
+                        "password": "Kir#37158"
+                    },
+                    "d3ffda1d-a47c-46b4-85bc-3ea3dc835bed": {
+                        "login": "Ushakovjs_71at_212568",
+                        "password": "Ush#66892"
+                    },
+                    "6e69eb93-871c-4d48-8ee8-bd38ebd4e9ae": {
+                        "login": "shumilovav_71at_211864 ",
+                        "password": "Shu#16709"
+                    },
+                    "c55f0bf9-88a1-4b01-b708-0792f42dc6a9": {
+                        "login": " mardoviniv_71at_211850",
+                        "password": "<061099Bk>"
+                    },
+                    "d559a401-152b-4ba2-8367-280237cf910e": {
+                        "login": "shhennikovan_71at_211867 ",
+                        "password": "Shh#18044"
+                    },
+                    "c0aa9114-da7f-4eb2-a702-0c1f7ea187b4": {
+                        "login": " jacevichmi_71at_202964",
+                        "password": "Jac#13919"
+                    },
+                    "6ebecaf3-6f11-4306-bbda-3a57eb524851": {
+                        "login": "tarasovkv_71at_211766 ",
+                        "password": "Tar#35998"
+                    },
+                    "9d318cdf-364b-4bbb-81e0-d0ce1f5d31da": {
+                        "login": "kruchininev_71at_211862",
+                        "password": "19.Ewgen.79"
+                    },
+                    "3f43ea83-4e62-488b-b7ed-d8114dc75340": {
+                        "login": " ljaminav_71at_211854 ",
+                        "password": "11Sentyabrya2011."
+                    },
+                    "87fa4033-114c-4fc0-a91f-4e59d1c3671d": {
+                        "login": "surkovdv_71at_212538  ",
+                        "password": "Sur#17616"
+                    },
+                    "d9b14666-9753-4956-a3e8-5d69a29b4de8": {
+                        "login": " babuhdg_71at_211855 ",
+                        "password": "Bab#69165"
+                    },
+                    "72978467-f78a-4012-8a31-2f35d176883b": {
+                        "login": "shanginaaa_71at_211771 ",
+                        "password": "Anastasia1@"
+                    },
+                    "2d7395d1-9d60-4224-bd72-6442ac648de0": {
+                        "login": "kalininai_71at_211772 ",
+                        "password": "Kaz#34762"
+                    },
+                    "9239312b-d987-4564-8cfe-c4ce09c2dd3f": {
+                        "login": "popoven_71at_202971",
+                        "password": "Evg#7523"
+                    },
+                    "9642e27c-35c5-4ca8-873b-ab518c309cda": {
+                        "login": "gricajnv_71at_211861",
+                        "password": "Gri#92432"
+                    },
+                    "e5ccfbd5-90c5-4591-9029-bbe6e4a510bc": {
+                        "login": "rusinaia_71at_211869",
+                        "password": "Rus#14386"
+                    },
+                    "7ebb4e96-eb37-407b-ba5e-6bf74ef85b6a": {
+                        "login": "avhimovichtv_71at_211860",
+                        "password": "Avh#27642"
+                    },
+                    "78717f5a-2e20-4c46-b29c-829748db9e03": {
+                        "login": "nosovku_71at_202963",
+                        "password": "nos#71AT"
+                    },
+                    "f304c866-2115-41c4-89ff-e513d54fef47": {
+                        "login": "belovvi_71at_211770 ",
+                        "password": "Bez#23332"
+                    },
+                    "427a88cf-b0dd-4542-9658-84418b0f2811": {
+                        "login": "mukanovtb_71at_202961 ",
+                        "password": "Uchiha_madara787898"
+                    },
+                    "03d206c3-7217-4c1a-aea2-437e03269048": {
+                        "login": "kaminskijmm_71at_211769",
+                        "password": "Kam#86098"
+                    },
+                    "d3c3c67e-3558-433e-90a5-6d808da94112": {
+                        "login": "korotkovas_71at_212443 ",
+                        "password": "Kor#46515"
+                    },
+                    "072cda3c-5612-4ccc-b7f1-45a05f0394eb": {
+                        "login": "sharafutdinovrr_71at_211853",
+                        "password": "Sha#70569"
+                    },
+                    "437a03a0-cd8c-4557-a6ac-192472a97f42": {
+                        "login": "sosnitskijgv_71at_211768",
+                        "password": "Sos#77033"
+                    },
+                    "125ec991-1d82-4b90-b823-8e56d919d69b": {
+                        "login": "krendjasovav_71at_211859",
+                        "password": "Nastya2805!"
+                    },
+                    "0f0d15be-edb2-4008-8555-f84c939700a3": {
+                        "login": "sholmovatb_71at_211856 ",
+                        "password": "Sho#42728"
+                    },
+                    "d705c906-4b7b-44db-9d7f-f9304b256882": {
+                        "login": "naumovev_71at_211849",
+                        "password": "Nau#45072"
+                    },
+                    "72bf590c-48a4-44bd-8cec-1cf535e40e4b": {
+                        "login": "tumarav_71at_203614",
+                        "password": "Tum#42833 "
+                    }
+                }
+            },
+            "ГВ": {
+                "lessons": {
+                    "ПСЖД (ГВ, ПВ)": {
+                        "Тест": "https://dot.omgups.ru/mod/quiz/view.php?id=83566"
+                    },
+                    "Правовое обеспечение": {
+                        "Промежуточная аттестация": "https://dot.omgups.ru/mod/quiz/view.php?id=82102"
+                    },
+                    "Теоретическая механика-2": {
+                        "Итоговый тест по динамике": "https://dot.omgups.ru/mod/quiz/view.php?id=83740"
+                    }
+                },
+                "students": {
+                    "92d49e17-06e3-4c88-a401-2317fef0284f": {
+                        "login": "petrachukae_71gv_212076",
+                        "password": "Pet#93961"
+                    },
+                    "c32e40ef-0f24-401c-87c4-031ef974d04f": {
+                        "login": "strelcovnv_71gv_211724",
+                        "password": "Str#68104"
+                    },
+                    "6b715cb9-82ab-4284-9fb2-0db5543c14b5": {
+                        "login": "proshhalyginaep_71gv_211729",
+                        "password": "Pro#15607"
+                    },
+                    "9f5753d3-1acb-4602-91b4-6321e3ada2ca": {
+                        "login": "kochetkovvi_71gv_211814 ",
+                        "password": "Koc#35450"
+                    },
+                    "f677e82e-d6e2-427f-a33c-ea7b7b6f3ed6": {
+                        "login": "kudrjavcever_71gv_211816",
+                        "password": "Kud#35454"
+                    },
+                    "a98f99f0-dde8-434b-aac7-1cae658156ce": {
+                        "login": "silevaan_71gv_217658",
+                        "password": "silev#71GV"
+                    },
+                    "568d5be6-de28-4019-af11-7d47fd5b5a36": {
+                        "login": "nigorodov_71gv_217660",
+                        "password": "Ser#5566"
+                    },
+                    "ae5d05f0-894a-4f95-8225-bfd4adaa985d": {
+                        "login": "afanasevan_71gv_211727",
+                        "password": "Afa#56300"
+                    },
+                    "902b0da6-e775-4905-8716-22a38a55b9db": {
+                        "login": "shelepoviv_71gv_211812",
+                        "password": "She#25544"
+                    },
+                    "65893834-fe00-441a-b013-4bff9a84f5c3": {
+                        "login": "sheludkonv_71gv_211810",
+                        "password": "mama6198Mama+"
+                    },
+                    "0752df2e-3f8a-49c6-86a0-fc902c1e8e02": {
+                        "login": "shaporevasa_71gv_211813",
+                        "password": "Sha#67675"
+                    },
+                    "964a06cf-d237-40fb-9ea1-77ec0983ee03": {
+                        "login": "kirgincevaam_71gv_211730",
+                        "password": "Kir#43253"
+                    },
+                    "69bfc208-9b9b-4274-a607-c376cb264d1e": {
+                        "login": "kushnarenkotn_71gv_212501",
+                        "password": "Kus#81333"
+                    },
+                    "ad58df53-4ab8-4e60-b182-f9a0f0334b16": {
+                        "login": "chikishevavv_71gv_211722",
+                        "password": "Chi#17162"
+                    },
+                    "ec0ff180-5e27-4018-876b-ebb79fdf3d29": {
+                        "login": "fedorjakinva_71gv_212621",
+                        "password": "Vimpel199622APX*"
+                    },
+                    "357fb2ff-a00f-4480-a531-fa61d1f334d2": {
+                        "login": "belousovskijjm_71gv_211725",
+                        "password": "Bez#81203"
+                    },
+                    "bc681ef7-69f9-492a-8003-38ef236cc413": {
+                        "login": "voropaevaan_71gv_211726 ",
+                        "password": "Vor#73171"
+                    },
+                    "00e9fb46-7c50-4df1-9f02-591808d62d26": {
+                        "login": "popovmv_71gv_212041",
+                        "password": "Pop#19299"
+                    },
+                    "2e08bccc-32b4-42fa-9c62-d50585c300ed": {
+                        "login": "pavlovda_71gv_212498",
+                        "password": "Pav#27138"
+                    },
+                    "da3602a2-7296-40c6-adff-e1b1c271d4c2": {
+                        "login": "afonichkinsn_71gv_212519",
+                        "password": "Sergey.26081972"
+                    },
+                    "b1760150-f5e5-4b8b-9828-5b65a656765f": {
+                        "login": "nazarchenkoss_71gv_212432",
+                        "password": "Naz#94660"
+                    },
+                    "c6ce43bd-b2b3-438d-917e-cccd3eb3d63f": {
+                        "login": "novikovei_71gv_212020",
+                        "password": "Nov#26552"
+                    },
+                    "faf2a946-0adf-4c3a-82cb-a0bf1cb52a1d": {
+                        "login": "ishaevia_71gv_211811",
+                        "password": "Zsh#58225"
+                    },
+                    "b19bb19c-b807-4159-b4ea-7a5c631fcdf4": {
+                        "login": "opekunovea_71gv_211815",
+                        "password": "Ope#25395"
+                    },
+                    "d2972ce7-e61c-44e6-b6b5-6f60e97ab25c": {
+                        "login": "bardindb_71gv_211809",
+                        "password": "Den051012."
+                    },
+                    "ea40f3ee-0eba-42ac-b5d5-f8e1d0969bd0": {
+                        "login": "halistovsi_71gv_211723",
+                        "password": "Haz#82124"
+                    },
+                    "271e6620-5c77-4f2a-bcd1-5ca68f4b2b49": {
+                        "login": "pashkovao_71gv_212623",
+                        "password": "Sasha1998s!"
+                    },
+                    "f9f6ecb3-3fa7-4ea9-807c-3b0f7fb78d3f": {
+                        "login": "hritankov_71gv_7416",
+                        "password": "Vka#4556"
+                    },
+                    "19011851-f55e-4efa-8b3e-6589d2702f16": {
+                        "login": "bakshaeviv_71gv2_203429",
+                        "password": "Biv71gv2_203429"
+                    },
+                    "1264e0e3-84df-447d-8b95-6f3d830ca844": {
+                        "login": "sinicyndv_71gv_212619 ",
+                        "password": "Sin#98857"
+                    },
+                    "40532043-40d0-49be-9caa-25e13af0aa6a": {
+                        "login": "rozhinskijss_71gv_212620  ",
+                        "password": "Roz#34161"
+                    },
+                    "65710fb1-f9fc-477b-bab9-c6a66819768a": {
+                        "login": "nedjakindv_71gv_212433",
+                        "password": "Ned#74613"
+                    },
+                    "fed26420-9b66-42b4-85d0-7f4d61a8568d": {
+                        "login": "gokinaaa_71gv_211728",
+                        "password": "468a56vAida."
+                    },
+                    "eac737ff-bb32-4737-87bd-483d6b8ed881": {
+                        "login": "gaag_71gv_217731",
+                        "password": "Ace#7996"
+                    },
+                    "0e710821-d3bf-416d-b0b3-583168f148cd": {
+                        "login": "proshhalyginaep_71gv_211729",
+                        "password": "Pro#15607"
+                    },
+                    "0adfb706-1eb0-44ff-87f7-a5d5304c37f7": {
+                        "login": "petrachukae_71gv_212076",
+                        "password": "Pet#93961"
+                    }
+                }
+            },
+            "ИМ": {
+                "lessons": {
+                    "Название предмета": {}
+                },
+                "students": {
+                    "0baf0940-0b7c-4802-9863-643f84554404": {
+                        "login": "suvorovaoa_71im_212577",
+                        "password": "Suv#98336"
+                    },
+                    "597ee84d-326b-48c9-a5e9-d391e47db39b": {
+                        "login": "pustovalovsg_71im_21257",
+                        "password": "ju$96Vdng1"
+                    },
+                    "6dcce9bc-9fda-4fc2-b640-6d67ce73aaee": {
+                        "login": "pustovalovalv_71im_212575",
+                        "password": "661873qwASzx."
+                    }
+                }
+            },
+            "ИП": {
+                "lessons": {
+                    "Название предмета": {}
+                },
+                "students": {
+                    "5b19fac1-e545-4a13-b461-b3d28d0b673e": {
+                        "login": "mikushinsa_71ip_202872",
+                        "password": "Mik#98189"
+                    },
+                    "55ef3a1f-34a3-4bdf-bd62-67ce88f2d640": {
+                        "login": "kiselevaks_71ip_211672",
+                        "password": "Kis#2001"
+                    },
+                    "659f68b7-d30e-43a9-9dcd-afa55ceaa066": {
+                        "login": "chernovad_71ip_202871 ",
+                        "password": "Che#64406"
+                    },
+                    "a8949d9e-b47c-40bd-afbd-f5888bc78013": {
+                        "login": "sidorovvs_71ip_211673",
+                        "password": "Sid#45597"
+                    },
+                    "b4810757-78b4-451e-80d4-56eb0c4e1cd1": {
+                        "login": "mamedovagt_71ip_212035",
+                        "password": "040506Mg*"
+                    }
+                }
+            },
+            "ЛТ": {
+                "lessons": {
+                    "Название предмета": {}
+                },
+                "students": {
+                    "a21aa6ed-a4f9-4379-8e6c-d965c4b0f489": {
+                        "login": "semenovse_71lt_211739",
+                        "password": "Sem#65347"
+                    },
+                    "b77178f9-e1e3-4bc9-a3a1-1b28b29d7459": {
+                        "login": "zhdanovaa_71lt_211740",
+                        "password": "Redcss789852Redcss@"
+                    },
+                    "37d37ea6-1ff7-47ab-bb7e-598ffe0007f9": {
+                        "login": "osipenkoja_71lt_211736",
+                        "password": "Osi#67613"
+                    },
+                    "7c84abff-80ed-4817-849a-388941783629": {
+                        "login": "sharipovat_71lt_212635",
+                        "password": "Mydickisverybig1!"
+                    },
+                    "e967de2d-e49a-401d-a61e-37ecbd8591ad": {
+                        "login": "chernyhjs_71lt_212022",
+                        "password": "Che#91886"
+                    },
+                    "6dcaeaac-7ab3-46af-a7a2-c99bd2a73fa9": {
+                        "login": "merkulevvi_71lt_202941",
+                        "password": "Mer#46862"
+                    },
+                    "c5c432ef-07d8-478b-be9f-06a75b7e04cd": {
+                        "login": "bojkopa_71lt_212509",
+                        "password": "Boj#40625"
+                    },
+                    "494bf972-4668-4e42-909e-65a67fb1728a": {
+                        "login": "jurevng_71lt_211829 ",
+                        "password": "Jur#89988"
+                    },
+                    "813280bd-8940-4137-94d0-2220eea06a3f": {
+                        "login": "fedorovin_71lt_212517",
+                        "password": "Fed#30865"
+                    },
+                    "34309132-3c45-4a9b-957f-d816efdd19b8": {
+                        "login": "aksenovds_71lt_212044",
+                        "password": "Aks#60370"
+                    },
+                    "946f7b74-ebc3-4f5f-8944-bef3a19425ce": {
+                        "login": "rezepovss_71lt_212631",
+                        "password": "Rez#13191"
+                    },
+                    "fc0ad557-0be2-45ce-9dd0-59f9db50113c": {
+                        "login": "samarkinsv_71lt_211733",
+                        "password": "Sam#35836"
+                    },
+                    "c059e664-1066-49bc-a5c6-bde78512c420": {
+                        "login": "ibraevas_71lt_211743",
+                        "password": "Zbr#45075"
+                    },
+                    "236cde99-92db-4b4f-93ea-eafd22861117": {
+                        "login": "tagievhh_71lt_212518",
+                        "password": "Halik@1984@"
+                    },
+                    "14a15cdf-0f3c-4326-9faa-a166d3fc6ca6": {
+                        "login": "zhigachjovea_71lt_212633",
+                        "password": "Zhi#21025"
+                    },
+                    "d3e54932-80ad-426e-9a38-b1cf35b7e4e1": {
+                        "login": "tkacheved_71lt_212636",
+                        "password": "Tka#15163"
+                    },
+                    "6f688d53-dec9-42cb-aefa-8e390a099361": {
+                        "login": "mahsudovka_71lt_211731",
+                        "password": "Mah#20633"
+                    },
+                    "bf245dd7-8142-4a45-84b2-4e8c87479c3b": {
+                        "login": "serzhantovrd_71lt_211819",
+                        "password": "Ser#36719"
+                    },
+                    "d1ca088b-0c87-46a5-8b41-34c0b9ff5a6a": {
+                        "login": "brjuhanovas_71lt_212630",
+                        "password": "Brj#10393brjuhanovas_71lt_212630"
+                    },
+                    "68381d88-ef24-4db7-89a6-1b52418d0eeb": {
+                        "login": "gadzhiragimovvh_71lt_212522 ",
+                        "password": "Gad#60694"
+                    },
+                    "49f3caec-8c83-47d7-9b78-e96fc667f72e": {
+                        "login": "kuznecovsa_71lt_212526",
+                        "password": "Kuz#64600"
+                    },
+                    "83dfd883-14aa-4b5d-ba97-cc2d3d5be75a": {
+                        "login": "chulkoves_71lt_212515",
+                        "password": "Chulkoves#28926"
+                    },
+                    "d9b1c832-7267-4e7d-85fc-eed27e8759a9": {
+                        "login": " teterinna_71lt_212506",
+                        "password": "Tet#30780"
+                    },
+                    "4448994e-ede7-44b4-9455-c0870640543b": {
+                        "login": "buldakovia_71lt_211734",
+                        "password": "Buz#41756"
+                    },
+                    "5858fc1a-b81a-4942-9e2e-8394e033b75c": {
+                        "login": "astafevana_71lt_211826",
+                        "password": "Natali_1999"
+                    },
+                    "a607bd4a-ef82-4b2e-99b5-3ce03ab3a186": {
+                        "login": "gurovas_71lt_212629",
+                        "password": "Gur#49827"
+                    },
+                    "868cd912-61f9-49f9-aef8-15a77c51f00f": {
+                        "login": "prishhepaev_71lt_212045",
+                        "password": "0P8i7u3e5t6y.,"
+                    },
+                    "f651f00b-31e5-45c4-a074-9a9efd97fce3": {
+                        "login": "anopchenkoia_71lt_211820",
+                        "password": "Ano#27592"
+                    },
+                    "1979cfd7-c420-4b39-99d5-444ed21e9c81": {
+                        "login": "banaevos_71lt_211737",
+                        "password": "Ban#57783"
+                    },
+                    "fac4143d-8c17-462a-89be-48a5927ca08b": {
+                        "login": "abashevdv_71Lt_203562",
+                        "password": "Aba#63729"
+                    },
+                    "bf8f072f-0372-4157-b8bc-cdf9af4dc2d2": {
+                        "login": "cyrenovdv_71lt_212505",
+                        "password": "Cyr#45798"
+                    },
+                    "96098889-3f3f-407a-abb3-4cc791249989": {
+                        "login": "kachangn_71lt_212507",
+                        "password": "Kac#26078"
+                    },
+                    "513a1dc1-2a17-4c37-b849-688d9a85020c": {
+                        "login": "rosljakovav_71lt_211831",
+                        "password": "Ros#38216"
+                    },
+                    "d35c7164-604c-49fb-9eb4-8d2ec408e39b": {
+                        "login": "pavlenkovs_71lt_212523",
+                        "password": "Qwerty1992qwerty."
+                    },
+                    "b1340a3c-141a-4afa-8fd5-f76c31e732d1": {
+                        "login": "bryndinms_71lt_211742",
+                        "password": "Bry#18221"
+                    },
+                    "02ff938b-3324-4208-879d-8de4cc1c5b35": {
+                        "login": "konjuhovva_71lt_212525",
+                        "password": "Anihur700."
+                    },
+                    "1398e06b-6dae-4024-bc0f-5660e2e6f968": {
+                        "login": "klopovdp_71lt_211741",
+                        "password": "Kzo#83923"
+                    },
+                    "e5db477f-999c-4885-8174-2bfe692d1bb2": {
+                        "login": "leopaae_71lt_212632",
+                        "password": "Leo#1234"
+                    },
+                    "b13ee4e4-0325-4af2-9965-895cd62be770": {
+                        "login": "suvorovaa_71lt_212634 ",
+                        "password": "Suv#43247"
+                    },
+                    "1b5ddbec-bb09-4d22-ba17-c943717dcd41": {
+                        "login": "akkermansa_71lt_203035",
+                        "password": "Sergo(23)"
+                    },
+                    "87a12192-3110-48a2-ae3d-a5641e58c14d": {
+                        "login": "nikishinnv_71lt_212516",
+                        "password": "Nik#72446"
+                    },
+                    "9acee79b-620b-4859-a87b-54761b4201f4": {
+                        "login": "kobzar_71lt_212659",
+                        "password": "Std#2602"
+                    },
+                    "8f9a7635-58e2-464d-a366-647a1350ec2e": {
+                        "login": "dubovikvv_71lt_212520",
+                        "password": "Dub#23880"
+                    },
+                    "693792c0-c499-4ab7-973c-d2b51b107387": {
+                        "login": "kocherginae_71lt_212511",
+                        "password": "Koc#44737"
+                    },
+                    "9722cdc0-fe99-4c6c-a745-4b36acf00d36": {
+                        "login": "dibrovig_71lt_212627",
+                        "password": "Dib#43275"
+                    },
+                    "a413686e-b878-44f2-8efa-a20ccc00ae14": {
+                        "login": "ananinbj_71lt_211732",
+                        "password": "Ana#80152"
+                    },
+                    "c005c573-2a91-4c70-a892-57a1b19797ac": {
+                        "login": "shometkokv_71lt_212434",
+                        "password": "Sho#82664"
+                    },
+                    "a73e5daa-3487-46a6-8db4-c2b8b5b32310": {
+                        "login": "loginovaa_71lt_212524",
+                        "password": "Log#49717"
+                    },
+                    "ba8733bf-1194-4788-b6b5-308135ab5f34": {
+                        "login": "verjbickydn_71lt_203302",
+                        "password": "verj#71LT"
+                    },
+                    "4fe1f5f2-f823-44fa-89b5-da3017ce769d": {
+                        "login": "drobindd_71lt_212512",
+                        "password": "Dro#11538"
+                    },
+                    "7380c892-f373-4961-b114-506cb4cf05d3": {
+                        "login": "shulikovde_71lt_212438",
+                        "password": "Shu#10612"
+                    },
+                    "6c86f7db-2b36-4cb8-aaf9-2a05511dce3f": {
+                        "login": "boroznovskijas_71lt_212504",
+                        "password": "Bor#39422"
+                    },
+                    "b950a966-0098-418c-902f-ace95a9b5a84": {
+                        "login": "golovkov_71lt_217301 ",
+                        "password": "Mir_vsem97"
+                    },
+                    "fa8a96aa-b80f-4a20-8753-2b17fc235022": {
+                        "login": "panteleevde_71lt_212436",
+                        "password": "Pan#1337"
+                    },
+                    "d0529d33-74d1-4328-a8f9-320220c4504a": {
+                        "login": "mitinav_71lt_211744",
+                        "password": "Tem*08125"
+                    }
+                }
+            },
+            "ЛЭ": {
+                "lessons": {
+                    "Название предмета": {}
+                },
+                "students": {
+                    "7fd5f17c-6823-4093-aa51-73f0c3cf7a11": {
+                        "login": "tonkovsm_71le_211838",
+                        "password": "Ton#37873"
+                    },
+                    "5d58590e-2d65-431a-9543-b3b24eef39c6": {
+                        "login": "cygankovjn_71le_211757",
+                        "password": "Cyg#53830"
+                    },
+                    "d0d71eeb-d8ce-462b-9b63-c183d69c3a10": {
+                        "login": "krysovae_71le_211755",
+                        "password": "Kry#39753"
+                    },
+                    "380f6759-3b9f-40c3-a4c3-db42fed78164": {
+                        "login": "guselnikovaj_71le_203323",
+                        "password": "Дв-ЛЭ-20-3323"
+                    },
+                    "b541dc72-fa17-4d7f-a002-0ea7c91b5c59": {
+                        "login": "salikovas_71le_211836",
+                        "password": "Saz#39066"
+                    },
+                    "dcca7da1-5a72-41ee-b171-bbe166a2f137": {
+                        "login": "chernovea_71le_211762 ",
+                        "password": "Che#21037"
+                    },
+                    "ca8ee330-05bd-4533-911f-44c694592559": {
+                        "login": "mergalievov_71le_202951",
+                        "password": "01957772Oleg!"
+                    },
+                    "d417fdb3-e088-4dbf-ad78-16d8331367fe": {
+                        "login": "gorbachia_71le_211834",
+                        "password": "Gor#69269"
+                    },
+                    "8f80c208-5cea-4f68-96f5-7e30afc62f75": {
+                        "login": "tiunovda_71le_211841",
+                        "password": "Wopemo_123"
+                    },
+                    "36eca741-afa5-44ff-bfa4-698f08c8fca9": {
+                        "login": "kobecvv_71le_211843",
+                        "password": "V9080644196v?"
+                    },
+                    "05f6e975-603d-4a86-b4de-9ba84fc403e6": {
+                        "login": "musajbekovak_71le_212050 ",
+                        "password": "Mus#30432"
+                    },
+                    "714d043b-b525-419d-bc8b-ac1c20520dd9": {
+                        "login": "perfilevsa_71le_211839",
+                        "password": "Per#44945"
+                    },
+                    "b819546f-067e-4d85-9beb-61ca24edf0f4": {
+                        "login": "kurijvi_71le_211761",
+                        "password": "Kur#27491"
+                    },
+                    "b4bbe54d-4e29-43be-b5ef-87337acdec61": {
+                        "login": "nichipurenkoas_71le_211842",
+                        "password": "Nic#22154"
+                    },
+                    "d0aa7cf0-8d0f-4853-a8f3-c041cc241113": {
+                        "login": "kinzerskijmj_71le_212047",
+                        "password": "Kin#46520"
+                    },
+                    "5478682b-6ed9-4dea-8836-ffc557aa7429": {
+                        "login": "grigorenkori_71le_211844",
+                        "password": "Bhhblbq_2"
+                    },
+                    "9ae3e508-4d14-4f02-9454-c447e93ed446": {
+                        "login": "tyrtyshnyhvv_71le_212690",
+                        "password": "Tyr#96932"
+                    },
+                    "98594b3b-10ff-4229-9908-50ec67b2bd8f": {
+                        "login": "Smirnovaen_71le_212532",
+                        "password": "Smi#37532"
+                    },
+                    "587a425b-9193-4cc6-a8d3-614c78452b0d": {
+                        "login": "lymarsg_71le_212535",
+                        "password": "Lym#66813"
+                    },
+                    "63adb131-380a-422e-8a5d-771f4bb15e3e": {
+                        "login": "bobrovia_71le_212442",
+                        "password": "Ilya#030712844"
+                    },
+                    "fe4c4793-99a5-47b7-934d-10b672210a35": {
+                        "login": "ivanov_71le_217338",
+                        "password": "And#33398"
+                    },
+                    "62047f4c-9490-4866-a185-4f127e41de6e": {
+                        "login": "usenkodj_71le_203344",
+                        "password": "U71le#2022"
+                    },
+                    "e484f6a3-8fb2-4cfc-bfa3-eed91ba7b1a0": {
+                        "login": "melnikovaa_71le_211756",
+                        "password": "Mez#94334"
+                    },
+                    "2150e6de-d450-4ac6-9efc-9863a6d88590": {
+                        "login": "juldashalievj_71le_212049",
+                        "password": "Juz#43621"
+                    },
+                    "721a94e2-62e8-4c0d-a465-53022b356cc1": {
+                        "login": "gradzionse_71le_212650                                                                                                                                                                                                                     ",
+                        "password": "Gra#51181"
+                    },
+                    "466bf7df-4710-40c6-9777-515cea0d2c46": {
+                        "login": "kazangakovrk_71le_211759",
+                        "password": "Kaz#49948"
+                    },
+                    "3a570daa-32a3-40da-b058-b8a0e1e2a469": {
+                        "login": "varkentinaj_71le_211763",
+                        "password": "Var#26565"
+                    },
+                    "e0e234b0-268b-4483-85ef-2b5c0e35ff46": {
+                        "login": "torbindd_71le_211760",
+                        "password": "Tor#39014"
+                    },
+                    "15418b98-e18a-4c8d-92e3-295ccdc7d5b5": {
+                        "login": "maltsev_71le_217340",
+                        "password": "Vik#33398"
+                    },
+                    "4d01baf1-d0b4-4cb0-8d7b-6dd7842e59a9": {
+                        "login": "petrovea_71le_211845",
+                        "password": "Pet#65734"
+                    },
+                    "ca63f13e-bf75-4fd7-a002-4867008db1bd": {
+                        "login": "yugov_71le_212661",
+                        "password": "41077Aleksey!"
+                    },
+                    "62069400-3296-4c73-abfc-3735c6bcf998": {
+                        "login": "arystanbekovbn_71le_212534",
+                        "password": "Ary#44541"
+                    },
+                    "06264fcc-2e88-4d80-b2e6-c86e2beaa8a3": {
+                        "login": "garmaevbd_71le_212441 ",
+                        "password": "Gar#84714"
+                    },
+                    "ea7247fc-ce1d-4e39-9f37-80f930964f27": {
+                        "login": "eroshenkorn_71le_211758",
+                        "password": "Ero#38849"
+                    },
+                    "76483947-d5bc-4252-a2c1-80bffbaa8922": {
+                        "login": "kozhevnikovdv_71le_217822",
+                        "password": "kozh#71LE"
+                    }
+                }
+            },
+            "НГ": {
+                "lessons": {
+                    "Название предмета": {}
+                },
+                "students": {
+                    "d7efe650-4c10-4c30-901c-64c3c00972c7": {
+                        "login": "najmushinaj_71ng_211716",
+                        "password": "Naj#96958"
+                    },
+                    "9e4832cf-14a7-4ccd-b712-8d95b0505ba3": {
+                        "login": "simanchevmv_71ng_211712",
+                        "password": "Ujoin205$cole"
+                    },
+                    "b3f35c9d-b348-4faa-b750-351d699c0285": {
+                        "login": "basindv_71ng_211714",
+                        "password": "PolinochkA171215!"
+                    },
+                    "f80ff5ea-98ea-49d5-aeda-648f7048f766": {
+                        "login": "chernenkoua_71ng_211721",
+                        "password": "Ylian@22"
+                    },
+                    "5cd32efc-2486-4cfc-802b-cfdca1074314": {
+                        "login": "alekseevas_71ng_212424",
+                        "password": "Aze#33360"
+                    },
+                    "a05ff182-1eaf-4153-9f32-e2ee3a80ab5d": {
+                        "login": "gubinai_71ng_212016",
+                        "password": "Risovach12#"
+                    },
+                    "22345e9c-f1ec-47d7-82aa-e64522dc4794": {
+                        "login": "jesenovada_71ng_211710",
+                        "password": "Jes#93314"
+                    },
+                    "c2560e8b-3663-46d0-93c3-104f1564c2a6": {
+                        "login": "pansa_71ng_211709",
+                        "password": "Pan#43363"
+                    }
+                }
+            },
+            "ОД": {
+                "lessons": {
+                    "Название предмета": {}
+                },
+                "students": {
+                    "f98a4f0a-e71c-4f14-b0d0-6ddda16d6053": {
+                        "login": "shuklinatv_71od_212563",
+                        "password": "Shu#19154"
+                    },
+                    "13b28308-ecef-43a7-ba5b-62502bc625cf": {
+                        "login": "jushkovang_71od_212673",
+                        "password": "Jus#51739"
+                    },
+                    "ab387e4e-b0dc-4b5a-855c-b2dc3a59c8d3": {
+                        "login": "maksimovaps_71od_212454",
+                        "password": "Mak#40967"
+                    }
+                }
+            },
+            "ПВ": {
+                "lessons": {
+                    "Теоретическая механика-2": {
+                        "Итоговый тест по динамике": "https://dot.omgups.ru/mod/quiz/view.php?id=83748"
+                    },
+                    "Правовое обеспечение": {
+                        "Промежуточная аттестация": "https://dot.omgups.ru/mod/quiz/view.php?id=82148"
+                    },
+                    "ПСЖД (ГВ, ПВ)": {
+                        "Тест": "https://dot.omgups.ru/mod/quiz/view.php?id=83571"
+                    }
+                },
+                "students": {
+                    "29a0601d-a8fc-4a6b-9767-b354d43456e5": {
+                        "login": "baninsv_71pv_202943",
+                        "password": "Ban#56187"
+                    },
+                    "149a7cb8-125e-40b2-bf45-57daac1104ab": {
+                        "login": "hrjakovae_71pv_212645",
+                        "password": "Hrj#38696"
+                    },
+                    "01c27b17-c850-4bd6-9e37-b40987531678": {
+                        "login": " shauhalovga_71pv_211745",
+                        "password": "Sha#79203"
+                    },
+                    "ec373c10-7edd-45e4-a44b-3799bb74b3b4": {
+                        "login": "ermakovss_71pv_211746",
+                        "password": "Erm#20285"
+                    },
+                    "c91d518e-1a90-4fd0-8191-189292eb2c02": {
+                        "login": "kabanenvv_71pv_211832",
+                        "password": "Kab#26935"
+                    },
+                    "92dccf72-3b7e-427f-9a64-527dc38cab15": {
+                        "login": "shalamovka_71pv_211833 ",
+                        "password": "Sha#40852"
+                    },
+                    "47fae1f9-a1b9-4ea7-8ec1-d9ba14446c32": {
+                        "login": "zaporozhecea_71pv_212643",
+                        "password": "hytho3-tywqer-favvEt"
+                    },
+                    "71c71ec4-e7b9-47bd-85f8-f68d0b311ca3": {
+                        "login": "gorbatovaav_71pv_217629",
+                        "password": "gorbat#71PV"
+                    },
+                    "2178deaa-1cd9-4c8c-b522-dd7e7a82ddbe": {
+                        "login": "trunovme_71pv_212528",
+                        "password": "Tru#23323"
+                    },
+                    "c9955548-7aa8-4f9d-9b02-c0fbe149b4a9": {
+                        "login": "skvorcovasl_71pv_212529",
+                        "password": "Lana$1988"
+                    }
+                }
+            },
+            "ПТ": {
+                "lessons": {
+                    "Название предмета": {}
+                },
+                "students": {
+                    "3db7d752-8e5c-4586-a494-8797d4ea0ebf": {
+                        "login": "jusupovav_71pt_212038",
+                        "password": "Jus#46248"
+                    },
+                    "1450a7e4-6f04-431f-89bf-c56690baa199": {
+                        "login": "sulzhenkova_71pt_211720",
+                        "password": "Suz#349087"
+                    },
+                    "33e5495e-de64-4b5c-a534-5d440c6b5a81": {
+                        "login": "kushenovajh_71pt_212423",
+                        "password": "Kus#90311"
+                    },
+                    "f2bec42c-5802-439d-9c43-262f5b7dd5fc": {
+                        "login": "bykovad_71pt_211705",
+                        "password": "Byk#29297"
+                    },
+                    "d8b3df9b-3864-4d36-8642-bbd2afbdd92d": {
+                        "login": " drozhzhinavk_71pt_211699",
+                        "password": "Dro#89395"
+                    },
+                    "5a9e1749-b130-4f0f-a991-1665b50985ea": {
+                        "login": "belyjsv_71pt_202902",
+                        "password": "SB#1705p2000"
+                    },
+                    "b3a840d6-d9fb-4d70-933c-398c4a96ac7b": {
+                        "login": "chistjakovma_71pt_211701 ",
+                        "password": "Chi#59310"
+                    },
+                    "0b694b62-f5a1-4804-8c4e-b504f49e88ce": {
+                        "login": "kuznecovaas_71pt_211698",
+                        "password": "Gavrilova01!"
+                    },
+                    "4f8f036c-5dee-4ca4-8697-e3482689395e": {
+                        "login": "samojlovaa_71pt_202896",
+                        "password": "Sam#41683"
+                    },
+                    "d82cb684-5687-445d-965c-71715f5c1b0f": {
+                        "login": "zemcovsa_71pt_202903",
+                        "password": "Zem#11312"
+                    },
+                    "0480ffec-5eb1-4ceb-a49f-658ef96389e2": {
+                        "login": "nesterenkonv_71pt_211697",
+                        "password": "Nes#17432"
+                    }
+                }
+            },
+            "РС": {
+                "lessons": {
+                    "ТОАТ (СП, РС)": {
+                        "Тест": "https://dot.omgups.ru/mod/quiz/view.php?id=87130"
+                    }
+                },
+                "students": {
+                    "cd4d56e8-31cb-43c6-bc88-c04f0ae385e3": {
+                        "login": "prohorenkovvk_71rs_212539",
+                        "password": "Pro#58560"
+                    },
+                    "7afc0eea-1cd0-4690-8761-e9d5c9891219": {
+                        "login": "nefjodovro_71rs_211775",
+                        "password": "Nef#59884"
+                    },
+                    "87203026-89a5-46f6-a139-65bfdff72958": {
+                        "login": "pavljukevichlb_71rs_212445",
+                        "password": "03111997Lb!"
+                    },
+                    "96635dcc-2a5a-45b3-8421-e15186169937": {
+                        "login": "ishhenkoea_71rs_211778",
+                        "password": "Zsh#42885"
+                    },
+                    "c7e144fe-cf72-4996-985a-f7fd2b990ae8": {
+                        "login": "aushahmanovasa_71rs_211774",
+                        "password": "Aus#82340"
+                    },
+                    "71b12120-13b6-464b-a67e-80f727854ce4": {
+                        "login": "kljuchnikovdi_71rs_211870",
+                        "password": "Qwerty123&"
+                    },
+                    "e57683c2-7cf6-44ab-91f1-282d2c9f6859": {
+                        "login": "novikovava_71rs_211779",
+                        "password": "Nov#95961"
+                    },
+                    "6e2e09e1-bdb6-4ad5-a88d-19cbe6cb7955": {
+                        "login": "mukanovms_71rs_211777",
+                        "password": "Muk#36748"
+                    },
+                    "ebbb78da-7353-4208-ba16-c79f6eab84bb": {
+                        "login": "zhunusovme_71rs_211776",
+                        "password": "Zhu#53656"
+                    }
+                }
+            },
+            "СП": {
+                "lessons": {
+                    "Название предмета": {}
+                },
+                "students": {
+                    "2af6a5e0-4941-4f82-8745-59954bfd1f5e": {
+                        "login": "filipenkoas_71sp_211874",
+                        "password": "Novos8b8rsk@2021"
+                    },
+                    "9fc7bddd-f844-4878-9428-a726764a8b62": {
+                        "login": "shokarevds_71sp_211781 ",
+                        "password": "Sho#56620"
+                    },
+                    "cdde3b5c-3abf-422b-877b-c20c40bb97b3": {
+                        "login": "shekovamm_71sp_211788 ",
+                        "password": "Li15%qm#"
+                    },
+                    "7b144e63-1ca7-4f94-a216-f3081ef660c9": {
+                        "login": "tolstobrovnn_71sp_211872",
+                        "password": "Qwerty9899!"
+                    },
+                    "d24b0d36-6941-4e90-88fb-07ee0aec602d": {
+                        "login": "zhbanovaan_71sp_211873",
+                        "password": "2849168Anj!"
+                    },
+                    "019a529c-0448-438d-ac5b-33ef67ab9134": {
+                        "login": "hrushhjovda_71sp_211871",
+                        "password": "Hru#60355"
+                    },
+                    "ee7a7289-83dc-4ba7-be8c-c62fdeff3d3b": {
+                        "login": "moshinskijdv_71sp_211782",
+                        "password": "Yadiman666$"
+                    },
+                    "6bc7581a-3610-4554-a0b5-3510c3e9f0d0": {
+                        "login": "useinovazk_71sp_211783",
+                        "password": "Kogqe7-sowbap-pepryp"
+                    }
+                }
+            },
+            "СЭ": {
+                "lessons": {
+                    "Культурология": {
+                        "Итоговое тестирование": "https://dot.omgups.ru/mod/quiz/view.php?id=84254"
+                    }
+                },
+                "students": {
+                    "7a0cf722-747b-4da3-9bae-da678ef96a7f": {
+                        "login": "morozovav_71se_211797",
+                        "password": "Mor#72921"
+                    },
+                    "0a74db3a-2b37-47a4-989d-109b57f86619": {
+                        "login": "suhovojan_71se_212446",
+                        "password": "Andrei#920218"
+                    },
+                    "9fa6e87b-05b5-4220-a702-201bdb51f68e": {
+                        "login": "sapelkinds_71se_212542 ",
+                        "password": "Sap#73785"
+                    },
+                    "02226a87-51f1-4282-8542-faee9490693a": {
+                        "login": "trushinin_71se_211803",
+                        "password": "Tru#14902"
+                    },
+                    "b25dfec0-46cd-42c9-a43b-77a700d53eed": {
+                        "login": "kugaevskijvv_71se_211806",
+                        "password": "Kuga1989@"
+                    },
+                    "02c8adac-da54-413f-8ba1-ada46c855ffc": {
+                        "login": "borisecve_71se_212028",
+                        "password": "Bor#16710"
+                    },
+                    "da7c96e7-decc-4960-bf42-4d3fb19a4ea3": {
+                        "login": "djuzhenkoai_71se_212570",
+                        "password": "21295#Dalena"
+                    },
+                    "bf758f74-f82b-4156-ab95-04b45a2062fb": {
+                        "login": "bushinage_71se_211792 ",
+                        "password": "Bus#49952"
+                    },
+                    "690204ae-e0ee-4b75-97f8-104f271bfc02": {
+                        "login": "tilmanvi_71se_211796  ",
+                        "password": "T71se#22"
+                    },
+                    "2c6f1e93-babf-4afd-842c-36d80ac4fabb": {
+                        "login": "shenfeld_71se_217648",
+                        "password": "Dmi#2148"
+                    },
+                    "d5b1bd02-89f0-4c7e-917b-ab771a409835": {
+                        "login": "zjatkovjg_71se_211879",
+                        "password": "Zja#72789"
+                    },
+                    "77f83ad3-6aa2-4408-8a51-0174e3a0cefd": {
+                        "login": "sjomochkinaae_71se_211800",
+                        "password": "Sjo#68758"
+                    },
+                    "3288aee4-1f08-4021-b2ff-7d1a278b8afc": {
+                        "login": "kulgejkoej_71se_211802",
+                        "password": "Kuz#31136"
+                    },
+                    "486babeb-bb97-4e15-b36f-b29cf9ad0476": {
+                        "login": "kuznecovkv_71se_211798 ",
+                        "password": "Kuz#82710"
+                    },
+                    "10e59a85-1ae9-4d29-8431-0928a2dcb995": {
+                        "login": "sapindn_71se_211794    ",
+                        "password": "Sap#88660"
+                    }
+                }
+            },
+            "ТБ": {
+                "lessons": {
+                    "Философия": {
+                        "Экзаменационное тестирование": "https://dot.omgups.ru/mod/quiz/view.php?id=82289"
+                    },
+                    "Психология": {
+                        "Итоговый тест": "https://dot.omgups.ru/mod/quiz/view.php?id=84009"
+                    }
+                },
+                "students": {
+                    "6b67dcd9-38a1-46e8-a485-c3f3cb188438": {
+                        "login": "lymarnl_71tb_212488",
+                        "password": "Lym#70547"
+                    },
+                    "4f55cad8-5461-4f6e-a4b2-eb49d3ddc5b3": {
+                        "login": "kropachevava_71tb_212483",
+                        "password": "Kro#70018"
+                    },
+                    "0f5fae33-d8a6-456a-8ac8-115f9ba838c2": {
+                        "login": "popovis_71tb_212481",
+                        "password": "Pop#33623"
+                    },
+                    "fc09c8c7-6da1-4a3d-9edd-54aa6e50ca7a": {
+                        "login": "neljubovapd_71tb_212478",
+                        "password": "Polina-28"
+                    },
+                    "d18d5e8e-d57d-48a2-a390-b0b4ade40438": {
+                        "login": "ventea_71tb_212487",
+                        "password": "Vent*0406623"
+                    },
+                    "5fc42fdc-a6df-4a46-8ceb-bae2cade0d63": {
+                        "login": "smirnovda_71tb_212426 ",
+                        "password": "Smi#88283"
+                    },
+                    "55aec45e-0ce6-4966-a420-2c8cb9827d62": {
+                        "login": "burlakov_71tb_212654 ",
+                        "password": "Muka1995!"
+                    },
+                    "fed768e4-ca86-4c0c-9e29-f77e134cd333": {
+                        "login": "buzovia_71tb_212603",
+                        "password": "Buz#57304"
+                    },
+                    "1bc74db2-55db-49d0-9de8-b7eba5279a7d": {
+                        "login": "korjukinsa_71tb_212485",
+                        "password": "#Koryukin26"
+                    },
+                    "f3e58e64-c47e-4d11-85ec-1d21eb0a23e7": {
+                        "login": "zinchenkoja_71tb_212598",
+                        "password": "Zin-19091998"
+                    },
+                    "3be203cd-23f8-44ed-b6b8-06bedf8d95ea": {
+                        "login": "arhipenkovv_71tb_212484",
+                        "password": "Arh#51035"
+                    },
+                    "9cbf375f-8c72-4509-84d6-cc62bca5240b": {
+                        "login": "kozlovss_71tb_212490",
+                        "password": "Koz#46452"
+                    },
+                    "628a3f99-b9b8-47a5-a839-89b7628bb051": {
+                        "login": "musineh_71tb_212602",
+                        "password": "Mus#20890"
+                    },
+                    "eb2dd827-28b0-4b19-b23d-768e7dfb9c13": {
+                        "login": "vajmeraa_71tb_212019 ",
+                        "password": "Vaj#59408"
+                    },
+                    "a294c442-6fea-45b7-8702-6e9e6634bd4f": {
+                        "login": "ayvaseda_71tb_217422",
+                        "password": "TA666666ta+"
+                    },
+                    "e5266aff-7f2d-4e34-bebe-0b892d03770e": {
+                        "login": "efimenko_71tb_90480 ",
+                        "password": "Yum#7332"
+                    },
+                    "58ec4988-3834-4633-871b-99424be5dddd": {
+                        "login": "sidorovada_71tb_212479",
+                        "password": "Sid#69064"
+                    },
+                    "82d8c5e4-4001-46e8-99c2-04f97c6b66f0": {
+                        "login": "nemirskisv_71tb_217503",
+                        "password": "nemir#71TB"
+                    },
+                    "f74161a8-f1ff-4ba4-971f-2562865e4728": {
+                        "login": "petrovja_71tb_212018",
+                        "password": "Pet#81179"
+                    },
+                    "ee4926bf-4e1b-44d6-be28-95bbff5e3a3c": {
+                        "login": "kravchikbv_71tb_212489",
+                        "password": "Kra8chi0110."
+                    },
+                    "95916c8a-6211-49b4-9d41-78a808d603ba": {
+                        "login": "pavlovas_71tb_212595",
+                        "password": "Pav#68590"
+                    },
+                    "e5263b4e-e27f-49e3-98b5-aaa547b05c19": {
+                        "login": "pinisovaja_71tb_212428 ",
+                        "password": "Pin#77688"
+                    },
+                    "472f649c-1e18-46d1-9bfa-17f47dbd87b8": {
+                        "login": "efremovkn_71tb_212482 ",
+                        "password": "Efr#94582"
+                    },
+                    "b1903b68-4be6-42a7-8920-aa3371abc434": {
+                        "login": "kravchikvv_71tb_212607 ",
+                        "password": "Tiktaalik939393!!!"
+                    },
+                    "cba91807-c1d7-48f7-b1a7-5eea63ca6cde": {
+                        "login": "raskulinaak_71tb_212480",
+                        "password": "Ras#39320"
+                    }
+                }
+            },
+            "ТД": {
+                "lessons": {
+                    "Название предмета": {}
+                },
+                "students": {
+                    "f0c47cb1-25b3-4220-9030-5e0f01dbd0f7": {
+                        "login": " tarkinaea_71td_212547",
+                        "password": "Tar#89529"
+                    },
+                    "931b6e45-626d-4591-9ee4-b17c5463ee2d": {
+                        "login": "ledenevka_71td_212661",
+                        "password": "Led#19802"
+                    },
+                    "194d4a55-ec34-4554-8916-1919307d0d93": {
+                        "login": " roglovskajaka_71td_212054",
+                        "password": "020313212731aA."
+                    }
+                }
+            },
+            "ТЛ": {
+                "lessons": {
+                    "Название предмета": {}
+                },
+                "students": {
+                    "96af4e37-0cb3-4e0f-9cc1-95f8f4476d95": {
+                        "login": "davydenkoai_71tl_212615",
+                        "password": "12qwaszx2308Саша#"
+                    },
+                    "aabdb625-44e7-49cc-b7c7-58fce74af68e": {
+                        "login": "tajlakoviv_71tl_217604",
+                        "password": "tajla#71TL"
+                    },
+                    "2336eb7e-227d-4a5e-b397-005e4d2f17cc": {
+                        "login": " shakirzjanovrr_71tl_212612",
+                        "password": "Sha#61501"
+                    },
+                    "9797a46e-aabb-4391-9ca1-51c59499b964": {
+                        "login": "krivokorytovaav_71tl_212493",
+                        "password": "Agaheta2405)"
+                    },
+                    "38897f6a-5931-453a-8e8f-17ef1e8faac7": {
+                        "login": "lonshakovvs_71tl_212614",
+                        "password": "Lon#51877"
+                    },
+                    "529b62aa-e525-43fd-9e71-f09ad8b8e02a": {
+                        "login": "koltunovadm_71tl_212610",
+                        "password": "Koz#16622"
+                    },
+                    "61b46e21-1f27-4eaa-af7b-1f79dd90720e": {
+                        "login": "nekrasovaaa_71tl_217395",
+                        "password": "Naa71tl#2022"
+                    }
+                }
+            },
+            "ТМ": {
+                "lessons": {
+                    "Название предмета": {}
+                },
+                "students": {
+                    "cb19cfb9-44e4-4ffc-b04c-81993d25b890": {
+                        "login": "kuznecovav_71tm_211688",
+                        "password": "Kuz#72224"
+                    },
+                    "68c0b9ad-e11b-45e3-a7b4-f3ee24e5caeb": {
+                        "login": "perevozchikovaeb_71tm_211719",
+                        "password": "Per#80229"
+                    },
+                    "ec7de701-ba7c-44a3-9b6b-22930553ddb0": {
+                        "login": "nikonovve_71tm_211694",
+                        "password": "Nl_rot1944"
+                    },
+                    "e637c5e8-56c5-4295-b91d-09a29a889d88": {
+                        "login": "blinovia_71tm_211695",
+                        "password": "Bzi#65997"
+                    },
+                    "2818861d-ea2e-41a3-932e-8a5fd19a47d8": {
+                        "login": "larionovse_71tm_211691",
+                        "password": "Lar#88028"
+                    },
+                    "267bfe9a-eefe-4547-8cd4-9625be87dfc0": {
+                        "login": "nosovaa_71tm_211689",
+                        "password": "Nos#91827"
+                    }
+                }
+            },
+            "ТР": {
+                "lessons": {
+                    "Название предмета": {}
+                },
+                "students": {
+                    "6c7fc469-7231-4ac3-bd89-1abafeff19b1": {
+                        "login": "kulikovav_71tr_211750",
+                        "password": "Kuz#41053"
+                    },
+                    "7cfc7a26-c333-4fd3-bce7-53d062c09050": {
+                        "login": "erofeevasa_71tr_212646",
+                        "password": "Ero#41829"
+                    },
+                    "1eb66c3d-f716-4927-a587-aa5f6c839063": {
+                        "login": "nasalenkoos_71tr_211752",
+                        "password": "Nas#77665"
+                    },
+                    "b73b5fc7-009e-4a43-bee4-3a7740f5098f": {
+                        "login": "poljanskihov_71tr_211753",
+                        "password": "Poz#54088"
+                    },
+                    "9e8579f4-8035-44b1-8efe-1cf92acf0713": {
+                        "login": "romanovaa_71tr_212023",
+                        "password": "Rom#89113"
+                    },
+                    "9caba331-42cb-4b66-9f95-7bbad0ec2b5f": {
+                        "login": " voronovia_71tr_212530",
+                        "password": "Vor#52741"
+                    },
+                    "e2f3b693-83c8-4548-8ccc-405261d9bba6": {
+                        "login": "seliverstovms_71tr_212024",
+                        "password": "Sez#72851"
+                    },
+                    "727d3b59-46e4-4333-a5bb-b6f39b9232cb": {
+                        "login": "gluzdovavv_71tr_212439",
+                        "password": "Gzu#45396"
+                    },
+                    "96ad6a72-6876-40ad-9320-485910d9839d": {
+                        "login": "lodjaginaas_71tr_212531",
+                        "password": "Lod#43087"
+                    },
+                    "6feb38dd-27b7-47de-835d-e13df23100ed": {
+                        "login": "manakovda_71tr_211749",
+                        "password": "Man#29974"
+                    },
+                    "a6fd4800-83e2-4c67-a7d0-43415263178e": {
+                        "login": "krikunnv_71tr_211751",
+                        "password": "Kri#52258"
+                    }
+                }
+            }
+        },
+        "Семестр 5 — копия": {
+            "АТ": {
+                "lessons": {
+                    "Название предмета": {}
+                },
+                "students": {
+                    "96cd6b7c-a007-4b20-8d15-88c3f72abaf3": {
+                        "login": "malcevap_71at_211851 ",
+                        "password": "Maz#16479"
+                    },
+                    "0d9ca32f-83ab-4415-8976-f9343737b816": {
+                        "login": " toropkinda_71at_211866  ",
+                        "password": "Tor#43931"
+                    },
+                    "83fd078b-e266-405e-8c0f-ce144885d638": {
+                        "login": "cvenkinbergaa_71at_211773 ",
+                        "password": "Cve#16053"
+                    },
+                    "f350b41c-6683-49da-98b2-463a4e73e731": {
+                        "login": "mahsotovazz_71at_211765 ",
+                        "password": "Zhanna.makhsotova2001"
+                    },
+                    "03bd4bb5-9605-4526-956e-00fbc0f19686": {
+                        "login": "zaljotovmj_71at_211852",
+                        "password": " Zaz#37944"
+                    },
+                    "dddb7dc5-8465-450f-a073-9e5aeb719b8a": {
+                        "login": "myrksinvs_71at_202960  ",
+                        "password": "Myr#61852"
+                    },
+                    "2c704f06-9394-4bd6-9369-5a7566a483c9": {
+                        "login": "spicyndj_71at_211858 ",
+                        "password": "Messi12614-"
+                    },
+                    "e84a41b8-bfda-4f03-a5fc-a587d8ff46cd": {
+                        "login": "kirienkosv_71at_211868 ",
+                        "password": "Kir#37158"
+                    },
+                    "a30554ec-16bc-48ea-a43f-d5a19293bedc": {
+                        "login": "Ushakovjs_71at_212568",
+                        "password": "Ush#66892"
+                    },
+                    "88d19d6a-de40-4d1d-a577-c6ec500dfcce": {
+                        "login": "shumilovav_71at_211864 ",
+                        "password": "Shu#16709"
+                    },
+                    "10b96abd-db0b-4d94-94e5-42fc22cb70b8": {
+                        "login": " mardoviniv_71at_211850",
+                        "password": "<061099Bk>"
+                    },
+                    "ff95fdd1-c4ac-43a2-916c-862d548d331a": {
+                        "login": "shhennikovan_71at_211867 ",
+                        "password": "Shh#18044"
+                    },
+                    "7792b19e-83d3-4a5e-97fc-5f32966c1c02": {
+                        "login": " jacevichmi_71at_202964",
+                        "password": "Jac#13919"
+                    },
+                    "becad509-87a6-42c7-9316-c665e8787bbe": {
+                        "login": "tarasovkv_71at_211766 ",
+                        "password": "Tar#35998"
+                    },
+                    "b20b7c96-3a50-4bf8-858f-758672c50737": {
+                        "login": "kruchininev_71at_211862",
+                        "password": "19.Ewgen.79"
+                    },
+                    "ec032f02-1259-4819-88e6-c5efadfc7447": {
+                        "login": " ljaminav_71at_211854 ",
+                        "password": "11Sentyabrya2011."
+                    },
+                    "ba282fe9-a860-4635-9856-b744e6136815": {
+                        "login": "surkovdv_71at_212538  ",
+                        "password": "Sur#17616"
+                    },
+                    "d0ffc9a7-5fc3-44c3-8da8-df05552163ec": {
+                        "login": " babuhdg_71at_211855 ",
+                        "password": "Bab#69165"
+                    },
+                    "d9f4d241-f682-4b1d-9b47-5cf5cfb54c4a": {
+                        "login": "shanginaaa_71at_211771 ",
+                        "password": "Anastasia1@"
+                    },
+                    "97ec9577-4e83-4ff0-ab81-da6f57b72578": {
+                        "login": "kalininai_71at_211772 ",
+                        "password": "Kaz#34762"
+                    },
+                    "22df2e7c-3219-4e26-8fc6-075c3a4b439f": {
+                        "login": "popoven_71at_202971",
+                        "password": "Evg#7523"
+                    },
+                    "1cbd1f98-4da3-41d1-a8f5-6ff637acf931": {
+                        "login": "gricajnv_71at_211861",
+                        "password": "Gri#92432"
+                    },
+                    "12593194-b0e4-4cad-84cf-5c67cd3fa4fe": {
+                        "login": "rusinaia_71at_211869",
+                        "password": "Rus#14386"
+                    },
+                    "537024c0-d580-4be6-962a-d40397bc7d1e": {
+                        "login": "avhimovichtv_71at_211860",
+                        "password": "Avh#27642"
+                    },
+                    "4bc0f51b-2085-4cab-a486-bbb5fbde518a": {
+                        "login": "nosovku_71at_202963",
+                        "password": "nos#71AT"
+                    },
+                    "33df202f-76e9-4ddb-a042-1de44e65d065": {
+                        "login": "belovvi_71at_211770 ",
+                        "password": "Bez#23332"
+                    },
+                    "2d44dde3-5b24-40c1-93bd-7e86db9c4ae9": {
+                        "login": "mukanovtb_71at_202961 ",
+                        "password": "Uchiha_madara787898"
+                    },
+                    "ff3b2b0a-e1f1-4919-9bb2-ca4bb6439a03": {
+                        "login": "kaminskijmm_71at_211769",
+                        "password": "Kam#86098"
+                    },
+                    "d4c31c40-0d42-4a02-a8b2-bc45e6b82771": {
+                        "login": "korotkovas_71at_212443 ",
+                        "password": "Kor#46515"
+                    },
+                    "13f84844-f57c-4400-a261-6df6480d6e7f": {
+                        "login": "sharafutdinovrr_71at_211853",
+                        "password": "Sha#70569"
+                    },
+                    "d2d2c679-19bb-4a55-b99d-8e16666b1680": {
+                        "login": "sosnitskijgv_71at_211768",
+                        "password": "Sos#77033"
+                    },
+                    "7093a9ad-b230-4c5a-b964-3b3ed0002c40": {
+                        "login": "krendjasovav_71at_211859",
+                        "password": "Nastya2805!"
+                    },
+                    "4a3b1fb1-41bb-4eb1-af6f-385e4f9fef4c": {
+                        "login": "sholmovatb_71at_211856 ",
+                        "password": "Sho#42728"
+                    },
+                    "95fde3ea-e884-4ded-a9d9-2724df7a368e": {
+                        "login": "naumovev_71at_211849",
+                        "password": "Nau#45072"
+                    },
+                    "0e05822c-5172-467c-b973-137f70c8dbc8": {
+                        "login": "tumarav_71at_203614",
+                        "password": "Tum#42833 "
+                    }
+                }
+            },
+            "ГВ": {
+                "lessons": {
+                    "ПСЖД (ГВ, ПВ)": {
+                        "Тест": "https://dot.omgups.ru/mod/quiz/view.php?id=83566"
+                    },
+                    "Правовое обеспечение": {
+                        "Промежуточная аттестация": "https://dot.omgups.ru/mod/quiz/view.php?id=82102"
+                    },
+                    "Теоретическая механика-2": {
+                        "Итоговый тест по динамике": "https://dot.omgups.ru/mod/quiz/view.php?id=83740"
+                    }
+                },
+                "students": {
+                    "01c5bd81-abd2-4583-acc4-21074cad5427": {
+                        "login": "petrachukae_71gv_212076",
+                        "password": "Pet#93961"
+                    },
+                    "ff710d3f-111c-498d-9822-feef41717fd2": {
+                        "login": "strelcovnv_71gv_211724",
+                        "password": "Str#68104"
+                    },
+                    "5ba913a4-7231-432b-af0c-2b2aee80fa24": {
+                        "login": "proshhalyginaep_71gv_211729",
+                        "password": "Pro#15607"
+                    },
+                    "5638a6bc-2177-4a0f-852a-53b87b82409f": {
+                        "login": "kochetkovvi_71gv_211814 ",
+                        "password": "Koc#35450"
+                    },
+                    "43c7eb37-83f0-4415-b765-2d37760b4f5f": {
+                        "login": "kudrjavcever_71gv_211816",
+                        "password": "Kud#35454"
+                    },
+                    "38dce628-5246-41fa-a5af-971a70019a35": {
+                        "login": "silevaan_71gv_217658",
+                        "password": "silev#71GV"
+                    },
+                    "7ec8911d-a8aa-49e2-b000-1d5bec54b4c8": {
+                        "login": "nigorodov_71gv_217660",
+                        "password": "Ser#5566"
+                    },
+                    "f91585bf-a1aa-4677-9950-1cd6c2ce6c9b": {
+                        "login": "afanasevan_71gv_211727",
+                        "password": "Afa#56300"
+                    },
+                    "745c7f87-6de9-4d35-80ff-79761ea6a47f": {
+                        "login": "shelepoviv_71gv_211812",
+                        "password": "She#25544"
+                    },
+                    "4d8c7b00-9af9-4b0a-858d-43ab3d38a2a8": {
+                        "login": "sheludkonv_71gv_211810",
+                        "password": "mama6198Mama+"
+                    },
+                    "ba832c94-9648-44c6-9f2a-4ab6bbb45b90": {
+                        "login": "shaporevasa_71gv_211813",
+                        "password": "Sha#67675"
+                    },
+                    "ce6303e1-a4f0-4006-bee3-b5695b28e34c": {
+                        "login": "kirgincevaam_71gv_211730",
+                        "password": "Kir#43253"
+                    },
+                    "908dc7f3-c77e-46d2-9654-94c415c9c744": {
+                        "login": "kushnarenkotn_71gv_212501",
+                        "password": "Kus#81333"
+                    },
+                    "3ae1aad4-9880-4513-bf31-1395d635f7cb": {
+                        "login": "chikishevavv_71gv_211722",
+                        "password": "Chi#17162"
+                    },
+                    "a0247346-5ff2-43ad-b80a-caf26696c416": {
+                        "login": "fedorjakinva_71gv_212621",
+                        "password": "Vimpel199622APX*"
+                    },
+                    "f2e72a65-88b6-45dd-bae9-6304fcc7657d": {
+                        "login": "belousovskijjm_71gv_211725",
+                        "password": "Bez#81203"
+                    },
+                    "1156b6c8-21c5-4f2d-ac24-165c76bfc2e3": {
+                        "login": "voropaevaan_71gv_211726 ",
+                        "password": "Vor#73171"
+                    },
+                    "3a7ace14-70d3-4eb3-a97a-c0d375badeec": {
+                        "login": "popovmv_71gv_212041",
+                        "password": "Pop#19299"
+                    },
+                    "e01e48fa-f86f-4aa5-8c18-30d0421b0f51": {
+                        "login": "pavlovda_71gv_212498",
+                        "password": "Pav#27138"
+                    },
+                    "550b0594-b01e-475a-9655-d0128f333a0e": {
+                        "login": "afonichkinsn_71gv_212519",
+                        "password": "Sergey.26081972"
+                    },
+                    "cbbd1011-d347-4737-8d1a-bf65e1917ec6": {
+                        "login": "nazarchenkoss_71gv_212432",
+                        "password": "Naz#94660"
+                    },
+                    "9627a648-c2fb-4e57-b8e2-1d5246753efb": {
+                        "login": "novikovei_71gv_212020",
+                        "password": "Nov#26552"
+                    },
+                    "7cf7f2ab-9b3b-42c1-8c40-3ca1d2b9014e": {
+                        "login": "ishaevia_71gv_211811",
+                        "password": "Zsh#58225"
+                    },
+                    "91208471-be47-4fb0-a520-19725e608d4c": {
+                        "login": "opekunovea_71gv_211815",
+                        "password": "Ope#25395"
+                    },
+                    "07d3296d-1ca3-4ed5-9be5-2380a6f4bf7f": {
+                        "login": "bardindb_71gv_211809",
+                        "password": "Den051012."
+                    },
+                    "f6c2031d-543e-4aa4-8054-bb997f251c4a": {
+                        "login": "halistovsi_71gv_211723",
+                        "password": "Haz#82124"
+                    },
+                    "64813d14-2999-48da-8215-e5518fd170fe": {
+                        "login": "pashkovao_71gv_212623",
+                        "password": "Sasha1998s!"
+                    },
+                    "c519fbc7-46b5-4c98-8471-0a583870009a": {
+                        "login": "hritankov_71gv_7416",
+                        "password": "Vka#4556"
+                    },
+                    "3890ca58-6fd8-4178-8b97-96f5f1376dd2": {
+                        "login": "bakshaeviv_71gv2_203429",
+                        "password": "Biv71gv2_203429"
+                    },
+                    "49c3f09c-ceab-4d23-a72d-229395dbf819": {
+                        "login": "sinicyndv_71gv_212619 ",
+                        "password": "Sin#98857"
+                    },
+                    "c115f919-f0ed-420d-8792-14c1ce432dae": {
+                        "login": "rozhinskijss_71gv_212620  ",
+                        "password": "Roz#34161"
+                    },
+                    "40e9454b-6ff9-4411-93c3-c82d790b8fb2": {
+                        "login": "nedjakindv_71gv_212433",
+                        "password": "Ned#74613"
+                    },
+                    "d93173c7-ea2a-43a1-9279-ae9a28411aed": {
+                        "login": "gokinaaa_71gv_211728",
+                        "password": "468a56vAida."
+                    },
+                    "4b0d494c-059b-4ac8-93e6-33eb5c27a928": {
+                        "login": "gaag_71gv_217731",
+                        "password": "Ace#7996"
+                    },
+                    "6f02b523-a9e1-49bb-a646-81d034c85303": {
+                        "login": "proshhalyginaep_71gv_211729",
+                        "password": "Pro#15607"
+                    },
+                    "e4eb8274-87be-453f-ae06-e0517dc3a509": {
+                        "login": "petrachukae_71gv_212076",
+                        "password": "Pet#93961"
+                    }
+                }
+            },
+            "ИМ": {
+                "lessons": {
+                    "Название предмета": {}
+                },
+                "students": {
+                    "2d8a9983-ced4-4b37-bc60-f699905cf0ab": {
+                        "login": "suvorovaoa_71im_212577",
+                        "password": "Suv#98336"
+                    },
+                    "29f3c991-1a24-4ae5-8e83-da09be6bac60": {
+                        "login": "pustovalovsg_71im_21257",
+                        "password": "ju$96Vdng1"
+                    },
+                    "5c466a53-ecef-4d23-99b9-9321e2652096": {
+                        "login": "pustovalovalv_71im_212575",
+                        "password": "661873qwASzx."
+                    }
+                }
+            },
+            "ИП": {
+                "lessons": {
+                    "Название предмета": {}
+                },
+                "students": {
+                    "6bf9c46e-26c1-45f2-a391-3b6ccd0bd1a1": {
+                        "login": "mikushinsa_71ip_202872",
+                        "password": "Mik#98189"
+                    },
+                    "e862496e-0318-43b5-8240-1d300069e6e9": {
+                        "login": "kiselevaks_71ip_211672",
+                        "password": "Kis#2001"
+                    },
+                    "0ea64528-ae82-48d2-a41c-1746d774ca24": {
+                        "login": "chernovad_71ip_202871 ",
+                        "password": "Che#64406"
+                    },
+                    "9b2ed67c-b0c0-45ed-afab-fa8e5867b894": {
+                        "login": "sidorovvs_71ip_211673",
+                        "password": "Sid#45597"
+                    },
+                    "7c4d6207-7eea-4472-90c8-5150ad7f12c7": {
+                        "login": "mamedovagt_71ip_212035",
+                        "password": "040506Mg*"
+                    }
+                }
+            },
+            "ЛТ": {
+                "lessons": {
+                    "Название предмета": {}
+                },
+                "students": {
+                    "660af84e-4193-4fe3-b133-7a2c96f18a07": {
+                        "login": "semenovse_71lt_211739",
+                        "password": "Sem#65347"
+                    },
+                    "b76fede1-ce50-4853-9931-06c165e3dfa0": {
+                        "login": "zhdanovaa_71lt_211740",
+                        "password": "Redcss789852Redcss@"
+                    },
+                    "c6a4f1c2-66b1-4e3f-a28f-158a5684bc9f": {
+                        "login": "osipenkoja_71lt_211736",
+                        "password": "Osi#67613"
+                    },
+                    "f942ed54-55e3-4607-b306-f3c645c71505": {
+                        "login": "sharipovat_71lt_212635",
+                        "password": "Mydickisverybig1!"
+                    },
+                    "4394145d-4d09-4196-909b-f2b06895dd92": {
+                        "login": "chernyhjs_71lt_212022",
+                        "password": "Che#91886"
+                    },
+                    "0e4038ea-b802-4695-8ffe-4cf8f505355d": {
+                        "login": "merkulevvi_71lt_202941",
+                        "password": "Mer#46862"
+                    },
+                    "755f2c62-d397-4be9-a995-6b0bfbcc6aa3": {
+                        "login": "bojkopa_71lt_212509",
+                        "password": "Boj#40625"
+                    },
+                    "14ce40b2-e786-42df-829f-7b19cf9b501c": {
+                        "login": "jurevng_71lt_211829 ",
+                        "password": "Jur#89988"
+                    },
+                    "6e00f313-8ae4-4c9c-b642-24ec4e84630e": {
+                        "login": "fedorovin_71lt_212517",
+                        "password": "Fed#30865"
+                    },
+                    "915101f9-2421-4430-b2f9-c35eb4fdffd3": {
+                        "login": "aksenovds_71lt_212044",
+                        "password": "Aks#60370"
+                    },
+                    "b6f19c53-8d75-4ca4-af79-97c5ee167317": {
+                        "login": "rezepovss_71lt_212631",
+                        "password": "Rez#13191"
+                    },
+                    "085dbba1-9f15-4144-85ee-82c0556c5731": {
+                        "login": "samarkinsv_71lt_211733",
+                        "password": "Sam#35836"
+                    },
+                    "2689f6d7-ee57-4d6f-a179-8b8128f4251f": {
+                        "login": "ibraevas_71lt_211743",
+                        "password": "Zbr#45075"
+                    },
+                    "e625bb52-a755-46df-a205-3870455e409e": {
+                        "login": "tagievhh_71lt_212518",
+                        "password": "Halik@1984@"
+                    },
+                    "3293e64d-d8c8-4105-99ae-16d93d09ab7f": {
+                        "login": "zhigachjovea_71lt_212633",
+                        "password": "Zhi#21025"
+                    },
+                    "56661127-8e51-4de8-b286-6c1edc1654d9": {
+                        "login": "tkacheved_71lt_212636",
+                        "password": "Tka#15163"
+                    },
+                    "53341c1b-cc95-4e65-ba01-2287fe2d1ab7": {
+                        "login": "mahsudovka_71lt_211731",
+                        "password": "Mah#20633"
+                    },
+                    "1f65d1b4-2e71-4f75-97b3-58003261fa48": {
+                        "login": "serzhantovrd_71lt_211819",
+                        "password": "Ser#36719"
+                    },
+                    "6b02cdd3-0af1-4894-b29f-954a574c7ffe": {
+                        "login": "brjuhanovas_71lt_212630",
+                        "password": "Brj#10393brjuhanovas_71lt_212630"
+                    },
+                    "26d950a0-caa6-4f11-8264-4ae4343fc24a": {
+                        "login": "gadzhiragimovvh_71lt_212522 ",
+                        "password": "Gad#60694"
+                    },
+                    "448d82aa-c46b-4320-9725-89281b683298": {
+                        "login": "kuznecovsa_71lt_212526",
+                        "password": "Kuz#64600"
+                    },
+                    "74ca92f4-87d9-4d76-90f1-a822d0d9773a": {
+                        "login": "chulkoves_71lt_212515",
+                        "password": "Chulkoves#28926"
+                    },
+                    "4175fa1f-75ac-4c45-9352-415d0de15e59": {
+                        "login": " teterinna_71lt_212506",
+                        "password": "Tet#30780"
+                    },
+                    "9e86f93e-053e-4a71-a5a2-1f1f49bb1548": {
+                        "login": "buldakovia_71lt_211734",
+                        "password": "Buz#41756"
+                    },
+                    "00971744-a333-4499-9e58-f6b3f796daa6": {
+                        "login": "astafevana_71lt_211826",
+                        "password": "Natali_1999"
+                    },
+                    "5ab6a79e-4d9f-45dd-8851-aac5c444af52": {
+                        "login": "gurovas_71lt_212629",
+                        "password": "Gur#49827"
+                    },
+                    "394d3237-bde7-4353-8557-dafc90f576c4": {
+                        "login": "prishhepaev_71lt_212045",
+                        "password": "0P8i7u3e5t6y.,"
+                    },
+                    "968498ae-a2e6-4063-ac14-f64033a0a842": {
+                        "login": "anopchenkoia_71lt_211820",
+                        "password": "Ano#27592"
+                    },
+                    "adcd499e-04f3-4ca8-91e0-d02d8cac7d37": {
+                        "login": "banaevos_71lt_211737",
+                        "password": "Ban#57783"
+                    },
+                    "e6fa45bb-26d4-4ef3-9184-4dbae7ab8062": {
+                        "login": "abashevdv_71Lt_203562",
+                        "password": "Aba#63729"
+                    },
+                    "f1207911-bc40-4bfb-9edd-e944d190c4f4": {
+                        "login": "cyrenovdv_71lt_212505",
+                        "password": "Cyr#45798"
+                    },
+                    "c2ffe5a2-c5cb-4d3f-a9c3-da062e02c66a": {
+                        "login": "kachangn_71lt_212507",
+                        "password": "Kac#26078"
+                    },
+                    "c37fc129-5c38-4caa-a23a-3ac97db750a8": {
+                        "login": "rosljakovav_71lt_211831",
+                        "password": "Ros#38216"
+                    },
+                    "a8626a25-8068-4cc5-a312-3cd12191d582": {
+                        "login": "pavlenkovs_71lt_212523",
+                        "password": "Qwerty1992qwerty."
+                    },
+                    "c1d3664c-d36f-4d71-acde-03bd99073e1a": {
+                        "login": "bryndinms_71lt_211742",
+                        "password": "Bry#18221"
+                    },
+                    "415cf310-cbf0-4432-bd5f-8cc5f4db450c": {
+                        "login": "konjuhovva_71lt_212525",
+                        "password": "Anihur700."
+                    },
+                    "2b98b586-e709-4128-a3c5-c9313a8282a4": {
+                        "login": "klopovdp_71lt_211741",
+                        "password": "Kzo#83923"
+                    },
+                    "6112dc4e-8fdc-457a-8711-abd597512233": {
+                        "login": "leopaae_71lt_212632",
+                        "password": "Leo#1234"
+                    },
+                    "a908cb55-49a2-456f-9561-f44776c463d0": {
+                        "login": "suvorovaa_71lt_212634 ",
+                        "password": "Suv#43247"
+                    },
+                    "0deb8088-8826-4944-987d-32604583dc6d": {
+                        "login": "akkermansa_71lt_203035",
+                        "password": "Sergo(23)"
+                    },
+                    "4ff8ff47-5f1b-4e7c-a06a-f12fcf4e6831": {
+                        "login": "nikishinnv_71lt_212516",
+                        "password": "Nik#72446"
+                    },
+                    "2081f27c-e21c-4169-bd5b-88b42fce7304": {
+                        "login": "kobzar_71lt_212659",
+                        "password": "Std#2602"
+                    },
+                    "81bb3ade-8738-4590-b63c-2804f496823e": {
+                        "login": "dubovikvv_71lt_212520",
+                        "password": "Dub#23880"
+                    },
+                    "9c687da8-6164-4c24-b80a-a315818e775b": {
+                        "login": "kocherginae_71lt_212511",
+                        "password": "Koc#44737"
+                    },
+                    "5de49ffd-a820-4fa5-a795-c5ced2b4b8db": {
+                        "login": "dibrovig_71lt_212627",
+                        "password": "Dib#43275"
+                    },
+                    "1f2c17eb-420f-4578-a48c-82b78f866abc": {
+                        "login": "ananinbj_71lt_211732",
+                        "password": "Ana#80152"
+                    },
+                    "cb5126a1-d934-4103-a87a-ef50e0ec31b4": {
+                        "login": "shometkokv_71lt_212434",
+                        "password": "Sho#82664"
+                    },
+                    "3a395309-2315-4265-8704-2be3cff9830b": {
+                        "login": "loginovaa_71lt_212524",
+                        "password": "Log#49717"
+                    },
+                    "c60153ec-6521-4fa7-a6e8-d9aedde990ec": {
+                        "login": "verjbickydn_71lt_203302",
+                        "password": "verj#71LT"
+                    },
+                    "f638dc3e-07b5-485f-a936-6838d312c0db": {
+                        "login": "drobindd_71lt_212512",
+                        "password": "Dro#11538"
+                    },
+                    "240662a0-5855-4ad6-bca8-5926fae9c09b": {
+                        "login": "shulikovde_71lt_212438",
+                        "password": "Shu#10612"
+                    },
+                    "39e3c241-453d-4b40-afa5-132a693d946c": {
+                        "login": "boroznovskijas_71lt_212504",
+                        "password": "Bor#39422"
+                    },
+                    "5514319f-cd64-488f-8db1-a94bb3431c76": {
+                        "login": "golovkov_71lt_217301 ",
+                        "password": "Mir_vsem97"
+                    },
+                    "ef4ec9b6-140d-4c12-933c-bfaac5a46c0c": {
+                        "login": "panteleevde_71lt_212436",
+                        "password": "Pan#1337"
+                    },
+                    "6c1d4429-fb51-4d71-b21b-98e30fcbb496": {
+                        "login": "mitinav_71lt_211744",
+                        "password": "Tem*08125"
+                    }
+                }
+            },
+            "ЛЭ": {
+                "lessons": {
+                    "Название предмета": {}
+                },
+                "students": {
+                    "cee0485e-f81c-4229-ba21-6e1698c2427d": {
+                        "login": "tonkovsm_71le_211838",
+                        "password": "Ton#37873"
+                    },
+                    "5b3aac8d-a4ce-4721-9604-c9433a2d39be": {
+                        "login": "cygankovjn_71le_211757",
+                        "password": "Cyg#53830"
+                    },
+                    "10b8d369-4a48-4bc0-acd5-266965f2fbc5": {
+                        "login": "krysovae_71le_211755",
+                        "password": "Kry#39753"
+                    },
+                    "0b87de7c-852b-44e0-a771-5d3b00ab79d6": {
+                        "login": "guselnikovaj_71le_203323",
+                        "password": "Дв-ЛЭ-20-3323"
+                    },
+                    "dc1d1c8a-aa8a-4977-bb2d-2de97e65b576": {
+                        "login": "salikovas_71le_211836",
+                        "password": "Saz#39066"
+                    },
+                    "d03c0206-83bb-46ed-bd9b-0d64b2c8cbb1": {
+                        "login": "chernovea_71le_211762 ",
+                        "password": "Che#21037"
+                    },
+                    "e798405e-d6dd-4847-b847-37ff5d72e10c": {
+                        "login": "mergalievov_71le_202951",
+                        "password": "01957772Oleg!"
+                    },
+                    "c491a52f-de2e-4e92-a932-0569b814e0ff": {
+                        "login": "gorbachia_71le_211834",
+                        "password": "Gor#69269"
+                    },
+                    "4e630159-15d6-48fe-95cd-f97f10123c26": {
+                        "login": "tiunovda_71le_211841",
+                        "password": "Wopemo_123"
+                    },
+                    "f59c2322-dc82-4d39-a69f-e05b26692ba9": {
+                        "login": "kobecvv_71le_211843",
+                        "password": "V9080644196v?"
+                    },
+                    "236907e9-2a7b-441c-9899-427b3a6ce221": {
+                        "login": "musajbekovak_71le_212050 ",
+                        "password": "Mus#30432"
+                    },
+                    "072237ab-ef17-4f3b-a948-6ca82a251272": {
+                        "login": "perfilevsa_71le_211839",
+                        "password": "Per#44945"
+                    },
+                    "ab7e8218-96b5-4e60-abda-f5020baeaacb": {
+                        "login": "kurijvi_71le_211761",
+                        "password": "Kur#27491"
+                    },
+                    "b1ec348a-f92b-484b-b2ab-15e5c25178e3": {
+                        "login": "nichipurenkoas_71le_211842",
+                        "password": "Nic#22154"
+                    },
+                    "dcf25584-3a15-472d-8109-d97e19b0ed2b": {
+                        "login": "kinzerskijmj_71le_212047",
+                        "password": "Kin#46520"
+                    },
+                    "6f43510a-7c8b-4b51-a638-2751afd03ec1": {
+                        "login": "grigorenkori_71le_211844",
+                        "password": "Bhhblbq_2"
+                    },
+                    "2aa9183d-fe78-49b9-b598-8b9197d186e2": {
+                        "login": "tyrtyshnyhvv_71le_212690",
+                        "password": "Tyr#96932"
+                    },
+                    "e69d2e2a-f22e-4051-939a-48287ec38e86": {
+                        "login": "Smirnovaen_71le_212532",
+                        "password": "Smi#37532"
+                    },
+                    "57b1896c-5edc-435a-b8ac-a6ca6fbe56e6": {
+                        "login": "lymarsg_71le_212535",
+                        "password": "Lym#66813"
+                    },
+                    "cf0db37d-d4ae-4b77-9832-fc15fdebbb0f": {
+                        "login": "bobrovia_71le_212442",
+                        "password": "Ilya#030712844"
+                    },
+                    "65c01410-be73-4174-8023-416ac0d2c097": {
+                        "login": "ivanov_71le_217338",
+                        "password": "And#33398"
+                    },
+                    "54a4da14-2fd9-4d39-9389-f2e65c7ed635": {
+                        "login": "usenkodj_71le_203344",
+                        "password": "U71le#2022"
+                    },
+                    "e63ccdd6-12dc-4f68-bba6-a1bf6ae3e264": {
+                        "login": "melnikovaa_71le_211756",
+                        "password": "Mez#94334"
+                    },
+                    "1c6246eb-df38-4ad6-95b1-6d334f8a274e": {
+                        "login": "juldashalievj_71le_212049",
+                        "password": "Juz#43621"
+                    },
+                    "3d92b9f0-4e69-4e14-af0b-1894b7adca78": {
+                        "login": "gradzionse_71le_212650                                                                                                                                                                                                                     ",
+                        "password": "Gra#51181"
+                    },
+                    "df592d3e-d6b5-4f90-b168-f89add8591ab": {
+                        "login": "kazangakovrk_71le_211759",
+                        "password": "Kaz#49948"
+                    },
+                    "c559c37d-8786-4893-babc-7144ee4a431d": {
+                        "login": "varkentinaj_71le_211763",
+                        "password": "Var#26565"
+                    },
+                    "40856093-5b45-4a94-8388-733f987f96bc": {
+                        "login": "torbindd_71le_211760",
+                        "password": "Tor#39014"
+                    },
+                    "9f99d62a-0217-469c-811e-5ac09b9bddf6": {
+                        "login": "maltsev_71le_217340",
+                        "password": "Vik#33398"
+                    },
+                    "a5e73bb5-f0d5-4f62-a606-1db06bd33867": {
+                        "login": "petrovea_71le_211845",
+                        "password": "Pet#65734"
+                    },
+                    "05dd574a-6c4f-4694-9884-0b5bc82d0903": {
+                        "login": "yugov_71le_212661",
+                        "password": "41077Aleksey!"
+                    },
+                    "6fbbf0c5-bf66-45e1-ab88-b2ec53dc59ff": {
+                        "login": "arystanbekovbn_71le_212534",
+                        "password": "Ary#44541"
+                    },
+                    "49201f4e-b050-4ceb-8356-fae69451e322": {
+                        "login": "garmaevbd_71le_212441 ",
+                        "password": "Gar#84714"
+                    },
+                    "099e4948-e043-447f-85b2-496552098c18": {
+                        "login": "eroshenkorn_71le_211758",
+                        "password": "Ero#38849"
+                    },
+                    "a7ae6957-6506-4493-8ae0-404c5bb6dbfd": {
+                        "login": "kozhevnikovdv_71le_217822",
+                        "password": "kozh#71LE"
+                    }
+                }
+            },
+            "НГ": {
+                "lessons": {
+                    "Название предмета": {}
+                },
+                "students": {
+                    "3e243bdd-3f3f-402e-988f-d9cb9214591e": {
+                        "login": "najmushinaj_71ng_211716",
+                        "password": "Naj#96958"
+                    },
+                    "5254770c-fc8d-4c5b-96d5-3c1ddc0c2332": {
+                        "login": "simanchevmv_71ng_211712",
+                        "password": "Ujoin205$cole"
+                    },
+                    "f2ff0ef4-8cbc-4938-b4a7-37f68cf5947c": {
+                        "login": "basindv_71ng_211714",
+                        "password": "PolinochkA171215!"
+                    },
+                    "373601a6-8c79-4308-b3a5-09b68935630d": {
+                        "login": "chernenkoua_71ng_211721",
+                        "password": "Ylian@22"
+                    },
+                    "aee430d3-fce4-44c1-8a0a-8c98d1a2f238": {
+                        "login": "alekseevas_71ng_212424",
+                        "password": "Aze#33360"
+                    },
+                    "5667c130-2ce3-433f-8a58-2cf67d6e9387": {
+                        "login": "gubinai_71ng_212016",
+                        "password": "Risovach12#"
+                    },
+                    "bce34054-2619-475e-803a-231690996d9b": {
+                        "login": "jesenovada_71ng_211710",
+                        "password": "Jes#93314"
+                    },
+                    "ae694df5-c8b5-4b0e-8323-abebc8a34013": {
+                        "login": "pansa_71ng_211709",
+                        "password": "Pan#43363"
+                    }
+                }
+            },
+            "ОД": {
+                "lessons": {
+                    "Название предмета": {}
+                },
+                "students": {
+                    "7e55f169-4f2f-4fb9-a767-fab5c99f4d99": {
+                        "login": "shuklinatv_71od_212563",
+                        "password": "Shu#19154"
+                    },
+                    "76740074-59be-4c3d-8376-645697244620": {
+                        "login": "jushkovang_71od_212673",
+                        "password": "Jus#51739"
+                    },
+                    "4485aeba-d258-4f9e-bf1b-6ebb57645530": {
+                        "login": "maksimovaps_71od_212454",
+                        "password": "Mak#40967"
+                    }
+                }
+            },
+            "ПВ": {
+                "lessons": {
+                    "Теоретическая механика-2": {
+                        "Итоговый тест по динамике": "https://dot.omgups.ru/mod/quiz/view.php?id=83748"
+                    },
+                    "Правовое обеспечение": {
+                        "Промежуточная аттестация": "https://dot.omgups.ru/mod/quiz/view.php?id=82148"
+                    },
+                    "ПСЖД (ГВ, ПВ)": {
+                        "Тест": "https://dot.omgups.ru/mod/quiz/view.php?id=83571"
+                    }
+                },
+                "students": {
+                    "4d9567ab-2137-4af3-9796-6110540fc516": {
+                        "login": "baninsv_71pv_202943",
+                        "password": "Ban#56187"
+                    },
+                    "71ff25b8-a47d-4a58-b674-4354467ad62b": {
+                        "login": "hrjakovae_71pv_212645",
+                        "password": "Hrj#38696"
+                    },
+                    "ee473ecd-5715-4085-86fc-a0cc7a97159c": {
+                        "login": " shauhalovga_71pv_211745",
+                        "password": "Sha#79203"
+                    },
+                    "858ed881-2c4a-4a22-97eb-942f686aafa3": {
+                        "login": "ermakovss_71pv_211746",
+                        "password": "Erm#20285"
+                    },
+                    "58d3ee92-9b77-46e6-bfcf-933d27dde6d1": {
+                        "login": "kabanenvv_71pv_211832",
+                        "password": "Kab#26935"
+                    },
+                    "88477fe9-3b83-49fd-be26-24cb41885f86": {
+                        "login": "shalamovka_71pv_211833 ",
+                        "password": "Sha#40852"
+                    },
+                    "12324e89-1111-4a8d-826a-cc2c868273a1": {
+                        "login": "zaporozhecea_71pv_212643",
+                        "password": "hytho3-tywqer-favvEt"
+                    },
+                    "54426a46-628b-4efc-9493-5499e976ef90": {
+                        "login": "gorbatovaav_71pv_217629",
+                        "password": "gorbat#71PV"
+                    },
+                    "8e15da59-911d-4292-953b-d84279b67e78": {
+                        "login": "trunovme_71pv_212528",
+                        "password": "Tru#23323"
+                    },
+                    "046e2255-e016-448a-8817-36299af6acee": {
+                        "login": "skvorcovasl_71pv_212529",
+                        "password": "Lana$1988"
+                    }
+                }
+            },
+            "ПТ": {
+                "lessons": {
+                    "Название предмета": {}
+                },
+                "students": {
+                    "fc1b4ec6-eae8-4377-88c8-04343b9fa8fa": {
+                        "login": "jusupovav_71pt_212038",
+                        "password": "Jus#46248"
+                    },
+                    "47f7fbc8-5f5a-45f8-b983-ee2ba8966b4f": {
+                        "login": "sulzhenkova_71pt_211720",
+                        "password": "Suz#349087"
+                    },
+                    "3d984022-6aeb-4a29-857c-8ebf210a0487": {
+                        "login": "kushenovajh_71pt_212423",
+                        "password": "Kus#90311"
+                    },
+                    "930a5d5b-8694-429d-916f-7153af068040": {
+                        "login": "bykovad_71pt_211705",
+                        "password": "Byk#29297"
+                    },
+                    "8070434c-5a7d-4f56-b2a7-b5c71b678f9d": {
+                        "login": " drozhzhinavk_71pt_211699",
+                        "password": "Dro#89395"
+                    },
+                    "46da5eaf-e5a2-40aa-90fe-1c566b2d7d98": {
+                        "login": "belyjsv_71pt_202902",
+                        "password": "SB#1705p2000"
+                    },
+                    "0636f2df-c421-4e41-9aa8-f6b2b56c10dc": {
+                        "login": "chistjakovma_71pt_211701 ",
+                        "password": "Chi#59310"
+                    },
+                    "79cf9186-0e82-44d4-b02f-192120eeb4b5": {
+                        "login": "kuznecovaas_71pt_211698",
+                        "password": "Gavrilova01!"
+                    },
+                    "3a9016c7-91dc-4d16-a64d-246279c2706c": {
+                        "login": "samojlovaa_71pt_202896",
+                        "password": "Sam#41683"
+                    },
+                    "09c7b053-c1c6-4e33-94ac-018aca39cafc": {
+                        "login": "zemcovsa_71pt_202903",
+                        "password": "Zem#11312"
+                    },
+                    "ee98f81a-75b3-4bcc-97d7-fdd259f18228": {
+                        "login": "nesterenkonv_71pt_211697",
+                        "password": "Nes#17432"
+                    }
+                }
+            },
+            "РС": {
+                "lessons": {
+                    "ТОАТ (СП, РС)": {
+                        "Тест": "https://dot.omgups.ru/mod/quiz/view.php?id=87130"
+                    }
+                },
+                "students": {
+                    "a644bbcc-34ce-45f8-abc2-cb25c9fae807": {
+                        "login": "prohorenkovvk_71rs_212539",
+                        "password": "Pro#58560"
+                    },
+                    "6c2b5055-f5bf-4e0d-8f69-c1ecf5a7b2e0": {
+                        "login": "nefjodovro_71rs_211775",
+                        "password": "Nef#59884"
+                    },
+                    "9715ffe8-5659-45b1-a62e-01e625823851": {
+                        "login": "pavljukevichlb_71rs_212445",
+                        "password": "03111997Lb!"
+                    },
+                    "946ddc80-5416-45a4-b574-a09360689c7c": {
+                        "login": "ishhenkoea_71rs_211778",
+                        "password": "Zsh#42885"
+                    },
+                    "ff9c78de-7d75-40fe-8374-74ac126c3891": {
+                        "login": "aushahmanovasa_71rs_211774",
+                        "password": "Aus#82340"
+                    },
+                    "c7a3c23a-3e16-450b-b606-73e78972b347": {
+                        "login": "kljuchnikovdi_71rs_211870",
+                        "password": "Qwerty123&"
+                    },
+                    "27165553-4a81-41d0-ac0a-d18e667ababb": {
+                        "login": "novikovava_71rs_211779",
+                        "password": "Nov#95961"
+                    },
+                    "3243bdbc-1ada-4e03-978f-b5245ce14cc2": {
+                        "login": "mukanovms_71rs_211777",
+                        "password": "Muk#36748"
+                    },
+                    "b096f378-a4bd-408b-80fb-f02fa67747bd": {
+                        "login": "zhunusovme_71rs_211776",
+                        "password": "Zhu#53656"
+                    }
+                }
+            },
+            "СП": {
+                "lessons": {
+                    "Название предмета": {}
+                },
+                "students": {
+                    "5d6db030-1d85-4f52-ba4b-edb2e28d1e78": {
+                        "login": "filipenkoas_71sp_211874",
+                        "password": "Novos8b8rsk@2021"
+                    },
+                    "a7042372-9da3-4da8-a7ac-3bade108f7c1": {
+                        "login": "shokarevds_71sp_211781 ",
+                        "password": "Sho#56620"
+                    },
+                    "fa644998-2f70-4932-86f8-f748197513fd": {
+                        "login": "shekovamm_71sp_211788 ",
+                        "password": "Li15%qm#"
+                    },
+                    "df59a7ed-ace5-4bce-bf5a-35bd8a3d1948": {
+                        "login": "tolstobrovnn_71sp_211872",
+                        "password": "Qwerty9899!"
+                    },
+                    "0e197ee4-2c71-45ac-a8bf-a5c8c600ab32": {
+                        "login": "zhbanovaan_71sp_211873",
+                        "password": "2849168Anj!"
+                    },
+                    "8e39a0e5-6eb0-4ddc-a28b-5db1f2f25f48": {
+                        "login": "hrushhjovda_71sp_211871",
+                        "password": "Hru#60355"
+                    },
+                    "892a750b-7736-43b4-963d-51ebcbd907b5": {
+                        "login": "moshinskijdv_71sp_211782",
+                        "password": "Yadiman666$"
+                    },
+                    "982c085e-4ddd-46a7-a3eb-320094b0175d": {
+                        "login": "useinovazk_71sp_211783",
+                        "password": "Kogqe7-sowbap-pepryp"
+                    }
+                }
+            },
+            "СЭ": {
+                "lessons": {
+                    "Культурология": {
+                        "Итоговое тестирование": "https://dot.omgups.ru/mod/quiz/view.php?id=84254"
+                    }
+                },
+                "students": {
+                    "dea2d541-a7ae-4786-a806-4dfcd4e94d11": {
+                        "login": "morozovav_71se_211797",
+                        "password": "Mor#72921"
+                    },
+                    "dfb17323-bbb8-4905-813f-a7f101283187": {
+                        "login": "suhovojan_71se_212446",
+                        "password": "Andrei#920218"
+                    },
+                    "9a9cf4be-eca9-4fca-ac24-f61f510219bb": {
+                        "login": "sapelkinds_71se_212542 ",
+                        "password": "Sap#73785"
+                    },
+                    "a917f35a-0c85-4833-981c-53b4a6e4baea": {
+                        "login": "trushinin_71se_211803",
+                        "password": "Tru#14902"
+                    },
+                    "b858b078-6a97-44cc-9cde-0e84bad7264c": {
+                        "login": "kugaevskijvv_71se_211806",
+                        "password": "Kuga1989@"
+                    },
+                    "0b96e32d-b4ea-4988-a425-77e90f38b85b": {
+                        "login": "borisecve_71se_212028",
+                        "password": "Bor#16710"
+                    },
+                    "0833f3f8-e39c-42f9-914e-7c9b9bcc0932": {
+                        "login": "djuzhenkoai_71se_212570",
+                        "password": "21295#Dalena"
+                    },
+                    "0066bfed-4026-4f9f-a2df-57a4e47c9248": {
+                        "login": "bushinage_71se_211792 ",
+                        "password": "Bus#49952"
+                    },
+                    "92aa0db9-5bb3-4607-957d-0446c890807d": {
+                        "login": "tilmanvi_71se_211796  ",
+                        "password": "T71se#22"
+                    },
+                    "79a79033-1354-4240-a994-7f66cb9f9f61": {
+                        "login": "shenfeld_71se_217648",
+                        "password": "Dmi#2148"
+                    },
+                    "f253f032-b1c8-4b2c-8fad-de52a03d6667": {
+                        "login": "zjatkovjg_71se_211879",
+                        "password": "Zja#72789"
+                    },
+                    "0af3b7ba-1e25-407b-920e-3191a37eef12": {
+                        "login": "sjomochkinaae_71se_211800",
+                        "password": "Sjo#68758"
+                    },
+                    "670bd4f4-3315-496e-899e-6b3f5780e84a": {
+                        "login": "kulgejkoej_71se_211802",
+                        "password": "Kuz#31136"
+                    },
+                    "d63c93f7-da8f-4def-b379-ebbf0d5fd2ea": {
+                        "login": "kuznecovkv_71se_211798 ",
+                        "password": "Kuz#82710"
+                    },
+                    "4be103f1-f3b3-497d-9a73-ef31f24fa631": {
+                        "login": "sapindn_71se_211794    ",
+                        "password": "Sap#88660"
+                    }
+                }
+            },
+            "ТБ": {
+                "lessons": {
+                    "Философия": {
+                        "Экзаменационное тестирование": "https://dot.omgups.ru/mod/quiz/view.php?id=82289"
+                    },
+                    "Психология": {
+                        "Итоговый тест": "https://dot.omgups.ru/mod/quiz/view.php?id=84009"
+                    }
+                },
+                "students": {
+                    "3b8a19a2-8df3-4a97-b03b-a21a018d1d7e": {
+                        "login": "lymarnl_71tb_212488",
+                        "password": "Lym#70547"
+                    },
+                    "445c786f-9aac-4319-a608-967a8f725b55": {
+                        "login": "kropachevava_71tb_212483",
+                        "password": "Kro#70018"
+                    },
+                    "4520bf14-3c3d-429b-a69d-5bb8ec5bdba9": {
+                        "login": "popovis_71tb_212481",
+                        "password": "Pop#33623"
+                    },
+                    "16ba1471-8943-4767-82a9-36c8f9d5ba01": {
+                        "login": "neljubovapd_71tb_212478",
+                        "password": "Polina-28"
+                    },
+                    "96d6f2ce-5549-4ae7-b113-eb15b39bfec4": {
+                        "login": "ventea_71tb_212487",
+                        "password": "Vent*0406623"
+                    },
+                    "a0affbd2-5f85-4920-a0bf-2de1d7c2d9cd": {
+                        "login": "smirnovda_71tb_212426 ",
+                        "password": "Smi#88283"
+                    },
+                    "5b5d4bc0-7680-4ae8-9cb8-52e12ddfd9f9": {
+                        "login": "burlakov_71tb_212654 ",
+                        "password": "Muka1995!"
+                    },
+                    "0ad9ef6c-39cb-44d3-9cc5-f67ecab54241": {
+                        "login": "buzovia_71tb_212603",
+                        "password": "Buz#57304"
+                    },
+                    "8180d887-0699-4709-b41d-2b97b26ee822": {
+                        "login": "korjukinsa_71tb_212485",
+                        "password": "#Koryukin26"
+                    },
+                    "71ac601f-2dd8-4740-b563-854e3cda099e": {
+                        "login": "zinchenkoja_71tb_212598",
+                        "password": "Zin-19091998"
+                    },
+                    "663e41cf-afde-4876-b9bb-8f336a774a7b": {
+                        "login": "arhipenkovv_71tb_212484",
+                        "password": "Arh#51035"
+                    },
+                    "af42a5b6-88c0-4cd9-bcb3-617e4685f7a6": {
+                        "login": "kozlovss_71tb_212490",
+                        "password": "Koz#46452"
+                    },
+                    "d84e546f-32f1-4bca-afb3-2e1118a7fa5e": {
+                        "login": "musineh_71tb_212602",
+                        "password": "Mus#20890"
+                    },
+                    "bd8e2424-8b83-4ce7-9890-8fcb0f810c63": {
+                        "login": "vajmeraa_71tb_212019 ",
+                        "password": "Vaj#59408"
+                    },
+                    "b30f907d-4cd9-4ede-a95a-126bf3bad6e4": {
+                        "login": "ayvaseda_71tb_217422",
+                        "password": "TA666666ta+"
+                    },
+                    "b19d6afb-b958-4ecb-838b-3a4cc6462220": {
+                        "login": "efimenko_71tb_90480 ",
+                        "password": "Yum#7332"
+                    },
+                    "e6fb4198-f297-4b1f-8340-fde3fd2d4e9e": {
+                        "login": "sidorovada_71tb_212479",
+                        "password": "Sid#69064"
+                    },
+                    "a6779d9d-0848-47bf-bba2-7f8a16d7666a": {
+                        "login": "nemirskisv_71tb_217503",
+                        "password": "nemir#71TB"
+                    },
+                    "6a6dc42a-09c8-4d6c-87c0-4e813b320cca": {
+                        "login": "petrovja_71tb_212018",
+                        "password": "Pet#81179"
+                    },
+                    "0fb9f903-2bd6-411d-86e4-75290cfe918e": {
+                        "login": "kravchikbv_71tb_212489",
+                        "password": "Kra8chi0110."
+                    },
+                    "d99e5ead-2dbc-4a41-915b-5f846e6bff96": {
+                        "login": "pavlovas_71tb_212595",
+                        "password": "Pav#68590"
+                    },
+                    "522b1bf2-65c5-481d-b8b4-52054769cddf": {
+                        "login": "pinisovaja_71tb_212428 ",
+                        "password": "Pin#77688"
+                    },
+                    "ff0c9097-1d38-4e4d-8ef5-75b19ecce526": {
+                        "login": "efremovkn_71tb_212482 ",
+                        "password": "Efr#94582"
+                    },
+                    "3e25c20a-81f1-4dd0-9c18-820a87500e63": {
+                        "login": "kravchikvv_71tb_212607 ",
+                        "password": "Tiktaalik939393!!!"
+                    },
+                    "ff01fc80-25af-4ec2-919c-10073279fbf3": {
+                        "login": "raskulinaak_71tb_212480",
+                        "password": "Ras#39320"
+                    }
+                }
+            },
+            "ТД": {
+                "lessons": {
+                    "Название предмета": {}
+                },
+                "students": {
+                    "342d5b04-4e40-42e8-9ccb-5b0d3057f659": {
+                        "login": " tarkinaea_71td_212547",
+                        "password": "Tar#89529"
+                    },
+                    "7b8ff936-e1fe-48f4-9b8d-596bc885c0b0": {
+                        "login": "ledenevka_71td_212661",
+                        "password": "Led#19802"
+                    },
+                    "0755790b-f168-4c13-b6f6-27632d2618ac": {
+                        "login": " roglovskajaka_71td_212054",
+                        "password": "020313212731aA."
+                    }
+                }
+            },
+            "ТЛ": {
+                "lessons": {
+                    "Название предмета": {}
+                },
+                "students": {
+                    "51c80dc3-a69c-483d-b03f-0ab544318187": {
+                        "login": "davydenkoai_71tl_212615",
+                        "password": "12qwaszx2308Саша#"
+                    },
+                    "c20e53ca-bead-4b73-b150-ba8f2e183f89": {
+                        "login": "tajlakoviv_71tl_217604",
+                        "password": "tajla#71TL"
+                    },
+                    "525c1de9-5743-4479-b39f-0f279840b7fe": {
+                        "login": " shakirzjanovrr_71tl_212612",
+                        "password": "Sha#61501"
+                    },
+                    "34f2af4b-428c-4a03-857c-eb86594c7d46": {
+                        "login": "krivokorytovaav_71tl_212493",
+                        "password": "Agaheta2405)"
+                    },
+                    "b53772ae-d5da-4335-92ba-3c1f72ef0745": {
+                        "login": "lonshakovvs_71tl_212614",
+                        "password": "Lon#51877"
+                    },
+                    "861b015f-de10-4249-8f98-6dd7ab3ed4ca": {
+                        "login": "koltunovadm_71tl_212610",
+                        "password": "Koz#16622"
+                    },
+                    "9ad039be-8bf6-478b-bbac-9532ebe098a5": {
+                        "login": "nekrasovaaa_71tl_217395",
+                        "password": "Naa71tl#2022"
+                    }
+                }
+            },
+            "ТМ": {
+                "lessons": {
+                    "Название предмета": {}
+                },
+                "students": {
+                    "aa8af051-e49a-4c96-a6e3-6cc18102a633": {
+                        "login": "kuznecovav_71tm_211688",
+                        "password": "Kuz#72224"
+                    },
+                    "2a30b45d-216d-442e-9e1d-b99255940c56": {
+                        "login": "perevozchikovaeb_71tm_211719",
+                        "password": "Per#80229"
+                    },
+                    "59c6c9a2-51de-4f24-97d8-7ce2d6bbfc4d": {
+                        "login": "nikonovve_71tm_211694",
+                        "password": "Nl_rot1944"
+                    },
+                    "ad8e59ec-a6ba-401f-9e16-a13da72b9cca": {
+                        "login": "blinovia_71tm_211695",
+                        "password": "Bzi#65997"
+                    },
+                    "fbcb2c70-79cf-41a0-bc51-d2b52817df4e": {
+                        "login": "larionovse_71tm_211691",
+                        "password": "Lar#88028"
+                    },
+                    "975efc7e-6540-4aea-919c-fd9dd3dae496": {
+                        "login": "nosovaa_71tm_211689",
+                        "password": "Nos#91827"
+                    }
+                }
+            },
+            "ТР": {
+                "lessons": {
+                    "Название предмета": {}
+                },
+                "students": {
+                    "fe0b3da1-ca30-403c-bc7e-8931b29bfd64": {
+                        "login": "kulikovav_71tr_211750",
+                        "password": "Kuz#41053"
+                    },
+                    "f1f7afc5-34dd-4884-b177-9e1b761e73cb": {
+                        "login": "erofeevasa_71tr_212646",
+                        "password": "Ero#41829"
+                    },
+                    "bf4d367a-ae52-4e43-8371-d07ef3d4290b": {
+                        "login": "nasalenkoos_71tr_211752",
+                        "password": "Nas#77665"
+                    },
+                    "4f6a5076-d33a-4553-99e8-e674469bdedf": {
+                        "login": "poljanskihov_71tr_211753",
+                        "password": "Poz#54088"
+                    },
+                    "9f760810-ffd4-41f9-a063-5733a23174f6": {
+                        "login": "romanovaa_71tr_212023",
+                        "password": "Rom#89113"
+                    },
+                    "748ce09f-a04a-4539-b297-9ed8c28bfc58": {
+                        "login": " voronovia_71tr_212530",
+                        "password": "Vor#52741"
+                    },
+                    "414ff29c-ffe6-4edf-a3e9-0dc3e8f6ee0b": {
+                        "login": "seliverstovms_71tr_212024",
+                        "password": "Sez#72851"
+                    },
+                    "317058df-09d5-4202-a355-5abae698e6a2": {
+                        "login": "gluzdovavv_71tr_212439",
+                        "password": "Gzu#45396"
+                    },
+                    "08781b2e-d21e-460b-9cbf-ad619184550d": {
+                        "login": "lodjaginaas_71tr_212531",
+                        "password": "Lod#43087"
+                    },
+                    "4b404e91-3aaf-4c5a-a95d-b5fec1ddcccc": {
+                        "login": "manakovda_71tr_211749",
+                        "password": "Man#29974"
+                    },
+                    "1d70e456-754f-4aaa-b1bd-95fc3ce1b5c6": {
+                        "login": "krikunnv_71tr_211751",
+                        "password": "Kri#52258"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "912d14ad-ac34-42ff-9fd3-b9d924125e0a": "Мальцев Артем Петрович",
+        "bd11b9e9-39c1-4e64-a82f-1a8aea6d03d8": "Торопкин Дмитрий Андреевич ",
+        "548cfb02-7f16-47b8-8db0-8c4434e3ca33": "Цвенкинберг Александр Анатольевич",
+        "d8a4336b-aaa5-4a71-a8c3-c78af31c34a7": "Махсотова Жанслу Жандосовна",
+        "a6a63a4a-9e80-45ed-8f77-e97e7e29e3d5": "Залётов Максим Юрьевич",
+        "256d1294-7a6a-4577-b59e-7397da60f1f5": "Мырксин Василий Сергеевич",
+        "1bcc1855-4771-49f0-886f-0eba518d9188": "Спицын Дмитрий Юрьевич",
+        "6dcc7601-a80d-43fa-9d28-09f1f8d64349": "Кириенко Станислав Валерьевич",
+        "d3ffda1d-a47c-46b4-85bc-3ea3dc835bed": "Ушаков Ярослав Сергеевич",
+        "6e69eb93-871c-4d48-8ee8-bd38ebd4e9ae": "Шумилов Александр Валерьевич",
+        "c55f0bf9-88a1-4b01-b708-0792f42dc6a9": "Мардовин Игорь Васильевич",
+        "d559a401-152b-4ba2-8367-280237cf910e": "Щенников Александр Николаевич",
+        "c0aa9114-da7f-4eb2-a702-0c1f7ea187b4": "Яцевич Максим Игоревич",
+        "6ebecaf3-6f11-4306-bbda-3a57eb524851": "Тарасов Кирилл Витальевич",
+        "9d318cdf-364b-4bbb-81e0-d0ce1f5d31da": "Кручинин Евгений Владимирович",
+        "3f43ea83-4e62-488b-b7ed-d8114dc75340": "Лямин Алексей Вячеславович",
+        "87fa4033-114c-4fc0-a91f-4e59d1c3671d": "Сурков Дмитрий Васильевич",
+        "d9b14666-9753-4956-a3e8-5d69a29b4de8": "Бабух Дмитрий Геннадьевич",
+        "72978467-f78a-4012-8a31-2f35d176883b": "Шангина Анастасия Андреевна",
+        "2d7395d1-9d60-4224-bd72-6442ac648de0": "Калинин Антон Игоревич",
+        "9239312b-d987-4564-8cfe-c4ce09c2dd3f": "Попов Евгений Николаевич ",
+        "9642e27c-35c5-4ca8-873b-ab518c309cda": "Грицай Никита Владимирович",
+        "e5ccfbd5-90c5-4591-9029-bbe6e4a510bc": "Косяченко Ирина Анатольевна",
+        "7ebb4e96-eb37-407b-ba5e-6bf74ef85b6a": "Авхимович Татьяна Викторовна",
+        "78717f5a-2e20-4c46-b29c-829748db9e03": "Носов Кирилл Юрьевич",
+        "f304c866-2115-41c4-89ff-e513d54fef47": "Белов Владимир Игоревич",
+        "427a88cf-b0dd-4542-9658-84418b0f2811": "Муканов Тамерлан Бекзатович",
+        "03d206c3-7217-4c1a-aea2-437e03269048": "Каминский Михаил Михайлович ",
+        "d3c3c67e-3558-433e-90a5-6d808da94112": "Коротков Александр Сергеевич",
+        "072cda3c-5612-4ccc-b7f1-45a05f0394eb": "Шарафутдинов Руслан Ринатович",
+        "437a03a0-cd8c-4557-a6ac-192472a97f42": "Соснитский Георгий Викторович",
+        "125ec991-1d82-4b90-b823-8e56d919d69b": "Крендясов Андрей Вячеславович",
+        "0f0d15be-edb2-4008-8555-f84c939700a3": "Шолмова Татьяна Борисовна",
+        "d705c906-4b7b-44db-9d7f-f9304b256882": "Наумов Евгений Владимирович",
+        "72bf590c-48a4-44bd-8cec-1cf535e40e4b": "Тумар Алексей Викторович",
+        "92d49e17-06e3-4c88-a401-2317fef0284f": "Петрачук Артем Евгеньевич",
+        "c32e40ef-0f24-401c-87c4-031ef974d04f": "Стрельцов Николай Васильевич",
+        "6b715cb9-82ab-4284-9fb2-0db5543c14b5": "Прощалыгина Екатерина Павловна",
+        "9f5753d3-1acb-4602-91b4-6321e3ada2ca": "Кочетков Вадим Игоревич",
+        "f677e82e-d6e2-427f-a33c-ea7b7b6f3ed6": "Кудрявцев Евгений Русланович",
+        "a98f99f0-dde8-434b-aac7-1cae658156ce": "Силева Анна Николаевна",
+        "568d5be6-de28-4019-af11-7d47fd5b5a36": "Нигородов Сергей Александрович",
+        "ae5d05f0-894a-4f95-8225-bfd4adaa985d": "Афанасьев Александр Николаевич",
+        "902b0da6-e775-4905-8716-22a38a55b9db": "Шелепов Иван Владимирович",
+        "65893834-fe00-441a-b013-4bff9a84f5c3": "Шелудько Наталья Владимировна",
+        "0752df2e-3f8a-49c6-86a0-fc902c1e8e02": "Шапорева Светлана Александровна",
+        "964a06cf-d237-40fb-9ea1-77ec0983ee03": "Киргинцева Анастасия Максимовна",
+        "69bfc208-9b9b-4274-a607-c376cb264d1e": "Кушнаренко Татьяна Николаевна",
+        "ad58df53-4ab8-4e60-b182-f9a0f0334b16": "Миргалеева Валерия Владиславна",
+        "ec0ff180-5e27-4018-876b-ebb79fdf3d29": "Федорякин Виктор Алексеевич",
+        "357fb2ff-a00f-4480-a531-fa61d1f334d2": "Белоусовский Яков Михайлович",
+        "bc681ef7-69f9-492a-8003-38ef236cc413": "Пешкичева Анна Николаевна",
+        "00e9fb46-7c50-4df1-9f02-591808d62d26": "Попов Михаил Владимирович",
+        "2e08bccc-32b4-42fa-9c62-d50585c300ed": " Павлов Дмитрий Александрович",
+        "da3602a2-7296-40c6-adff-e1b1c271d4c2": "Афоничкин Сергей Николаевич",
+        "b1760150-f5e5-4b8b-9828-5b65a656765f": "Назарченко Сергей Сергеевич",
+        "c6ce43bd-b2b3-438d-917e-cccd3eb3d63f": "Новиков Егор Игоревич",
+        "faf2a946-0adf-4c3a-82cb-a0bf1cb52a1d": "Ишаев Ильнур Анварович",
+        "b19bb19c-b807-4159-b4ea-7a5c631fcdf4": "Опекунов Евгений Александрович",
+        "d2972ce7-e61c-44e6-b6b5-6f60e97ab25c": "Бардин Денис Борисович",
+        "ea40f3ee-0eba-42ac-b5d5-f8e1d0969bd0": "Халистов Сергей Игоревич",
+        "271e6620-5c77-4f2a-bcd1-5ca68f4b2b49": "Пашков Александр Олегович",
+        "f9f6ecb3-3fa7-4ea9-807c-3b0f7fb78d3f": "Хританков Владислав Сергеевич",
+        "19011851-f55e-4efa-8b3e-6589d2702f16": "Бакшаев Иван Викторович",
+        "1264e0e3-84df-447d-8b95-6f3d830ca844": "Синицын Дмитрий Васильевич",
+        "40532043-40d0-49be-9caa-25e13af0aa6a": "Рожинский Сергей Сергеевич ",
+        "65710fb1-f9fc-477b-bab9-c6a66819768a": "Недякин Дмитрий Владимирович",
+        "fed26420-9b66-42b4-85d0-7f4d61a8568d": "Гокина Аида Александровна",
+        "eac737ff-bb32-4737-87bd-483d6b8ed881": "Гааг Александр Константинович",
+        "0e710821-d3bf-416d-b0b3-583168f148cd": "Прощалыгина Екатерина Павловна",
+        "0adfb706-1eb0-44ff-87f7-a5d5304c37f7": "Петрачук Артем Евгеньевич",
+        "0baf0940-0b7c-4802-9863-643f84554404": "Суворова Ольга Анатольевна",
+        "597ee84d-326b-48c9-a5e9-d391e47db39b": "Пустовалов Семён Георгиевич",
+        "6dcce9bc-9fda-4fc2-b640-6d67ce73aaee": "Пустовалова Любовь Викторовна",
+        "5b19fac1-e545-4a13-b461-b3d28d0b673e": "Микушин Семён Алексеевич",
+        "55ef3a1f-34a3-4bdf-bd62-67ce88f2d640": "Киселева Карина Сергеевна ",
+        "659f68b7-d30e-43a9-9dcd-afa55ceaa066": "Чернов Александр  Денисович",
+        "a8949d9e-b47c-40bd-afbd-f5888bc78013": "Сидоров Владислав Сергеевич",
+        "b4810757-78b4-451e-80d4-56eb0c4e1cd1": "Мамедова Гюльчогра Тагировна",
+        "a21aa6ed-a4f9-4379-8e6c-d965c4b0f489": "Семенов Сергей Евгеньевич",
+        "b77178f9-e1e3-4bc9-a3a1-1b28b29d7459": "Жданов Алексей Андреевич",
+        "37d37ea6-1ff7-47ab-bb7e-598ffe0007f9": "Осипенко Юлия Александровна",
+        "7c84abff-80ed-4817-849a-388941783629": "Шарипов Алексей Талгатович",
+        "e967de2d-e49a-401d-a61e-37ecbd8591ad": "Черных Ярослав Сергеевич",
+        "6dcaeaac-7ab3-46af-a7a2-c99bd2a73fa9": "Меркульев Виктор Игоревич",
+        "c5c432ef-07d8-478b-be9f-06a75b7e04cd": "Бойко Петр Анатольевич",
+        "494bf972-4668-4e42-909e-65a67fb1728a": "Юрьев Николай Геннадьевич",
+        "813280bd-8940-4137-94d0-2220eea06a3f": "Федоров Игорь Николаевич",
+        "34309132-3c45-4a9b-957f-d816efdd19b8": "Аксёнов Дмитрий Сергеевич",
+        "946f7b74-ebc3-4f5f-8944-bef3a19425ce": "Резепов Станислав Сергеевич",
+        "fc0ad557-0be2-45ce-9dd0-59f9db50113c": "Самаркин Сергей Васильевич",
+        "c059e664-1066-49bc-a5c6-bde78512c420": "Ибраев Асет Сагындыкович",
+        "236cde99-92db-4b4f-93ea-eafd22861117": "Тагиев Халид Ханкиши Оглы",
+        "14a15cdf-0f3c-4326-9faa-a166d3fc6ca6": "Жигачёв Евгений Александрович",
+        "d3e54932-80ad-426e-9a38-b1cf35b7e4e1": "Ткачев Евгений Денисович",
+        "6f688d53-dec9-42cb-aefa-8e390a099361": "Махсудов Кирилл Алишерович",
+        "bf245dd7-8142-4a45-84b2-4e8c87479c3b": "Сержантов Роман Дмитриевич",
+        "d1ca088b-0c87-46a5-8b41-34c0b9ff5a6a": "Брюханов Александр Сергеевич",
+        "68381d88-ef24-4db7-89a6-1b52418d0eeb": "Гаджирагимов Вячеслав Хасаевич",
+        "49f3caec-8c83-47d7-9b78-e96fc667f72e": "Кузнецов Сергей Алексеевич",
+        "83dfd883-14aa-4b5d-ba97-cc2d3d5be75a": "Чулков Евгений Сергеевич",
+        "d9b1c832-7267-4e7d-85fc-eed27e8759a9": "Тетерин Никита Алексеевич",
+        "4448994e-ede7-44b4-9455-c0870640543b": "Булдаков Илья Александрович",
+        "5858fc1a-b81a-4942-9e2e-8394e033b75c": "Астафьева Наталья Александровна",
+        "a607bd4a-ef82-4b2e-99b5-3ce03ab3a186": "Гуров Антон Сергеевич",
+        "868cd912-61f9-49f9-aef8-15a77c51f00f": "Прищепа Егор Викторович",
+        "f651f00b-31e5-45c4-a074-9a9efd97fce3": "Анопченко Ирина Александровна",
+        "1979cfd7-c420-4b39-99d5-444ed21e9c81": "Банаев Олег Сергеевич",
+        "fac4143d-8c17-462a-89be-48a5927ca08b": "Абашев Дмитрий Владимирович",
+        "bf8f072f-0372-4157-b8bc-cdf9af4dc2d2": "Цыренов Дондок Валерьевич",
+        "96098889-3f3f-407a-abb3-4cc791249989": "Качан Григорий Николаевич",
+        "513a1dc1-2a17-4c37-b849-688d9a85020c": "Росляков Андрей Владимирович",
+        "d35c7164-604c-49fb-9eb4-8d2ec408e39b": "Павленко Виталий Сергеевич",
+        "b1340a3c-141a-4afa-8fd5-f76c31e732d1": "Брындин Максим Сергеевич",
+        "02ff938b-3324-4208-879d-8de4cc1c5b35": "Конюхов Василий Анатольевич",
+        "1398e06b-6dae-4024-bc0f-5660e2e6f968": "Клопов Денис Павлович",
+        "e5db477f-999c-4885-8174-2bfe692d1bb2": "Леопа Алексей Евгеньевич",
+        "b13ee4e4-0325-4af2-9965-895cd62be770": "Суворов Александр Александрович",
+        "1b5ddbec-bb09-4d22-ba17-c943717dcd41": "Аккерман Сергей Андреевич",
+        "87a12192-3110-48a2-ae3d-a5641e58c14d": "Никишин Никита Викторович",
+        "9acee79b-620b-4859-a87b-54761b4201f4": "Кобзарь Сергей Алексеевич",
+        "8f9a7635-58e2-464d-a366-647a1350ec2e": "Дубовик Владислав Витальевич",
+        "693792c0-c499-4ab7-973c-d2b51b107387": "Кочергин Алексей Евгеньевич",
+        "9722cdc0-fe99-4c6c-a745-4b36acf00d36": "Дибров Иван Геннадьевич",
+        "a413686e-b878-44f2-8efa-a20ccc00ae14": "Ананин Богдан Юрьевич",
+        "c005c573-2a91-4c70-a892-57a1b19797ac": "Шометько Константин Вадимович",
+        "a73e5daa-3487-46a6-8db4-c2b8b5b32310": "Логинов Алексей Алексеевич",
+        "ba8733bf-1194-4788-b6b5-308135ab5f34": "Вержбицкий Денис Ниязович",
+        "4fe1f5f2-f823-44fa-89b5-da3017ce769d": "Дробин Денис Дмитриевич",
+        "7380c892-f373-4961-b114-506cb4cf05d3": "Шуликов Дмитрий Евгеньевич",
+        "6c86f7db-2b36-4cb8-aaf9-2a05511dce3f": "Борозновский Александр Сергеевич",
+        "b950a966-0098-418c-902f-ace95a9b5a84": "Головков Александр Владимирович",
+        "fa8a96aa-b80f-4a20-8753-2b17fc235022": "Пантелеев Дмитрий Евгеньевич",
+        "d0529d33-74d1-4328-a8f9-320220c4504a": "Митин Андрей Викторович",
+        "7fd5f17c-6823-4093-aa51-73f0c3cf7a11": "Тонков Сергей Михайлович",
+        "5d58590e-2d65-431a-9543-b3b24eef39c6": "Цыганков Юрий Николаевич",
+        "d0d71eeb-d8ce-462b-9b63-c183d69c3a10": "Крысов Антон Евгеньевич",
+        "380f6759-3b9f-40c3-a4c3-db42fed78164": "Гусельников Алексей Юрьевич",
+        "b541dc72-fa17-4d7f-a002-0ea7c91b5c59": "Саликов Амангельды Сиюмбаевич",
+        "dcca7da1-5a72-41ee-b171-bbe166a2f137": "Чернов Евгений Александрович",
+        "ca8ee330-05bd-4533-911f-44c694592559": "Мергалиев Олег Валентинович",
+        "d417fdb3-e088-4dbf-ad78-16d8331367fe": "Горбач Иван Антонович",
+        "8f80c208-5cea-4f68-96f5-7e30afc62f75": "Тиунов Дмитрий Андреевич",
+        "36eca741-afa5-44ff-bfa4-698f08c8fca9": "Кобец Валентин Викторович",
+        "05f6e975-603d-4a86-b4de-9ba84fc403e6": "Мусайбеков Арман Кабдулуафович",
+        "714d043b-b525-419d-bc8b-ac1c20520dd9": "Перфильев Станислав Андреевич",
+        "b819546f-067e-4d85-9beb-61ca24edf0f4": "Курий Виталий Иванович",
+        "b4bbe54d-4e29-43be-b5ef-87337acdec61": "Ничипуренко Алексей Сергеевич",
+        "d0aa7cf0-8d0f-4853-a8f3-c041cc241113": "Кинзерский Максимос-Панайотис Юрьевич",
+        "5478682b-6ed9-4dea-8836-ffc557aa7429": "Григоренко Роман Игоревич",
+        "9ae3e508-4d14-4f02-9454-c447e93ed446": "Тыртышных Вадим Витальевич",
+        "98594b3b-10ff-4229-9908-50ec67b2bd8f": "Смирнова Елена Николаевна",
+        "587a425b-9193-4cc6-a8d3-614c78452b0d": "Лымарь Сергей Геннадьевич",
+        "63adb131-380a-422e-8a5d-771f4bb15e3e": "Бобров Илья Александрович",
+        "fe4c4793-99a5-47b7-934d-10b672210a35": "Иванов Андрей Сергеевич",
+        "62047f4c-9490-4866-a185-4f127e41de6e": "Усенко Данил Юрьевич",
+        "e484f6a3-8fb2-4cfc-bfa3-eed91ba7b1a0": "Мельников Артём Андреевич",
+        "2150e6de-d450-4ac6-9efc-9863a6d88590": "Йулдашалиев Элмурод Расулжонович",
+        "721a94e2-62e8-4c0d-a465-53022b356cc1": "Градзион Сергей Евгеньевич",
+        "466bf7df-4710-40c6-9777-515cea0d2c46": "Казангаков Ринат Кайратович",
+        "3a570daa-32a3-40da-b058-b8a0e1e2a469": "Варкентин Андрей Юрьевич",
+        "e0e234b0-268b-4483-85ef-2b5c0e35ff46": "Торбин Денис Дмитриевич",
+        "15418b98-e18a-4c8d-92e3-295ccdc7d5b5": "Мальцев Виталий Александрович",
+        "4d01baf1-d0b4-4cb0-8d7b-6dd7842e59a9": "Петров Евгений Анатольевич",
+        "ca63f13e-bf75-4fd7-a002-4867008db1bd": "Югов Алексей Алексеевич",
+        "62069400-3296-4c73-abfc-3735c6bcf998": "Арыстанбеков Болат Нурланович",
+        "06264fcc-2e88-4d80-b2e6-c86e2beaa8a3": "Гармаев Буянто Дашиевич",
+        "ea7247fc-ce1d-4e39-9f37-80f930964f27": "Ерошенко Роман Никанорович",
+        "76483947-d5bc-4252-a2c1-80bffbaa8922": "Кожевников Денис Викторович",
+        "d7efe650-4c10-4c30-901c-64c3c00972c7": "Наймушин Александр Юрьевич",
+        "9e4832cf-14a7-4ccd-b712-8d95b0505ba3": "Симанчев Максим Владимирович",
+        "b3f35c9d-b348-4faa-b750-351d699c0285": "Басин Дмитрий Валерьевич",
+        "f80ff5ea-98ea-49d5-aeda-648f7048f766": "Черненко Ульяна Алексеевна",
+        "5cd32efc-2486-4cfc-802b-cfdca1074314": "Алексеев Александр Сергеевич ",
+        "a05ff182-1eaf-4153-9f32-e2ee3a80ab5d": "Губин Александр Иванович",
+        "22345e9c-f1ec-47d7-82aa-e64522dc4794": "Эсенова Динара Амангельдыевна",
+        "c2560e8b-3663-46d0-93c3-104f1564c2a6": "Пан Сергей Александрович",
+        "f98a4f0a-e71c-4f14-b0d0-6ddda16d6053": "Шуклина Татьяна Владимировна",
+        "13b28308-ecef-43a7-ba5b-62502bc625cf": "Юшкова Наталья Геннадьевна",
+        "ab387e4e-b0dc-4b5a-855c-b2dc3a59c8d3": "Максимова Полина Станиславовна",
+        "29a0601d-a8fc-4a6b-9767-b354d43456e5": "Банин Сергей Вячеславович",
+        "149a7cb8-125e-40b2-bf45-57daac1104ab": "Хряков Алексей Евгеньевич",
+        "01c27b17-c850-4bd6-9e37-b40987531678": "Шаухалов Георгий Александрович",
+        "ec373c10-7edd-45e4-a44b-3799bb74b3b4": "Ермаков Сергей Сергеевич",
+        "c91d518e-1a90-4fd0-8191-189292eb2c02": "Кабанен Валентин Викторович",
+        "92dccf72-3b7e-427f-9a64-527dc38cab15": "Шаламов Кирилл Александрович",
+        "47fae1f9-a1b9-4ea7-8ec1-d9ba14446c32": "Запорожец Евгений Александрович",
+        "71c71ec4-e7b9-47bd-85f8-f68d0b311ca3": "Горбатова Анатсасия Владимировна ",
+        "2178deaa-1cd9-4c8c-b522-dd7e7a82ddbe": "Трунов Максим Евгеньевич",
+        "c9955548-7aa8-4f9d-9b02-c0fbe149b4a9": "Скворцова Светлана Леонидовна",
+        "3db7d752-8e5c-4586-a494-8797d4ea0ebf": "Юсупов Азамат Винерович",
+        "1450a7e4-6f04-431f-89bf-c56690baa199": "Сульженко Владимир Андреевич",
+        "33e5495e-de64-4b5c-a534-5d440c6b5a81": "Кушенова Эльвира Хайрулловна ",
+        "f2bec42c-5802-439d-9c43-262f5b7dd5fc": "Быков Александр Дмитриевич",
+        "d8b3df9b-3864-4d36-8642-bbd2afbdd92d": "Дрожжина Вероника Константиновна",
+        "5a9e1749-b130-4f0f-a991-1665b50985ea": "Белый Станислав Викторович",
+        "b3a840d6-d9fb-4d70-933c-398c4a96ac7b": "Чистяков Михаил Александрович",
+        "0b694b62-f5a1-4804-8c4e-b504f49e88ce": "Кузнецова Алина Сергеевна",
+        "4f8f036c-5dee-4ca4-8697-e3482689395e": "Самойлов Алексей Антонович",
+        "d82cb684-5687-445d-965c-71715f5c1b0f": "Земцов Семён Александрович",
+        "0480ffec-5eb1-4ceb-a49f-658ef96389e2": "Рычкова Наталья Валерьевна",
+        "cd4d56e8-31cb-43c6-bc88-c04f0ae385e3": "Прохоренков Вадим Константинович",
+        "7afc0eea-1cd0-4690-8761-e9d5c9891219": "Нефёдов Роман Олегович",
+        "87203026-89a5-46f6-a139-65bfdff72958": "Павлюкевич Леонид Брониславович",
+        "96635dcc-2a5a-45b3-8421-e15186169937": "Ищенко Екатерина Алексеевна",
+        "c7e144fe-cf72-4996-985a-f7fd2b990ae8": "Аушахманова Салтанат Амангельдыевна",
+        "71b12120-13b6-464b-a67e-80f727854ce4": "Ключников Даниил Иванович",
+        "e57683c2-7cf6-44ab-91f1-282d2c9f6859": "Новикова Влада Александровна",
+        "6e2e09e1-bdb6-4ad5-a88d-19cbe6cb7955": "Муканов Мурат Санзызбаевич",
+        "ebbb78da-7353-4208-ba16-c79f6eab84bb": "Жунусов Медет Ержанович",
+        "2af6a5e0-4941-4f82-8745-59954bfd1f5e": "Филипенко Алексей Сергеевич",
+        "9fc7bddd-f844-4878-9428-a726764a8b62": "Шокарев Данил Сергеевич",
+        "cdde3b5c-3abf-422b-877b-c20c40bb97b3": "Ситалова Марина Максимовна",
+        "7b144e63-1ca7-4f94-a216-f3081ef660c9": "Толстобров Николай Николаевич",
+        "d24b0d36-6941-4e90-88fb-07ee0aec602d": "Жбанова Анна Николаевна",
+        "019a529c-0448-438d-ac5b-33ef67ab9134": "Хрущёв Денис Андреевич",
+        "ee7a7289-83dc-4ba7-be8c-c62fdeff3d3b": "Мошинский Дмитрий Викторович",
+        "6bc7581a-3610-4554-a0b5-3510c3e9f0d0": "Усеинова Зере Куанышевна",
+        "7a0cf722-747b-4da3-9bae-da678ef96a7f": "Морозов Александр Викторович",
+        "0a74db3a-2b37-47a4-989d-109b57f86619": "Суховой Андрей Николаевич",
+        "9fa6e87b-05b5-4220-a702-201bdb51f68e": "Сапелкин Денис Сергеевич",
+        "02226a87-51f1-4282-8542-faee9490693a": "Трушин Игорь Николаевич",
+        "b25dfec0-46cd-42c9-a43b-77a700d53eed": "Кугаевский Вячеслав Владимирович",
+        "02c8adac-da54-413f-8ba1-ada46c855ffc": "Борисец Вадим Евгеньевич",
+        "da7c96e7-decc-4960-bf42-4d3fb19a4ea3": "Дюженко (Иваненко) Алена Ивановна",
+        "bf758f74-f82b-4156-ab95-04b45a2062fb": "Маликова (Бушина) Галина Евгеньевна ",
+        "690204ae-e0ee-4b75-97f8-104f271bfc02": "Тильман Вальдемар Иванович",
+        "2c6f1e93-babf-4afd-842c-36d80ac4fabb": "Шенфельд Дмитрий Сергеевич",
+        "d5b1bd02-89f0-4c7e-917b-ab771a409835": "Зятьков Юрий Геннадьевич",
+        "77f83ad3-6aa2-4408-8a51-0174e3a0cefd": "Сёмочкина Алина Евгеньевна",
+        "3288aee4-1f08-4021-b2ff-7d1a278b8afc": "Кульгейко Евгений Юрьевич",
+        "486babeb-bb97-4e15-b36f-b29cf9ad0476": "Кузнецов Кирилл Вячеславович",
+        "10e59a85-1ae9-4d29-8431-0928a2dcb995": "Сапин Данияр Назымбекович",
+        "6b67dcd9-38a1-46e8-a485-c3f3cb188438": "Лымарь Надежда Леонидовна",
+        "4f55cad8-5461-4f6e-a4b2-eb49d3ddc5b3": "Кропачева Валентина Александровна",
+        "0f5fae33-d8a6-456a-8ac8-115f9ba838c2": "Попов Иван Сергеевич",
+        "fc09c8c7-6da1-4a3d-9edd-54aa6e50ca7a": "Нелюбова Полина Денисовна",
+        "d18d5e8e-d57d-48a2-a390-b0b4ade40438": "Вент Евгений Александрович",
+        "5fc42fdc-a6df-4a46-8ceb-bae2cade0d63": "Смирнов Даниил Алексеевич",
+        "55aec45e-0ce6-4966-a420-2c8cb9827d62": "Бурлаков Денис Вадимович ",
+        "fed768e4-ca86-4c0c-9e29-f77e134cd333": "Бузов Иван Александрович",
+        "1bc74db2-55db-49d0-9de8-b7eba5279a7d": "Корюкин Степан Александрович",
+        "f3e58e64-c47e-4d11-85ec-1d21eb0a23e7": "Зинченко Юлия Андреевна",
+        "3be203cd-23f8-44ed-b6b8-06bedf8d95ea": "Архипенко Владислав Викторович",
+        "9cbf375f-8c72-4509-84d6-cc62bca5240b": "Козлов Станислав Сергеевич",
+        "628a3f99-b9b8-47a5-a839-89b7628bb051": "Мусин Евгений Хильманович",
+        "eb2dd827-28b0-4b19-b23d-768e7dfb9c13": "Ваймер Анастасия Александровна",
+        "a294c442-6fea-45b7-8702-6e9e6634bd4f": "Айваседа Татьяна Петровна",
+        "e5266aff-7f2d-4e34-bebe-0b892d03770e": "Ефименко Юлия Сергеевна",
+        "58ec4988-3834-4633-871b-99424be5dddd": "Сидорова Дарья Александровна",
+        "82d8c5e4-4001-46e8-99c2-04f97c6b66f0": "Немирский Сергей Викторович",
+        "f74161a8-f1ff-4ba4-971f-2562865e4728": "Петров Ян Алексеевич",
+        "ee4926bf-4e1b-44d6-be28-95bbff5e3a3c": "Кравчик Бронислав Владимирович",
+        "95916c8a-6211-49b4-9d41-78a808d603ba": "Павлов Александр Сергеевич",
+        "e5263b4e-e27f-49e3-98b5-aaa547b05c19": "Пинисова Юлия Александровна",
+        "472f649c-1e18-46d1-9bfa-17f47dbd87b8": "Ефремов Константин Николаевич",
+        "b1903b68-4be6-42a7-8920-aa3371abc434": "Кравчик Виталий Владимирович ",
+        "cba91807-c1d7-48f7-b1a7-5eea63ca6cde": "Раскулина Алина Константиновна",
+        "f0c47cb1-25b3-4220-9030-5e0f01dbd0f7": "Таркина Елизавета Андреевна",
+        "931b6e45-626d-4591-9ee4-b17c5463ee2d": "Леденев Константин Андреевич ",
+        "194d4a55-ec34-4554-8916-1919307d0d93": "Рогловская Кристина Андреевна",
+        "96af4e37-0cb3-4e0f-9cc1-95f8f4476d95": "Давыденко Александр Игоревич",
+        "aabdb625-44e7-49cc-b7c7-58fce74af68e": "Тайлаков Игорь  Вячеславович ",
+        "2336eb7e-227d-4a5e-b397-005e4d2f17cc": "Шакирзянов Руслан Ренатович ",
+        "9797a46e-aabb-4391-9ca1-51c59499b964": "Кривокорытова Алиса Валерьевна",
+        "38897f6a-5931-453a-8e8f-17ef1e8faac7": "Лоншаков Вячеслав Сергеевич",
+        "529b62aa-e525-43fd-9e71-f09ad8b8e02a": "Колтунова Дарья Михайловна",
+        "61b46e21-1f27-4eaa-af7b-1f79dd90720e": "Некрасова Анастасия Андреевна",
+        "cb19cfb9-44e4-4ffc-b04c-81993d25b890": "Кузнецов Андрей Владимирович",
+        "68c0b9ad-e11b-45e3-a7b4-f3ee24e5caeb": "Перевозчикова Евгения Борисовна",
+        "ec7de701-ba7c-44a3-9b6b-22930553ddb0": "Никонов Виктор Евгеньевич",
+        "e637c5e8-56c5-4295-b91d-09a29a889d88": "Блинов Игорь Анатольевич",
+        "2818861d-ea2e-41a3-932e-8a5fd19a47d8": "Ларионов Степан Евгеньевич",
+        "267bfe9a-eefe-4547-8cd4-9625be87dfc0": "Носов Алексей Анатольевич",
+        "6c7fc469-7231-4ac3-bd89-1abafeff19b1": "Куликов Александр Владимирович",
+        "7cfc7a26-c333-4fd3-bce7-53d062c09050": "Ерофеева Софья Алексеевна",
+        "1eb66c3d-f716-4927-a587-aa5f6c839063": "Олешко Ольга Сергеевна",
+        "b73b5fc7-009e-4a43-bee4-3a7740f5098f": "Полянских Олеся Викторовна",
+        "9e8579f4-8035-44b1-8efe-1cf92acf0713": "Романов Антон Андреевич",
+        "9caba331-42cb-4b66-9f95-7bbad0ec2b5f": "Воронов Игорь Алексеевич",
+        "e2f3b693-83c8-4548-8ccc-405261d9bba6": "Селиверстов Максим Сергеевич",
+        "727d3b59-46e4-4333-a5bb-b6f39b9232cb": "Глуздова Василина Владимировна",
+        "96ad6a72-6876-40ad-9320-485910d9839d": "Лодягина Алина Сергеевна",
+        "6feb38dd-27b7-47de-835d-e13df23100ed": "Манаков Даниил Андреевич",
+        "a6fd4800-83e2-4c67-a7d0-43415263178e": "Крикун Николай Викторович",
+        "96cd6b7c-a007-4b20-8d15-88c3f72abaf3": "Мальцев Артем Петрович",
+        "0d9ca32f-83ab-4415-8976-f9343737b816": "Торопкин Дмитрий Андреевич ",
+        "83fd078b-e266-405e-8c0f-ce144885d638": "Цвенкинберг Александр Анатольевич",
+        "f350b41c-6683-49da-98b2-463a4e73e731": "Махсотова Жанслу Жандосовна",
+        "03bd4bb5-9605-4526-956e-00fbc0f19686": "Залётов Максим Юрьевич",
+        "dddb7dc5-8465-450f-a073-9e5aeb719b8a": "Мырксин Василий Сергеевич",
+        "2c704f06-9394-4bd6-9369-5a7566a483c9": "Спицын Дмитрий Юрьевич",
+        "e84a41b8-bfda-4f03-a5fc-a587d8ff46cd": "Кириенко Станислав Валерьевич",
+        "a30554ec-16bc-48ea-a43f-d5a19293bedc": "Ушаков Ярослав Сергеевич",
+        "88d19d6a-de40-4d1d-a577-c6ec500dfcce": "Шумилов Александр Валерьевич",
+        "10b96abd-db0b-4d94-94e5-42fc22cb70b8": "Мардовин Игорь Васильевич",
+        "ff95fdd1-c4ac-43a2-916c-862d548d331a": "Щенников Александр Николаевич",
+        "7792b19e-83d3-4a5e-97fc-5f32966c1c02": "Яцевич Максим Игоревич",
+        "becad509-87a6-42c7-9316-c665e8787bbe": "Тарасов Кирилл Витальевич",
+        "b20b7c96-3a50-4bf8-858f-758672c50737": "Кручинин Евгений Владимирович",
+        "ec032f02-1259-4819-88e6-c5efadfc7447": "Лямин Алексей Вячеславович",
+        "ba282fe9-a860-4635-9856-b744e6136815": "Сурков Дмитрий Васильевич",
+        "d0ffc9a7-5fc3-44c3-8da8-df05552163ec": "Бабух Дмитрий Геннадьевич",
+        "d9f4d241-f682-4b1d-9b47-5cf5cfb54c4a": "Шангина Анастасия Андреевна",
+        "97ec9577-4e83-4ff0-ab81-da6f57b72578": "Калинин Антон Игоревич",
+        "22df2e7c-3219-4e26-8fc6-075c3a4b439f": "Попов Евгений Николаевич ",
+        "1cbd1f98-4da3-41d1-a8f5-6ff637acf931": "Грицай Никита Владимирович",
+        "12593194-b0e4-4cad-84cf-5c67cd3fa4fe": "Косяченко Ирина Анатольевна",
+        "537024c0-d580-4be6-962a-d40397bc7d1e": "Авхимович Татьяна Викторовна",
+        "4bc0f51b-2085-4cab-a486-bbb5fbde518a": "Носов Кирилл Юрьевич",
+        "33df202f-76e9-4ddb-a042-1de44e65d065": "Белов Владимир Игоревич",
+        "2d44dde3-5b24-40c1-93bd-7e86db9c4ae9": "Муканов Тамерлан Бекзатович",
+        "ff3b2b0a-e1f1-4919-9bb2-ca4bb6439a03": "Каминский Михаил Михайлович ",
+        "d4c31c40-0d42-4a02-a8b2-bc45e6b82771": "Коротков Александр Сергеевич",
+        "13f84844-f57c-4400-a261-6df6480d6e7f": "Шарафутдинов Руслан Ринатович",
+        "d2d2c679-19bb-4a55-b99d-8e16666b1680": "Соснитский Георгий Викторович",
+        "7093a9ad-b230-4c5a-b964-3b3ed0002c40": "Крендясов Андрей Вячеславович",
+        "4a3b1fb1-41bb-4eb1-af6f-385e4f9fef4c": "Шолмова Татьяна Борисовна",
+        "95fde3ea-e884-4ded-a9d9-2724df7a368e": "Наумов Евгений Владимирович",
+        "0e05822c-5172-467c-b973-137f70c8dbc8": "Тумар Алексей Викторович",
+        "01c5bd81-abd2-4583-acc4-21074cad5427": "Петрачук Артем Евгеньевич",
+        "ff710d3f-111c-498d-9822-feef41717fd2": "Стрельцов Николай Васильевич",
+        "5ba913a4-7231-432b-af0c-2b2aee80fa24": "Прощалыгина Екатерина Павловна",
+        "5638a6bc-2177-4a0f-852a-53b87b82409f": "Кочетков Вадим Игоревич",
+        "43c7eb37-83f0-4415-b765-2d37760b4f5f": "Кудрявцев Евгений Русланович",
+        "38dce628-5246-41fa-a5af-971a70019a35": "Силева Анна Николаевна",
+        "7ec8911d-a8aa-49e2-b000-1d5bec54b4c8": "Нигородов Сергей Александрович",
+        "f91585bf-a1aa-4677-9950-1cd6c2ce6c9b": "Афанасьев Александр Николаевич",
+        "745c7f87-6de9-4d35-80ff-79761ea6a47f": "Шелепов Иван Владимирович",
+        "4d8c7b00-9af9-4b0a-858d-43ab3d38a2a8": "Шелудько Наталья Владимировна",
+        "ba832c94-9648-44c6-9f2a-4ab6bbb45b90": "Шапорева Светлана Александровна",
+        "ce6303e1-a4f0-4006-bee3-b5695b28e34c": "Киргинцева Анастасия Максимовна",
+        "908dc7f3-c77e-46d2-9654-94c415c9c744": "Кушнаренко Татьяна Николаевна",
+        "3ae1aad4-9880-4513-bf31-1395d635f7cb": "Миргалеева Валерия Владиславна",
+        "a0247346-5ff2-43ad-b80a-caf26696c416": "Федорякин Виктор Алексеевич",
+        "f2e72a65-88b6-45dd-bae9-6304fcc7657d": "Белоусовский Яков Михайлович",
+        "1156b6c8-21c5-4f2d-ac24-165c76bfc2e3": "Пешкичева Анна Николаевна",
+        "3a7ace14-70d3-4eb3-a97a-c0d375badeec": "Попов Михаил Владимирович",
+        "e01e48fa-f86f-4aa5-8c18-30d0421b0f51": " Павлов Дмитрий Александрович",
+        "550b0594-b01e-475a-9655-d0128f333a0e": "Афоничкин Сергей Николаевич",
+        "cbbd1011-d347-4737-8d1a-bf65e1917ec6": "Назарченко Сергей Сергеевич",
+        "9627a648-c2fb-4e57-b8e2-1d5246753efb": "Новиков Егор Игоревич",
+        "7cf7f2ab-9b3b-42c1-8c40-3ca1d2b9014e": "Ишаев Ильнур Анварович",
+        "91208471-be47-4fb0-a520-19725e608d4c": "Опекунов Евгений Александрович",
+        "07d3296d-1ca3-4ed5-9be5-2380a6f4bf7f": "Бардин Денис Борисович",
+        "f6c2031d-543e-4aa4-8054-bb997f251c4a": "Халистов Сергей Игоревич",
+        "64813d14-2999-48da-8215-e5518fd170fe": "Пашков Александр Олегович",
+        "c519fbc7-46b5-4c98-8471-0a583870009a": "Хританков Владислав Сергеевич",
+        "3890ca58-6fd8-4178-8b97-96f5f1376dd2": "Бакшаев Иван Викторович",
+        "49c3f09c-ceab-4d23-a72d-229395dbf819": "Синицын Дмитрий Васильевич",
+        "c115f919-f0ed-420d-8792-14c1ce432dae": "Рожинский Сергей Сергеевич ",
+        "40e9454b-6ff9-4411-93c3-c82d790b8fb2": "Недякин Дмитрий Владимирович",
+        "d93173c7-ea2a-43a1-9279-ae9a28411aed": "Гокина Аида Александровна",
+        "4b0d494c-059b-4ac8-93e6-33eb5c27a928": "Гааг Александр Константинович",
+        "6f02b523-a9e1-49bb-a646-81d034c85303": "Прощалыгина Екатерина Павловна",
+        "e4eb8274-87be-453f-ae06-e0517dc3a509": "Петрачук Артем Евгеньевич",
+        "2d8a9983-ced4-4b37-bc60-f699905cf0ab": "Суворова Ольга Анатольевна",
+        "29f3c991-1a24-4ae5-8e83-da09be6bac60": "Пустовалов Семён Георгиевич",
+        "5c466a53-ecef-4d23-99b9-9321e2652096": "Пустовалова Любовь Викторовна",
+        "6bf9c46e-26c1-45f2-a391-3b6ccd0bd1a1": "Микушин Семён Алексеевич",
+        "e862496e-0318-43b5-8240-1d300069e6e9": "Киселева Карина Сергеевна ",
+        "0ea64528-ae82-48d2-a41c-1746d774ca24": "Чернов Александр  Денисович",
+        "9b2ed67c-b0c0-45ed-afab-fa8e5867b894": "Сидоров Владислав Сергеевич",
+        "7c4d6207-7eea-4472-90c8-5150ad7f12c7": "Мамедова Гюльчогра Тагировна",
+        "660af84e-4193-4fe3-b133-7a2c96f18a07": "Семенов Сергей Евгеньевич",
+        "b76fede1-ce50-4853-9931-06c165e3dfa0": "Жданов Алексей Андреевич",
+        "c6a4f1c2-66b1-4e3f-a28f-158a5684bc9f": "Осипенко Юлия Александровна",
+        "f942ed54-55e3-4607-b306-f3c645c71505": "Шарипов Алексей Талгатович",
+        "4394145d-4d09-4196-909b-f2b06895dd92": "Черных Ярослав Сергеевич",
+        "0e4038ea-b802-4695-8ffe-4cf8f505355d": "Меркульев Виктор Игоревич",
+        "755f2c62-d397-4be9-a995-6b0bfbcc6aa3": "Бойко Петр Анатольевич",
+        "14ce40b2-e786-42df-829f-7b19cf9b501c": "Юрьев Николай Геннадьевич",
+        "6e00f313-8ae4-4c9c-b642-24ec4e84630e": "Федоров Игорь Николаевич",
+        "915101f9-2421-4430-b2f9-c35eb4fdffd3": "Аксёнов Дмитрий Сергеевич",
+        "b6f19c53-8d75-4ca4-af79-97c5ee167317": "Резепов Станислав Сергеевич",
+        "085dbba1-9f15-4144-85ee-82c0556c5731": "Самаркин Сергей Васильевич",
+        "2689f6d7-ee57-4d6f-a179-8b8128f4251f": "Ибраев Асет Сагындыкович",
+        "e625bb52-a755-46df-a205-3870455e409e": "Тагиев Халид Ханкиши Оглы",
+        "3293e64d-d8c8-4105-99ae-16d93d09ab7f": "Жигачёв Евгений Александрович",
+        "56661127-8e51-4de8-b286-6c1edc1654d9": "Ткачев Евгений Денисович",
+        "53341c1b-cc95-4e65-ba01-2287fe2d1ab7": "Махсудов Кирилл Алишерович",
+        "1f65d1b4-2e71-4f75-97b3-58003261fa48": "Сержантов Роман Дмитриевич",
+        "6b02cdd3-0af1-4894-b29f-954a574c7ffe": "Брюханов Александр Сергеевич",
+        "26d950a0-caa6-4f11-8264-4ae4343fc24a": "Гаджирагимов Вячеслав Хасаевич",
+        "448d82aa-c46b-4320-9725-89281b683298": "Кузнецов Сергей Алексеевич",
+        "74ca92f4-87d9-4d76-90f1-a822d0d9773a": "Чулков Евгений Сергеевич",
+        "4175fa1f-75ac-4c45-9352-415d0de15e59": "Тетерин Никита Алексеевич",
+        "9e86f93e-053e-4a71-a5a2-1f1f49bb1548": "Булдаков Илья Александрович",
+        "00971744-a333-4499-9e58-f6b3f796daa6": "Астафьева Наталья Александровна",
+        "5ab6a79e-4d9f-45dd-8851-aac5c444af52": "Гуров Антон Сергеевич",
+        "394d3237-bde7-4353-8557-dafc90f576c4": "Прищепа Егор Викторович",
+        "968498ae-a2e6-4063-ac14-f64033a0a842": "Анопченко Ирина Александровна",
+        "adcd499e-04f3-4ca8-91e0-d02d8cac7d37": "Банаев Олег Сергеевич",
+        "e6fa45bb-26d4-4ef3-9184-4dbae7ab8062": "Абашев Дмитрий Владимирович",
+        "f1207911-bc40-4bfb-9edd-e944d190c4f4": "Цыренов Дондок Валерьевич",
+        "c2ffe5a2-c5cb-4d3f-a9c3-da062e02c66a": "Качан Григорий Николаевич",
+        "c37fc129-5c38-4caa-a23a-3ac97db750a8": "Росляков Андрей Владимирович",
+        "a8626a25-8068-4cc5-a312-3cd12191d582": "Павленко Виталий Сергеевич",
+        "c1d3664c-d36f-4d71-acde-03bd99073e1a": "Брындин Максим Сергеевич",
+        "415cf310-cbf0-4432-bd5f-8cc5f4db450c": "Конюхов Василий Анатольевич",
+        "2b98b586-e709-4128-a3c5-c9313a8282a4": "Клопов Денис Павлович",
+        "6112dc4e-8fdc-457a-8711-abd597512233": "Леопа Алексей Евгеньевич",
+        "a908cb55-49a2-456f-9561-f44776c463d0": "Суворов Александр Александрович",
+        "0deb8088-8826-4944-987d-32604583dc6d": "Аккерман Сергей Андреевич",
+        "4ff8ff47-5f1b-4e7c-a06a-f12fcf4e6831": "Никишин Никита Викторович",
+        "2081f27c-e21c-4169-bd5b-88b42fce7304": "Кобзарь Сергей Алексеевич",
+        "81bb3ade-8738-4590-b63c-2804f496823e": "Дубовик Владислав Витальевич",
+        "9c687da8-6164-4c24-b80a-a315818e775b": "Кочергин Алексей Евгеньевич",
+        "5de49ffd-a820-4fa5-a795-c5ced2b4b8db": "Дибров Иван Геннадьевич",
+        "1f2c17eb-420f-4578-a48c-82b78f866abc": "Ананин Богдан Юрьевич",
+        "cb5126a1-d934-4103-a87a-ef50e0ec31b4": "Шометько Константин Вадимович",
+        "3a395309-2315-4265-8704-2be3cff9830b": "Логинов Алексей Алексеевич",
+        "c60153ec-6521-4fa7-a6e8-d9aedde990ec": "Вержбицкий Денис Ниязович",
+        "f638dc3e-07b5-485f-a936-6838d312c0db": "Дробин Денис Дмитриевич",
+        "240662a0-5855-4ad6-bca8-5926fae9c09b": "Шуликов Дмитрий Евгеньевич",
+        "39e3c241-453d-4b40-afa5-132a693d946c": "Борозновский Александр Сергеевич",
+        "5514319f-cd64-488f-8db1-a94bb3431c76": "Головков Александр Владимирович",
+        "ef4ec9b6-140d-4c12-933c-bfaac5a46c0c": "Пантелеев Дмитрий Евгеньевич",
+        "6c1d4429-fb51-4d71-b21b-98e30fcbb496": "Митин Андрей Викторович",
+        "cee0485e-f81c-4229-ba21-6e1698c2427d": "Тонков Сергей Михайлович",
+        "5b3aac8d-a4ce-4721-9604-c9433a2d39be": "Цыганков Юрий Николаевич",
+        "10b8d369-4a48-4bc0-acd5-266965f2fbc5": "Крысов Антон Евгеньевич",
+        "0b87de7c-852b-44e0-a771-5d3b00ab79d6": "Гусельников Алексей Юрьевич",
+        "dc1d1c8a-aa8a-4977-bb2d-2de97e65b576": "Саликов Амангельды Сиюмбаевич",
+        "d03c0206-83bb-46ed-bd9b-0d64b2c8cbb1": "Чернов Евгений Александрович",
+        "e798405e-d6dd-4847-b847-37ff5d72e10c": "Мергалиев Олег Валентинович",
+        "c491a52f-de2e-4e92-a932-0569b814e0ff": "Горбач Иван Антонович",
+        "4e630159-15d6-48fe-95cd-f97f10123c26": "Тиунов Дмитрий Андреевич",
+        "f59c2322-dc82-4d39-a69f-e05b26692ba9": "Кобец Валентин Викторович",
+        "236907e9-2a7b-441c-9899-427b3a6ce221": "Мусайбеков Арман Кабдулуафович",
+        "072237ab-ef17-4f3b-a948-6ca82a251272": "Перфильев Станислав Андреевич",
+        "ab7e8218-96b5-4e60-abda-f5020baeaacb": "Курий Виталий Иванович",
+        "b1ec348a-f92b-484b-b2ab-15e5c25178e3": "Ничипуренко Алексей Сергеевич",
+        "dcf25584-3a15-472d-8109-d97e19b0ed2b": "Кинзерский Максимос-Панайотис Юрьевич",
+        "6f43510a-7c8b-4b51-a638-2751afd03ec1": "Григоренко Роман Игоревич",
+        "2aa9183d-fe78-49b9-b598-8b9197d186e2": "Тыртышных Вадим Витальевич",
+        "e69d2e2a-f22e-4051-939a-48287ec38e86": "Смирнова Елена Николаевна",
+        "57b1896c-5edc-435a-b8ac-a6ca6fbe56e6": "Лымарь Сергей Геннадьевич",
+        "cf0db37d-d4ae-4b77-9832-fc15fdebbb0f": "Бобров Илья Александрович",
+        "65c01410-be73-4174-8023-416ac0d2c097": "Иванов Андрей Сергеевич",
+        "54a4da14-2fd9-4d39-9389-f2e65c7ed635": "Усенко Данил Юрьевич",
+        "e63ccdd6-12dc-4f68-bba6-a1bf6ae3e264": "Мельников Артём Андреевич",
+        "1c6246eb-df38-4ad6-95b1-6d334f8a274e": "Йулдашалиев Элмурод Расулжонович",
+        "3d92b9f0-4e69-4e14-af0b-1894b7adca78": "Градзион Сергей Евгеньевич",
+        "df592d3e-d6b5-4f90-b168-f89add8591ab": "Казангаков Ринат Кайратович",
+        "c559c37d-8786-4893-babc-7144ee4a431d": "Варкентин Андрей Юрьевич",
+        "40856093-5b45-4a94-8388-733f987f96bc": "Торбин Денис Дмитриевич",
+        "9f99d62a-0217-469c-811e-5ac09b9bddf6": "Мальцев Виталий Александрович",
+        "a5e73bb5-f0d5-4f62-a606-1db06bd33867": "Петров Евгений Анатольевич",
+        "05dd574a-6c4f-4694-9884-0b5bc82d0903": "Югов Алексей Алексеевич",
+        "6fbbf0c5-bf66-45e1-ab88-b2ec53dc59ff": "Арыстанбеков Болат Нурланович",
+        "49201f4e-b050-4ceb-8356-fae69451e322": "Гармаев Буянто Дашиевич",
+        "099e4948-e043-447f-85b2-496552098c18": "Ерошенко Роман Никанорович",
+        "a7ae6957-6506-4493-8ae0-404c5bb6dbfd": "Кожевников Денис Викторович",
+        "3e243bdd-3f3f-402e-988f-d9cb9214591e": "Наймушин Александр Юрьевич",
+        "5254770c-fc8d-4c5b-96d5-3c1ddc0c2332": "Симанчев Максим Владимирович",
+        "f2ff0ef4-8cbc-4938-b4a7-37f68cf5947c": "Басин Дмитрий Валерьевич",
+        "373601a6-8c79-4308-b3a5-09b68935630d": "Черненко Ульяна Алексеевна",
+        "aee430d3-fce4-44c1-8a0a-8c98d1a2f238": "Алексеев Александр Сергеевич ",
+        "5667c130-2ce3-433f-8a58-2cf67d6e9387": "Губин Александр Иванович",
+        "bce34054-2619-475e-803a-231690996d9b": "Эсенова Динара Амангельдыевна",
+        "ae694df5-c8b5-4b0e-8323-abebc8a34013": "Пан Сергей Александрович",
+        "7e55f169-4f2f-4fb9-a767-fab5c99f4d99": "Шуклина Татьяна Владимировна",
+        "76740074-59be-4c3d-8376-645697244620": "Юшкова Наталья Геннадьевна",
+        "4485aeba-d258-4f9e-bf1b-6ebb57645530": "Максимова Полина Станиславовна",
+        "4d9567ab-2137-4af3-9796-6110540fc516": "Банин Сергей Вячеславович",
+        "71ff25b8-a47d-4a58-b674-4354467ad62b": "Хряков Алексей Евгеньевич",
+        "ee473ecd-5715-4085-86fc-a0cc7a97159c": "Шаухалов Георгий Александрович",
+        "858ed881-2c4a-4a22-97eb-942f686aafa3": "Ермаков Сергей Сергеевич",
+        "58d3ee92-9b77-46e6-bfcf-933d27dde6d1": "Кабанен Валентин Викторович",
+        "88477fe9-3b83-49fd-be26-24cb41885f86": "Шаламов Кирилл Александрович",
+        "12324e89-1111-4a8d-826a-cc2c868273a1": "Запорожец Евгений Александрович",
+        "54426a46-628b-4efc-9493-5499e976ef90": "Горбатова Анатсасия Владимировна ",
+        "8e15da59-911d-4292-953b-d84279b67e78": "Трунов Максим Евгеньевич",
+        "046e2255-e016-448a-8817-36299af6acee": "Скворцова Светлана Леонидовна",
+        "fc1b4ec6-eae8-4377-88c8-04343b9fa8fa": "Юсупов Азамат Винерович",
+        "47f7fbc8-5f5a-45f8-b983-ee2ba8966b4f": "Сульженко Владимир Андреевич",
+        "3d984022-6aeb-4a29-857c-8ebf210a0487": "Кушенова Эльвира Хайрулловна ",
+        "930a5d5b-8694-429d-916f-7153af068040": "Быков Александр Дмитриевич",
+        "8070434c-5a7d-4f56-b2a7-b5c71b678f9d": "Дрожжина Вероника Константиновна",
+        "46da5eaf-e5a2-40aa-90fe-1c566b2d7d98": "Белый Станислав Викторович",
+        "0636f2df-c421-4e41-9aa8-f6b2b56c10dc": "Чистяков Михаил Александрович",
+        "79cf9186-0e82-44d4-b02f-192120eeb4b5": "Кузнецова Алина Сергеевна",
+        "3a9016c7-91dc-4d16-a64d-246279c2706c": "Самойлов Алексей Антонович",
+        "09c7b053-c1c6-4e33-94ac-018aca39cafc": "Земцов Семён Александрович",
+        "ee98f81a-75b3-4bcc-97d7-fdd259f18228": "Рычкова Наталья Валерьевна",
+        "a644bbcc-34ce-45f8-abc2-cb25c9fae807": "Прохоренков Вадим Константинович",
+        "6c2b5055-f5bf-4e0d-8f69-c1ecf5a7b2e0": "Нефёдов Роман Олегович",
+        "9715ffe8-5659-45b1-a62e-01e625823851": "Павлюкевич Леонид Брониславович",
+        "946ddc80-5416-45a4-b574-a09360689c7c": "Ищенко Екатерина Алексеевна",
+        "ff9c78de-7d75-40fe-8374-74ac126c3891": "Аушахманова Салтанат Амангельдыевна",
+        "c7a3c23a-3e16-450b-b606-73e78972b347": "Ключников Даниил Иванович",
+        "27165553-4a81-41d0-ac0a-d18e667ababb": "Новикова Влада Александровна",
+        "3243bdbc-1ada-4e03-978f-b5245ce14cc2": "Муканов Мурат Санзызбаевич",
+        "b096f378-a4bd-408b-80fb-f02fa67747bd": "Жунусов Медет Ержанович",
+        "5d6db030-1d85-4f52-ba4b-edb2e28d1e78": "Филипенко Алексей Сергеевич",
+        "a7042372-9da3-4da8-a7ac-3bade108f7c1": "Шокарев Данил Сергеевич",
+        "fa644998-2f70-4932-86f8-f748197513fd": "Ситалова Марина Максимовна",
+        "df59a7ed-ace5-4bce-bf5a-35bd8a3d1948": "Толстобров Николай Николаевич",
+        "0e197ee4-2c71-45ac-a8bf-a5c8c600ab32": "Жбанова Анна Николаевна",
+        "8e39a0e5-6eb0-4ddc-a28b-5db1f2f25f48": "Хрущёв Денис Андреевич",
+        "892a750b-7736-43b4-963d-51ebcbd907b5": "Мошинский Дмитрий Викторович",
+        "982c085e-4ddd-46a7-a3eb-320094b0175d": "Усеинова Зере Куанышевна",
+        "dea2d541-a7ae-4786-a806-4dfcd4e94d11": "Морозов Александр Викторович",
+        "dfb17323-bbb8-4905-813f-a7f101283187": "Суховой Андрей Николаевич",
+        "9a9cf4be-eca9-4fca-ac24-f61f510219bb": "Сапелкин Денис Сергеевич",
+        "a917f35a-0c85-4833-981c-53b4a6e4baea": "Трушин Игорь Николаевич",
+        "b858b078-6a97-44cc-9cde-0e84bad7264c": "Кугаевский Вячеслав Владимирович",
+        "0b96e32d-b4ea-4988-a425-77e90f38b85b": "Борисец Вадим Евгеньевич",
+        "0833f3f8-e39c-42f9-914e-7c9b9bcc0932": "Дюженко (Иваненко) Алена Ивановна",
+        "0066bfed-4026-4f9f-a2df-57a4e47c9248": "Маликова (Бушина) Галина Евгеньевна ",
+        "92aa0db9-5bb3-4607-957d-0446c890807d": "Тильман Вальдемар Иванович",
+        "79a79033-1354-4240-a994-7f66cb9f9f61": "Шенфельд Дмитрий Сергеевич",
+        "f253f032-b1c8-4b2c-8fad-de52a03d6667": "Зятьков Юрий Геннадьевич",
+        "0af3b7ba-1e25-407b-920e-3191a37eef12": "Сёмочкина Алина Евгеньевна",
+        "670bd4f4-3315-496e-899e-6b3f5780e84a": "Кульгейко Евгений Юрьевич",
+        "d63c93f7-da8f-4def-b379-ebbf0d5fd2ea": "Кузнецов Кирилл Вячеславович",
+        "4be103f1-f3b3-497d-9a73-ef31f24fa631": "Сапин Данияр Назымбекович",
+        "3b8a19a2-8df3-4a97-b03b-a21a018d1d7e": "Лымарь Надежда Леонидовна",
+        "445c786f-9aac-4319-a608-967a8f725b55": "Кропачева Валентина Александровна",
+        "4520bf14-3c3d-429b-a69d-5bb8ec5bdba9": "Попов Иван Сергеевич",
+        "16ba1471-8943-4767-82a9-36c8f9d5ba01": "Нелюбова Полина Денисовна",
+        "96d6f2ce-5549-4ae7-b113-eb15b39bfec4": "Вент Евгений Александрович",
+        "a0affbd2-5f85-4920-a0bf-2de1d7c2d9cd": "Смирнов Даниил Алексеевич",
+        "5b5d4bc0-7680-4ae8-9cb8-52e12ddfd9f9": "Бурлаков Денис Вадимович ",
+        "0ad9ef6c-39cb-44d3-9cc5-f67ecab54241": "Бузов Иван Александрович",
+        "8180d887-0699-4709-b41d-2b97b26ee822": "Корюкин Степан Александрович",
+        "71ac601f-2dd8-4740-b563-854e3cda099e": "Зинченко Юлия Андреевна",
+        "663e41cf-afde-4876-b9bb-8f336a774a7b": "Архипенко Владислав Викторович",
+        "af42a5b6-88c0-4cd9-bcb3-617e4685f7a6": "Козлов Станислав Сергеевич",
+        "d84e546f-32f1-4bca-afb3-2e1118a7fa5e": "Мусин Евгений Хильманович",
+        "bd8e2424-8b83-4ce7-9890-8fcb0f810c63": "Ваймер Анастасия Александровна",
+        "b30f907d-4cd9-4ede-a95a-126bf3bad6e4": "Айваседа Татьяна Петровна",
+        "b19d6afb-b958-4ecb-838b-3a4cc6462220": "Ефименко Юлия Сергеевна",
+        "e6fb4198-f297-4b1f-8340-fde3fd2d4e9e": "Сидорова Дарья Александровна",
+        "a6779d9d-0848-47bf-bba2-7f8a16d7666a": "Немирский Сергей Викторович",
+        "6a6dc42a-09c8-4d6c-87c0-4e813b320cca": "Петров Ян Алексеевич",
+        "0fb9f903-2bd6-411d-86e4-75290cfe918e": "Кравчик Бронислав Владимирович",
+        "d99e5ead-2dbc-4a41-915b-5f846e6bff96": "Павлов Александр Сергеевич",
+        "522b1bf2-65c5-481d-b8b4-52054769cddf": "Пинисова Юлия Александровна",
+        "ff0c9097-1d38-4e4d-8ef5-75b19ecce526": "Ефремов Константин Николаевич",
+        "3e25c20a-81f1-4dd0-9c18-820a87500e63": "Кравчик Виталий Владимирович ",
+        "ff01fc80-25af-4ec2-919c-10073279fbf3": "Раскулина Алина Константиновна",
+        "342d5b04-4e40-42e8-9ccb-5b0d3057f659": "Таркина Елизавета Андреевна",
+        "7b8ff936-e1fe-48f4-9b8d-596bc885c0b0": "Леденев Константин Андреевич ",
+        "0755790b-f168-4c13-b6f6-27632d2618ac": "Рогловская Кристина Андреевна",
+        "51c80dc3-a69c-483d-b03f-0ab544318187": "Давыденко Александр Игоревич",
+        "c20e53ca-bead-4b73-b150-ba8f2e183f89": "Тайлаков Игорь  Вячеславович ",
+        "525c1de9-5743-4479-b39f-0f279840b7fe": "Шакирзянов Руслан Ренатович ",
+        "34f2af4b-428c-4a03-857c-eb86594c7d46": "Кривокорытова Алиса Валерьевна",
+        "b53772ae-d5da-4335-92ba-3c1f72ef0745": "Лоншаков Вячеслав Сергеевич",
+        "861b015f-de10-4249-8f98-6dd7ab3ed4ca": "Колтунова Дарья Михайловна",
+        "9ad039be-8bf6-478b-bbac-9532ebe098a5": "Некрасова Анастасия Андреевна",
+        "aa8af051-e49a-4c96-a6e3-6cc18102a633": "Кузнецов Андрей Владимирович",
+        "2a30b45d-216d-442e-9e1d-b99255940c56": "Перевозчикова Евгения Борисовна",
+        "59c6c9a2-51de-4f24-97d8-7ce2d6bbfc4d": "Никонов Виктор Евгеньевич",
+        "ad8e59ec-a6ba-401f-9e16-a13da72b9cca": "Блинов Игорь Анатольевич",
+        "fbcb2c70-79cf-41a0-bc51-d2b52817df4e": "Ларионов Степан Евгеньевич",
+        "975efc7e-6540-4aea-919c-fd9dd3dae496": "Носов Алексей Анатольевич",
+        "fe0b3da1-ca30-403c-bc7e-8931b29bfd64": "Куликов Александр Владимирович",
+        "f1f7afc5-34dd-4884-b177-9e1b761e73cb": "Ерофеева Софья Алексеевна",
+        "bf4d367a-ae52-4e43-8371-d07ef3d4290b": "Олешко Ольга Сергеевна",
+        "4f6a5076-d33a-4553-99e8-e674469bdedf": "Полянских Олеся Викторовна",
+        "9f760810-ffd4-41f9-a063-5733a23174f6": "Романов Антон Андреевич",
+        "748ce09f-a04a-4539-b297-9ed8c28bfc58": "Воронов Игорь Алексеевич",
+        "414ff29c-ffe6-4edf-a3e9-0dc3e8f6ee0b": "Селиверстов Максим Сергеевич",
+        "317058df-09d5-4202-a355-5abae698e6a2": "Глуздова Василина Владимировна",
+        "08781b2e-d21e-460b-9cbf-ad619184550d": "Лодягина Алина Сергеевна",
+        "4b404e91-3aaf-4c5a-a95d-b5fec1ddcccc": "Манаков Даниил Андреевич",
+        "1d70e456-754f-4aaa-b1bd-95fc3ce1b5c6": "Крикун Николай Викторович"
+    }
+]

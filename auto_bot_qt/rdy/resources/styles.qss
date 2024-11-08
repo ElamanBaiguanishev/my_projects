@@ -1,0 +1,7 @@
+QPushButton {
+    background-color: #ced4da;
+}
+
+MainWindow {
+
+}

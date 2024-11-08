@@ -1,0 +1,75 @@
+Marvell Yukon 88E8056 PCI-E Gigabit Ethernet Controller
+Realtek RTL8169/8110 Family PCI-E Gigabit Ethernet NIC (NDIS 6.0)
+VIA Rhine Fast Ethernet Adapter
+Marvell Yukon 88E8055 PCI-E Gigabit Ethernet Controller
+VIA Rhine II Fast Ethernet Adapter
+VIA VT6102 Rhine II Fast Ethernet Adapter
+Realtek RTL8101 Family PCI-E Fast Ethernet NIC (NDIS 6.20)
+Intel(R) 82562GT 10/100 Network Connection
+Realtek RTL8111/8168/8411 PCI Express Gigabit Ethernet Controller
+Realtek RTL8111E-VB Gigabit Ethernet Controller
+Realtek RTL8110SC(L) 10/100/1000 PCI Gigabit Ethernet Controller
+Intel(R) 82576 Gigabit Dual Port Network Connection
+Realtek RTL8102E/RTL8103E Family PCI-E Fast Ethernet NIC (NDIS 5.1)
+Marvell Yukon 88E8050 PCI-E ASF Gigabit Ethernet Controller
+Broadcom 570x Gigabit Integrated Controller
+Intel(R) 82566DM-2 Gigabit Network Connection
+Qualcomm Atheros AR813x/815x/816x PCI-E Gigabit Ethernet Controller
+Realtek RTL8101 Family PCI-E Fast Ethernet NIC (NDIS 6.0)
+Realtek RTL8110SC(L) 10/100/1000 PCI Gigabit Ethernet Controller (NDIS 6.0)
+Realtek RTL8169SC(L) 10/100/1000 PCI Gigabit Ethernet Controller
+Intel(R) 82578DC Gigabit Network Connection
+Qualcomm Atheros AR8162/8166/8168 PCI-E Fast Ethernet Controller
+Atheros AR8131 PCI-E Gigabit Ethernet Controller (NDIS 6.30)
+Qualcomm Atheros AR8162/8166/8168 PCI-E Fast Ethernet Controller (NDIS 6.30)
+Realtek RTL8112 Gigabit and Fast Ethernet NIC
+Broadcom 440x 10/100 Integrated Controller
+Intel(R) 82574L Gigabit Network Connection
+Intel(R) 82567LF-2 Gigabit Network Connection
+Qualcomm Atheros AR8152/8158 PCI-E Fast Ethernet Controller
+Marvell Yukon 88E8039 PCI-E Fast Ethernet Controller
+Realtek RTL8168B/8111B Family PCI-E Gigabit Ethernet
+Realtek RTL8101 Family PCI-E Fast Ethernet NIC
+Intel(R) Ethernet Connection (2) I219-V
+Broadcom NetLink (TM) Fast Ethernet
+Broadcom NetXtreme Gigabit Ethernet Plus
+Broadcom NetXtreme Gigabit Ethernet (NDIS 6.0)
+VIA Rhine III Fast Ethernet Adapter
+Broadcom NetXtreme II Gigabit Ethernet
+Marvell Yukon 88E8038 PCI-E Fast Ethernet Controller
+Realtek RTL8102E/RTL8103E Family PCI-E Fast Ethernet NIC
+Atheros AR8131 PCI-E Gigabit Ethernet Controller
+Marvell Yukon 88E8042 PCI-E Fast Ethernet Controller
+Realtek RTL8168C(P)/8111C(P) PCI-E Gigabit Ethernet NIC
+Intel(R) 82567LM-3 Gigabit Network Connection
+Qualcomm Atheros AR8171/8175 PCI-E Gigabit Ethernet Controller
+Broadcom NetLink BCM57788 Gigabit Ethernet PCIe
+VIA VT8237A Rhine Fast Ethernet Adapter
+Marvell Yukon 88E8036 PCI-E Fast Ethernet Controller
+Intel(R) 82579V Gigabit Network Connection
+Realtek RTL8168C(P)/8111C(P) PCI-E Gigabit Ethernet NIC (NDIS 6.20)
+Marvell Yukon 88E8040 PCI-E Fast Ethernet Controller
+Atheros AR8132 PCI-E Fast Ethernet Controller
+Atheros L1 Gigabit Ethernet 10/100/1000Base-T Controller
+Intel(R) 82579LM Gigabit Network Connection
+Atheros L2 Fast Ethernet 10/100 Base-T Controller
+Qualcomm Atheros AR8161/8165 PCI-E Gigabit Ethernet Controller (NDIS 6.30)
+VIA VT6105M Rhine III Management Adapter
+Broadcom NetLink BCM57780 Gigabit Ethernet PCIe
+Intel(R) 82566DC-2 Gigabit Network Connection
+Realtek PCIe FE Family Controller
+Intel(R) 82562V-2 10/100 Network Connection
+Realtek RTL8102E/RTL8103E Family PCI-E Fast Ethernet NIC (NDIS 6.20)
+Realtek RTL8168D/8111D Family PCI-E Gigabit Ethernet NIC (NDIS 6.20)
+Broadcom NetLink (TM) Gigabit Ethernet
+Intel(R) 82583V Gigabit Network Connection
+Qualcomm Atheros AR8152/8158 PCI-E Fast Ethernet Controller (NDIS 6.30)
+Qualcomm Atheros AR8151 PCI-E Gigabit Ethernet Controller (NDIS 6.20)
+Atheros AR8131 PCI-E Gigabit Ethernet Controller (NDIS 6.20)
+Realtek RTL8102E/RTL8103E Family PCI-E Fast Ethernet NIC (NDIS 6.0)
+Atheros AR8151 PCI-E Gigabit Ethernet Controller
+Intel(R) Ethernet Connection I217-LM
+Realtek RTL8101E Family PCI-E Fast Ethernet NIC
+Realtek RTL8169/8110 Family PCI-E Gigabit Ethernet NIC
+Realtek RTL8168D/8111D Family PCI-E Gigabit Ethernet NIC
+Realtek RTL8169/8110 Family Gigabit Ethernet NIC

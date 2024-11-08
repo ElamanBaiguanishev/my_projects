@@ -1,0 +1,483 @@
+[
+    {
+        "Проба": {
+            "ЛТ": {
+                "lessons": {
+                    "Английский язык 1 с": {
+                        "Тест 1 семестр": "https://dot.omgups.ru/mod/quiz/view.php?id=83511"
+                    },
+                    "История России": {
+                        "Итоговый тест": "https://dot.omgups.ru/mod/quiz/view.php?id=94823"
+                    },
+                    "Химия": {
+                        "Тест 1": "https://dot.omgups.ru/mod/quiz/view.php?id=85283",
+                        "Тест 2": "https://dot.omgups.ru/mod/quiz/view.php?id=85284",
+                        "Тест 3": "https://dot.omgups.ru/mod/quiz/view.php?id=85285",
+                        "Тест 4": "https://dot.omgups.ru/mod/quiz/view.php?id=85286",
+                        "Итоговый тест по дисциплине": "https://dot.omgups.ru/mod/quiz/view.php?id=85290"
+                    },
+                    "Немецкий язык 1 с": {
+                        "немецкий язык_итоговый тест_1": "https://dot.omgups.ru/mod/quiz/view.php?id=86399"
+                    },
+                    "Информатика": {
+                        "Тест по разделу 1": "https://dot.omgups.ru/mod/quiz/view.php?id=86603",
+                        "Тест по разделу 2": "https://dot.omgups.ru/mod/quiz/view.php?id=86605",
+                        "Итоговый тест": "https://dot.omgups.ru/mod/quiz/view.php?id=86606"
+                    }
+                },
+                "students": {
+                    "411bcbbb-0619-440b-aefc-9ad128f250c1": {
+                        "login": "lisichnikov_73lt_234714",
+                        "password": "Nvs#5236"
+                    },
+                    "6bda3f1a-4849-4e9c-95a8-dfc130297f80": {
+                        "login": "sokolov_73lt_234710",
+                        "password": "Sok#9173"
+                    },
+                    "c0cee5b3-1667-4e8c-83ab-ff04f3003fb1": {
+                        "login": "stepanychev_73lt_234712",
+                        "password": "Ste#1717"
+                    },
+                    "17c6165e-d491-4d1b-bd6d-dfb397c41f3c": {
+                        "login": "akhmetov_73lt_232754",
+                        "password": "Akh#8538"
+                    },
+                    "fdca6eb6-0749-4a98-8d25-96ff9abf90b8": {
+                        "login": "chumarov_73lt_234713",
+                        "password": "Chu#7924"
+                    },
+                    "d4c20e22-879e-4a8e-bd5c-aec15a1e7884": {
+                        "login": "gorbenko_73lt_233517",
+                        "password": "Gor#3948"
+                    },
+                    "fe6dd3f2-91c3-4bff-8868-eac70a721a81": {
+                        "login": "chekhlystov_73lt_235278",
+                        "password": "Che#7121"
+                    },
+                    "29db3b28-349b-4e53-9cca-cae480f5db5b": {
+                        "login": "voloshin_73lt_231954",
+                        "password": "Qwepoi992!"
+                    },
+                    "59b2d9d9-7f7b-46ea-b240-976384141598": {
+                        "login": "borodin_73lt_231935",
+                        "password": "Bor#9563"
+                    },
+                    "b5891504-a0c0-4ed5-9dd6-6f8722903902": {
+                        "login": "bulygin_73lt_233514",
+                        "password": "Bun#7869"
+                    },
+                    "11b67102-f85c-49ee-9514-623e11883b79": {
+                        "login": "shergin_73lt_235263",
+                        "password": "She#6968"
+                    },
+                    "c42732a4-11ab-4ac3-a39f-f8c6ffb2f6b6": {
+                        "login": "tikhonov_73lt_231945",
+                        "password": "Tvk#2434"
+                    },
+                    "f20fae31-44df-4ec6-825e-4c727a88878b": {
+                        "login": "antonyuk_73lt_232748",
+                        "password": "Ant#5167"
+                    },
+                    "9efda4c9-8013-4e6e-9735-8f1f79550a95": {
+                        "login": "lazarev_73lt_236298",
+                        "password": "Naz#2799"
+                    },
+                    "0e52e2ed-57a4-44b2-a9d5-2d26162542e5": {
+                        "login": "solovyov_73lt_232751",
+                        "password": "Son#2420"
+                    },
+                    "33c1d086-a785-4a28-bebc-0cd271023eb8": {
+                        "login": "pichugin_73lt_231940",
+                        "password": "Pvc#6885"
+                    },
+                    "f18fc6bc-d77c-4294-88a0-8a9043fbe61f": {
+                        "login": "murzin_73lt_235271",
+                        "password": "Mur#1494"
+                    },
+                    "0e830796-e0bb-4d9f-ae29-12949e8f2c90": {
+                        "login": "batchev_73lt_231951",
+                        "password": "Bat#1750"
+                    },
+                    "a9601714-fb58-4a6f-a75d-15974dfff1db": {
+                        "login": "gameev_73lt_236296",
+                        "password": "Gam#5371"
+                    },
+                    "82548d78-c846-4639-9d78-98edb4527f59": {
+                        "login": "plyusnin_73lt_234704",
+                        "password": "Pny#3268"
+                    },
+                    "4fe56fa4-6413-4b12-a427-1e16d0f6580b": {
+                        "login": "lakhnenko_73lt_231952",
+                        "password": "Nak#5293"
+                    },
+                    "44f8f54c-490f-403c-9feb-be65cffbf69f": {
+                        "login": "kovalenko_73lt_235275",
+                        "password": "Kov#2445"
+                    },
+                    "46bb5c26-77b3-4849-a35a-62d0a942df49": {
+                        "login": "knol_73lt_232752",
+                        "password": "Kno#7299"
+                    },
+                    "74bd4540-6bbe-4ef1-a169-e74626129230": {
+                        "login": "chernoguzov_73lt_235256",
+                        "password": "Che#1763"
+                    },
+                    "f72d291d-e179-4b70-b390-1d0e002e1341": {
+                        "login": "kovalenko_73lt_236300",
+                        "password": "Kov#2386"
+                    },
+                    "caa8664a-8fa9-44fe-8c70-47e776450986": {
+                        "login": "abrosimov_73lt_232750",
+                        "password": "Abr#4635"
+                    },
+                    "c57f3270-f43b-430b-b92d-320082b5362b": {
+                        "login": "klyusov_73lt_235243",
+                        "password": "Kny#3314"
+                    },
+                    "4aef38f7-30d0-47c6-9dae-c9f72b3d5ba2": {
+                        "login": "rau_73lt_233511",
+                        "password": "Rau#7376"
+                    },
+                    "cc4a9973-2115-44c8-916f-058ce0ce9268": {
+                        "login": "kurov_73lt_235277",
+                        "password": "Kur#1899"
+                    },
+                    "8c1c4685-73ed-4c61-9e93-106232501ac2": {
+                        "login": "nazaryan_73lt_234719",
+                        "password": "Naz#1904"
+                    },
+                    "9094a9be-3357-4880-8bec-536f38dc56cc": {
+                        "login": "bazhanov_73lt_235267",
+                        "password": "Baz#7728"
+                    },
+                    "5cb58f9f-07ad-47bd-ae8e-3f5c84b639ef": {
+                        "login": "akhmerova_73lt_232749",
+                        "password": "Akh#7352"
+                    },
+                    "24a74922-53bf-4504-8fbe-45cb195197b4": {
+                        "login": "dragontsevich_73lt_234708",
+                        "password": "Dra#4677"
+                    },
+                    "a9bc0c54-e9b9-444b-b545-acacad2fd265": {
+                        "login": "shaymanov_73lt_236488",
+                        "password": "Sha#3053"
+                    },
+                    "7968b684-da1c-4317-9901-13a9a66e82b6": {
+                        "login": "tishkovich_73lt_235269",
+                        "password": "Tvs#7064"
+                    },
+                    "7fec8a49-95b7-410d-8dae-a533d2923f39": {
+                        "login": "trotsenko_73lt_235273",
+                        "password": "Tro#9687"
+                    },
+                    "86590c45-5434-41ee-99ab-4663749d4390": {
+                        "login": "konstantinov_73lt_232758",
+                        "password": "Kon#6302"
+                    },
+                    "bd17600d-8ac8-4e94-ab47-25863d8ff96b": {
+                        "login": "zubkov_73lt_236391",
+                        "password": "Zub#7384"
+                    },
+                    "e7473bdf-48a1-4b3c-8961-77a6b6488907": {
+                        "login": "sakenov_73lt_235245",
+                        "password": "Sak#7440"
+                    },
+                    "d8c4af25-6b58-4961-b881-04b09cac2fb7": {
+                        "login": "zayts_73lt_233516",
+                        "password": "Zay#6916"
+                    },
+                    "4903948e-1d30-43d9-ae79-e889e4ed4112": {
+                        "login": "shefer_73lt_235265",
+                        "password": "She#4489"
+                    },
+                    "39638344-82fd-424b-8e90-1e033eabcd0b": {
+                        "login": "makarov_73lt_235272",
+                        "password": "Mak#2747"
+                    },
+                    "52fd8efc-75e1-487e-ba13-2915f78de084": {
+                        "login": "porsev_73lt_231948",
+                        "password": "Por#8450"
+                    },
+                    "73cd738b-2cd4-4aca-bcce-0d2b996aa2f4": {
+                        "login": "katashev_73lt_235268",
+                        "password": "Kat#7387"
+                    },
+                    "82ddcd98-827d-4240-8fbe-e54d72e599b2": {
+                        "login": "filatovad_73lt_223057",
+                        "password": "filat#73LT"
+                    },
+                    "6a15cad5-6d5c-47cb-b409-5d861c5b37c8": {
+                        "login": "pilipchuk_73lt_236318",
+                        "password": "Pvn#2085"
+                    },
+                    "90479292-9a96-4a2c-82ba-84366edc88ee": {
+                        "login": "krasnenko_73lt_236326",
+                        "password": "Kra#7629"
+                    },
+                    "b37932df-a9df-4065-aee2-7e0a5b661017": {
+                        "login": "egorov_73lt_236324",
+                        "password": "Ego#4757"
+                    },
+                    "0b0064af-884c-41b6-9003-83fa3baec7c9": {
+                        "login": "sokolov_73lt_231950",
+                        "password": "Sok#9575"
+                    }
+                }
+            },
+            "ТЛ": {
+                "lessons": {
+                    "Английский язык 1 с": {
+                        "Тест 1 семестр": "https://dot.omgups.ru/mod/quiz/view.php?id=90884"
+                    },
+                    "Немецкий язык 1 с 2 т": {
+                        "Итоговый тест 1. Грамматика": "https://dot.omgups.ru/mod/quiz/view.php?id=87262",
+                        "Итоговый тест 2. Лексика": "https://dot.omgups.ru/mod/quiz/view.php?id=87263"
+                    },
+                    "Информатика": {
+                        "Тест по разделу 1": "https://dot.omgups.ru/mod/quiz/view.php?id=91923",
+                        "Тест по разделу 2": "https://dot.omgups.ru/mod/quiz/view.php?id=91925",
+                        "итоговый": "https://dot.omgups.ru/mod/quiz/view.php?id=91926"
+                    }
+                },
+                "students": {
+                    "94cc673d-677b-47c3-8bea-aa01efcd5149": {
+                        "login": "pugacheva_73tl_235356",
+                        "password": "pUgBuh#2484"
+                    },
+                    "7e22146d-9dac-4bfd-9074-e224718098cc": {
+                        "login": "yakutina_73tl_231876",
+                        "password": "Yak#8412"
+                    },
+                    "2fe6b592-418e-4548-8a91-16a8f1c69967": {
+                        "login": "ronn_73tl_232670",
+                        "password": "Ron#2557"
+                    },
+                    "c6491f77-b4ca-4a39-99e3-35bc39e469cb": {
+                        "login": "kondrasheva_73tl_233493",
+                        "password": "Kon#6593"
+                    },
+                    "3b0817cd-db3c-448e-9a9c-8c6829f72ff5": {
+                        "login": "rzaev_73tl_232671",
+                        "password": "Rza#7495"
+                    },
+                    "b5338c72-9dba-485e-9b66-714eee3cc293": {
+                        "login": "kanygin_73tl_235352",
+                        "password": "Kan#6031"
+                    },
+                    "b0422dd0-74b2-4c6f-855e-f6e7d412cfa4": {
+                        "login": "cherednik_73tl_233495",
+                        "password": "Che#4538"
+                    },
+                    "6c257f33-ccfc-409d-a123-9af2b4797daf": {
+                        "login": "erlikh_73tl_232678",
+                        "password": "Ern#6559"
+                    },
+                    "5c042ac9-ecc3-4214-ac68-6fff96ff47a7": {
+                        "login": "vasilevskiy_73tl_232668",
+                        "password": "Vas#6518"
+                    },
+                    "b130c438-49a9-4b30-8f93-300608e586d0": {
+                        "login": "kabatskaya_73tl_232674",
+                        "password": "Kab#7178"
+                    },
+                    "f28fd9c3-2192-4d35-b11f-8ebe9c4c47c2": {
+                        "login": "kordubaylo_73tl_234745",
+                        "password": "Kor#1137"
+                    },
+                    "157d2116-368b-47cb-934a-e414fdcfe1c9": {
+                        "login": "soloveva_73tl_235354",
+                        "password": "Son#4404"
+                    },
+                    "88c2c141-1983-4871-9ec2-b8fef1328f00": {
+                        "login": "yudaeva_73tl_234740",
+                        "password": "Yud#7385"
+                    },
+                    "f1f54a04-4324-4f73-ac4a-556d180028d2": {
+                        "login": "gvozdev_73tl_235399",
+                        "password": "Gvo#4827"
+                    },
+                    "3160b08a-3ea9-47d0-9790-01aaf523109e": {
+                        "login": "masyutina_73tl_232672",
+                        "password": "Mas#2177"
+                    },
+                    "2f7a619b-7795-4309-befa-c245da24639e": {
+                        "login": "starinchikova_73tl_232664",
+                        "password": "Sta#4542"
+                    },
+                    "d2177db6-b486-4b82-a740-2824f755c850": {
+                        "login": "rudenko_73tl_236484",
+                        "password": "Rud#8106"
+                    },
+                    "66ec51ac-f03c-4700-b31d-1fdd96867b98": {
+                        "login": "ermoshkina_73tl_234742",
+                        "password": "Erm#2998"
+                    },
+                    "6ee3f72a-df60-4dfe-93dc-b8e6e65636c2": {
+                        "login": "ozyakova_73tl_233490",
+                        "password": "Ozy#4099"
+                    },
+                    "f532f1be-5bbc-4943-8720-ee0e12e80d9e": {
+                        "login": "bantyukova_73tl_233486",
+                        "password": "Ban#4721"
+                    },
+                    "3796c149-89ee-4591-a5df-bf38442d0054": {
+                        "login": "kopylova_73tl_235349",
+                        "password": "Kop#2301"
+                    },
+                    "d87b9d1e-103b-407f-8f15-3198e9c142db": {
+                        "login": "brovko_73tl_232675",
+                        "password": "Bro#3619"
+                    },
+                    "1154c08c-8f3c-4d88-9973-fbdcd81ce8b7": {
+                        "login": "chesmanova_73tl_235350",
+                        "password": "Che#8274"
+                    },
+                    "58079e50-95e7-4f45-9183-014325206e0e": {
+                        "login": "mikhalev_73tl_235348",
+                        "password": "Mvk#6130"
+                    },
+                    "5495fc28-c1ad-47c0-8fa7-4688c5be55b9": {
+                        "login": "vasileva_73tl_234739",
+                        "password": "Vas#4807"
+                    },
+                    "fee1d413-b9e8-4478-b973-d5b710fc4699": {
+                        "login": "bazhenova_73tl_233492",
+                        "password": "Baz#8697"
+                    },
+                    "6a4db705-b313-44cd-93ac-b55a5deda2a2": {
+                        "login": "guselnikova_73tl_233488",
+                        "password": "Gus#3209"
+                    },
+                    "357a7d97-78f0-4ae9-992a-924cef6080b5": {
+                        "login": "popov_73tl_232662",
+                        "password": "Pop#4497"
+                    },
+                    "8d0c5e28-e4e9-464b-b514-7a3a348569ec": {
+                        "login": "vasyakina_73tl_232666",
+                        "password": "Vas#5739"
+                    },
+                    "1be30be6-08ff-4802-bef0-d1c5de377a19": {
+                        "login": "ilina_73tl_232669",
+                        "password": "Ilina2003*"
+                    },
+                    "9333c818-6aa1-46aa-a747-4510301678b6": {
+                        "login": "petrekeeva_73tl_233491",
+                        "password": "Pet#6488"
+                    },
+                    "553dccef-b12e-4c11-9748-bd0afc3b889b": {
+                        "login": "levshits_73tl_232667",
+                        "password": "10052016Dgyla$"
+                    },
+                    "4f71302f-ab03-4372-b09e-8ee62790c2f7": {
+                        "login": "staritsyn_73tl_232663",
+                        "password": "Sta#6132"
+                    },
+                    "16a64873-348a-4c78-b1eb-b177b49962c1": {
+                        "login": "urusova_73tl_235357",
+                        "password": "Uru#9518"
+                    },
+                    "104dcbae-0f8c-4b86-aec9-b2f4ea875658": {
+                        "login": "biryukova_73tl_231903",
+                        "password": "Bvr#5022"
+                    },
+                    "e48d134e-8987-4df4-ae77-a62139cb2a7e": {
+                        "login": "grokhotova_73tl_236313",
+                        "password": "Gro#2196"
+                    },
+                    "b382cd5c-bc3b-476e-8018-c45fa7540cb0": {
+                        "login": "zhetpisbaev_73tl_232676",
+                        "password": "Zhe#4909"
+                    }
+                }
+            }
+        }
+    },
+    {
+        "411bcbbb-0619-440b-aefc-9ad128f250c1": "Лисичников Андрей Александрович",
+        "6bda3f1a-4849-4e9c-95a8-dfc130297f80": "Соколов Андрей Витальевич ",
+        "c0cee5b3-1667-4e8c-83ab-ff04f3003fb1": "Степанычев Дмитрий Александрович",
+        "17c6165e-d491-4d1b-bd6d-dfb397c41f3c": "Ахметов Алтынбек Оразбекович",
+        "fdca6eb6-0749-4a98-8d25-96ff9abf90b8": "Чумаров Фанис Фаэтович",
+        "d4c20e22-879e-4a8e-bd5c-aec15a1e7884": "Горбенко Павел Васильевич",
+        "fe6dd3f2-91c3-4bff-8868-eac70a721a81": "Чехлыстов Евгений Викторович",
+        "29db3b28-349b-4e53-9cca-cae480f5db5b": "Волошин Максим Константинович",
+        "59b2d9d9-7f7b-46ea-b240-976384141598": "Бородин Игорь Сергеевич",
+        "b5891504-a0c0-4ed5-9dd6-6f8722903902": "Булыгин Алексей Александрович",
+        "11b67102-f85c-49ee-9514-623e11883b79": "Шергин Евгений Алексеевич",
+        "c42732a4-11ab-4ac3-a39f-f8c6ffb2f6b6": "Тихонов Даниил Андреевич",
+        "f20fae31-44df-4ec6-825e-4c727a88878b": "Антонюк Никита Витальевич",
+        "9efda4c9-8013-4e6e-9735-8f1f79550a95": "Лазарев Алексей Валерьевич",
+        "0e52e2ed-57a4-44b2-a9d5-2d26162542e5": "Соловьев Евгений Анатольевич",
+        "33c1d086-a785-4a28-bebc-0cd271023eb8": "Пичугин Александр Викторович",
+        "f18fc6bc-d77c-4294-88a0-8a9043fbe61f": "Мурзин Вячеслав Михайлович",
+        "0e830796-e0bb-4d9f-ae29-12949e8f2c90": "Батчев Сергей Михайлович",
+        "a9601714-fb58-4a6f-a75d-15974dfff1db": "Гамеев Данил Сергеевич",
+        "82548d78-c846-4639-9d78-98edb4527f59": "Плюснин Роман Анатольевич",
+        "4fe56fa4-6413-4b12-a427-1e16d0f6580b": "Лахненко Алексей Анатольевич",
+        "44f8f54c-490f-403c-9feb-be65cffbf69f": "Коваленко Данил Андреевич",
+        "46bb5c26-77b3-4849-a35a-62d0a942df49": "Кноль Иван Иванович",
+        "74bd4540-6bbe-4ef1-a169-e74626129230": "Черногузов Роман Сергеевич",
+        "f72d291d-e179-4b70-b390-1d0e002e1341": "Коваленко Олег Александрович",
+        "caa8664a-8fa9-44fe-8c70-47e776450986": "Абросимов Николай Николаевич",
+        "c57f3270-f43b-430b-b92d-320082b5362b": "Клюсов Сергей Вадимович",
+        "4aef38f7-30d0-47c6-9dae-c9f72b3d5ba2": "Рау Александр Алексеевич",
+        "cc4a9973-2115-44c8-916f-058ce0ce9268": "Куров Павел Юрьевич",
+        "8c1c4685-73ed-4c61-9e93-106232501ac2": "Назарян Даниэл Славович",
+        "9094a9be-3357-4880-8bec-536f38dc56cc": "Бажанов Андрей Евгеньевич",
+        "5cb58f9f-07ad-47bd-ae8e-3f5c84b639ef": "Ахмерова Виктория Анатольевна",
+        "24a74922-53bf-4504-8fbe-45cb195197b4": "Драгонцевич Дмитрий Валерьевич",
+        "a9bc0c54-e9b9-444b-b545-acacad2fd265": "Шайманов Кирилл Олегович",
+        "7968b684-da1c-4317-9901-13a9a66e82b6": "Тишкович Михаил Юрьевич",
+        "7fec8a49-95b7-410d-8dae-a533d2923f39": "Троценко Артур Валерьевич",
+        "86590c45-5434-41ee-99ab-4663749d4390": "Константинов Константин Евгеньевич",
+        "bd17600d-8ac8-4e94-ab47-25863d8ff96b": "Зубков Алексей Владимирович",
+        "e7473bdf-48a1-4b3c-8961-77a6b6488907": "Сакенов Меирбек Аблаевич",
+        "d8c4af25-6b58-4961-b881-04b09cac2fb7": "Зайц Владимир Валериевич",
+        "4903948e-1d30-43d9-ae79-e889e4ed4112": "Шефер Данил Владимирович",
+        "39638344-82fd-424b-8e90-1e033eabcd0b": "Макаров Александр Николаевич",
+        "52fd8efc-75e1-487e-ba13-2915f78de084": "Порсев Кирилл Алексеевич",
+        "73cd738b-2cd4-4aca-bcce-0d2b996aa2f4": "Каташев Максим Андреевич",
+        "82ddcd98-827d-4240-8fbe-e54d72e599b2": "Филатов Артём Дмитриевич",
+        "6a15cad5-6d5c-47cb-b409-5d861c5b37c8": "Пилипчук Александр Николаевич",
+        "90479292-9a96-4a2c-82ba-84366edc88ee": "Красненко Максим Александрович",
+        "b37932df-a9df-4065-aee2-7e0a5b661017": "Егоров Василий Михайлович",
+        "0b0064af-884c-41b6-9003-83fa3baec7c9": "Соколов Денис Геннадьевич",
+        "94cc673d-677b-47c3-8bea-aa01efcd5149": "Пугачева Анна Игоревна",
+        "7e22146d-9dac-4bfd-9074-e224718098cc": "Якутина Яна Дмитриевна",
+        "2fe6b592-418e-4548-8a91-16a8f1c69967": "Ронн Даниил Александрович",
+        "c6491f77-b4ca-4a39-99e3-35bc39e469cb": "Кондрашева Марина Александровна",
+        "3b0817cd-db3c-448e-9a9c-8c6829f72ff5": "Рзаев Реал Султаниевич",
+        "b5338c72-9dba-485e-9b66-714eee3cc293": "Каныгин Вячеслав Сергеевич",
+        "b0422dd0-74b2-4c6f-855e-f6e7d412cfa4": "Чередник Виктория Николаевна",
+        "6c257f33-ccfc-409d-a123-9af2b4797daf": "Эрлих Ирина Андреевна",
+        "5c042ac9-ecc3-4214-ac68-6fff96ff47a7": "Василевский Евгений Валерьевич",
+        "b130c438-49a9-4b30-8f93-300608e586d0": "Кабацкая Елизавета Андреевна",
+        "f28fd9c3-2192-4d35-b11f-8ebe9c4c47c2": "Кордубайло Кирилл Нуржанович",
+        "157d2116-368b-47cb-934a-e414fdcfe1c9": "Соловьева Анастасия Николаевна",
+        "88c2c141-1983-4871-9ec2-b8fef1328f00": "Кодина (Юдаева) Лилия Артуровна",
+        "f1f54a04-4324-4f73-ac4a-556d180028d2": "Гвоздев Егор Алексеевич",
+        "3160b08a-3ea9-47d0-9790-01aaf523109e": "Масютина Виктория Алексеевна",
+        "2f7a619b-7795-4309-befa-c245da24639e": "Старинчикова Анастасия Валерьевна",
+        "d2177db6-b486-4b82-a740-2824f755c850": "Руденко Виктория Михайловна",
+        "66ec51ac-f03c-4700-b31d-1fdd96867b98": "Ермошкина Ангелина Геннадьевна",
+        "6ee3f72a-df60-4dfe-93dc-b8e6e65636c2": "Озякова Полина Витальевна",
+        "f532f1be-5bbc-4943-8720-ee0e12e80d9e": "Бантюкова Ангелина Владимировна",
+        "3796c149-89ee-4591-a5df-bf38442d0054": "Копылова Влада Владимировна",
+        "d87b9d1e-103b-407f-8f15-3198e9c142db": "Бровко Анастасия Александровна",
+        "1154c08c-8f3c-4d88-9973-fbdcd81ce8b7": "Чесманова Наталья Николаевна",
+        "58079e50-95e7-4f45-9183-014325206e0e": "Михалев Максим Александрович",
+        "5495fc28-c1ad-47c0-8fa7-4688c5be55b9": "Васильева Яна Андреевна",
+        "fee1d413-b9e8-4478-b973-d5b710fc4699": "Баженова Ангелина Олеговна",
+        "6a4db705-b313-44cd-93ac-b55a5deda2a2": "Старожукова (Гусельникова ) Анастасия Андреевна",
+        "357a7d97-78f0-4ae9-992a-924cef6080b5": "Попов Иван Игоревич",
+        "8d0c5e28-e4e9-464b-b514-7a3a348569ec": "Васякина Римма Ильясовна",
+        "1be30be6-08ff-4802-bef0-d1c5de377a19": "Ильина Елизавета Анатольевна",
+        "9333c818-6aa1-46aa-a747-4510301678b6": "Петрекеева Полина Алексеевна",
+        "553dccef-b12e-4c11-9748-bd0afc3b889b": "Левшиц София Владимировна",
+        "4f71302f-ab03-4372-b09e-8ee62790c2f7": "Старицын Сергей Владимирович",
+        "16a64873-348a-4c78-b1eb-b177b49962c1": "Урусова Полина Евгеньевна",
+        "104dcbae-0f8c-4b86-aec9-b2f4ea875658": "Бирюкова Жанна Васильевна",
+        "e48d134e-8987-4df4-ae77-a62139cb2a7e": "Грохотова Серафима Ивановна",
+        "b382cd5c-bc3b-476e-8018-c45fa7540cb0": "Жетписбаев Жуматай Манарбекович"
+    }
+]

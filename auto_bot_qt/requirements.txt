@@ -1,0 +1,4 @@
+PyQt5~=5.15.9
+selenium~=4.11.2
+pandas~=2.0.3
+fuzzywuzzy~=0.18.0

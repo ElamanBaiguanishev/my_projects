@@ -1,0 +1,49 @@
+2023-07-29 10:25:00 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\Elaman\PycharmProjects\pythonProject\ui\test.py", line 32, in generate_error
+    result = 1 / 0
+ZeroDivisionError: division by zero
+2023-07-29 10:25:04 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\Elaman\PycharmProjects\pythonProject\ui\test.py", line 32, in generate_error
+    result = 1 / 0
+ZeroDivisionError: division by zero
+2023-07-29 10:25:04 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\Elaman\PycharmProjects\pythonProject\ui\test.py", line 32, in generate_error
+    result = 1 / 0
+ZeroDivisionError: division by zero
+2023-07-29 10:25:04 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\Elaman\PycharmProjects\pythonProject\ui\test.py", line 32, in generate_error
+    result = 1 / 0
+ZeroDivisionError: division by zero
+2023-07-29 10:25:05 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\Elaman\PycharmProjects\pythonProject\ui\test.py", line 32, in generate_error
+    result = 1 / 0
+ZeroDivisionError: division by zero
+2023-07-29 10:25:05 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\Elaman\PycharmProjects\pythonProject\ui\test.py", line 32, in generate_error
+    result = 1 / 0
+ZeroDivisionError: division by zero
+2023-07-29 10:25:05 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\Elaman\PycharmProjects\pythonProject\ui\test.py", line 32, in generate_error
+    result = 1 / 0
+ZeroDivisionError: division by zero
+2023-07-29 10:25:05 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\Elaman\PycharmProjects\pythonProject\ui\test.py", line 32, in generate_error
+    result = 1 / 0
+ZeroDivisionError: division by zero
+2023-07-29 10:25:05 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\Elaman\PycharmProjects\pythonProject\ui\test.py", line 32, in generate_error
+    result = 1 / 0
+ZeroDivisionError: division by zero
+2023-07-29 10:28:07 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\Elaman\PycharmProjects\pythonProject\ui\test.py", line 32, in generate_error
+ZeroDivisionError: division by zero

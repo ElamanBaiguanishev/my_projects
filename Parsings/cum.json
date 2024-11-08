@@ -1,0 +1,51 @@
+{
+    "ability_ext": {
+        "__reference": "ebpextensions\\ability_ext.lua"
+    },
+    "combat_ext": {
+        "hardpoints": {
+            "hardpoint_01": {
+                "attack_motion_variable_name": "Weapon_Range_Tracking_Main",
+                "hardpoint_weapon_variant_motion_name": "Weapon_Range_Upgrade_Main",
+                "horizontal_aim_motion_variable_name": "Aim_Horizontal_Main",
+                "shoot_motion_variable_name": "Weapon_Range_Firing_Main",
+                "vertical_aim_motion_variable_name": "Aim_Vertical_Main",
+                "weapon_table": {
+                    "weapon_01": {
+                        "name_for_this_weapon_choice": "chaos_laspistol",
+                        "weapon": "weapon\\chaos_laspistol.lua"
+                    },
+                    "weapon_02": {
+                        "name_for_this_weapon_choice": "Chaos_Plasma_Cultist",
+                        "weapon": "weapon\\chaos_plasma_gun_cultist.lua"
+                    },
+                    "weapon_03": {
+                        "name_for_this_weapon_choice": "Chaos_Grenade_Launcher",
+                        "weapon": "weapon\\chaos_grenade_launcher.lua",
+                        "muzzle": {
+                            "x": 0.25,
+                            "y": 1.700000048
+                        },
+                        "origin": {
+                            "x": 0.25,
+                            "y": 1.700000048
+                        }
+                    }
+                }
+            },
+            "hardpoint_02": {
+                "attack_motion_variable_name": "",
+                "hardpoint_weapon_variant_motion_name": "Weapon_Melee_Upgrade_Main",
+                "horizontal_aim_motion_variable_name": "",
+                "shoot_motion_variable_name": "",
+                "vertical_aim_motion_variable_name": "",
+                "weapon_table": {
+                    "weapon_01": {
+                        "name_for_this_weapon_choice": "chaos_knife",
+                        "weapon": "weapon\\chaos_knife_cultist.lua"
+                    }
+                }
+            }
+        }
+    }
+}

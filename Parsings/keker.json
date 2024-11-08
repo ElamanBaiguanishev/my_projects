@@ -1,0 +1,321 @@
+{
+    "Space Marine": {
+        "Infantry": [
+            "Servitor.html    ",
+            "Scout_Marine_Squad.html",
+            "Space_Marine_Squad.html",
+            "Assault_Marine_Squad.html",
+            "Grey_Knights.html",
+            "Terminator_Squad.html",
+            "Assault_Terminator_Squad.html",
+            "Skull_Probe.html",
+            "Apothecary.html",
+            "Force_Commander.html",
+            "Librarian.html",
+            "Chaplain.html"
+        ],
+        "Vehicles": [
+            "Rhino.html",
+            "Land_Speeder.html",
+            "Dreadnought.html",
+            "Hellfire_Dreadnought.html",
+            "Land_Speeder_Tempest.html",
+            "Predator.html",
+            "Whirlwind.html",
+            "Land_Raider.html"
+        ],
+        "Buildings": [
+            "Stronghold.html",
+            "Listening_Post_Space_Marines.html",
+            "Plasma_Generator_Space_Marines.html",
+            "Thermo_Plasma_Generator_Space_Marines.html",
+            "Chapel-Barracks.html",
+            "Armoury.html",
+            "Machine_Cult.html",
+            "Sacred_Artifact.html",
+            "Orbital_Relay.html",
+            "Heavy_Bolter_Turret_Space_Marines.html",
+            "Mine_Field_Space_Marines.html"
+        ]
+    },
+    "Chaos": {
+        "Infantry": [
+            "Heretic.html",
+            "Cultist_Squad.html",
+            "Chaos_Space_Marine_Squad.html",
+            "Raptor_Squad.html",
+            "Khorne_Berzerker_Squad.html",
+            "Horror_Squad.html",
+            "Possessed_Squad.html",
+            "Obliterators.html",
+            "Chaos_Lord.html",
+            "Chaos_Sorcerer.html",
+            "Daemon_Prince.html",
+            "Bloodthirster.html"
+        ],
+        "Vehicles": [
+            "Chaos_Rhino.html",
+            "Defiler.html",
+            "Chaos_Predator.html",
+            "Hell_Talon.html"
+        ],
+        "Buildings": [
+            "Desecrated_Stronghold.html",
+            "Listening_Post_Chaos.html",
+            "Plasma_Generator_Chaos.html",
+            "Thermo_Plasma_Generator_Chaos.html",
+            "Chaos_Temple.html",
+            "Chaos_Armoury.html",
+            "Sacrificial_Circle.html",
+            "Machine_Pit.html",
+            "Daemon_Pit.html",
+            "Heavy_Bolter_Turret_Chaos.html",
+            "Mine_Field_Chaos.html"
+        ]
+    },
+    "Eldar": {
+        "Infantry": [
+            "Bonesinger.html",
+            "Guardian_Squad.html",
+            "Ranger_Squad.html",
+            "Howling_Banshee_Squad.html",
+            "Dark_Reaper_Squad.html",
+            "Fire_Dragon.html",
+            "Warp_Spider_Squad.html",
+            "Harlequin.html",
+            "Farseer.html",
+            "Seer_Council.html",
+            "Avatar_of_Khaine.html"
+        ],
+        "Vehicles": [
+            "Falcon_Grav_Tank.html",
+            "Vyper.html",
+            "Wraithlord.html",
+            "Nightwing.html",
+            "Shuriken_Grav_Platform.html",
+            "Brightlance_Grav_Platform.html",
+            "Fire_Prism.html"
+        ],
+        "Buildings": [
+            "Webway_Assembly.html",
+            "Listening_Shrine.html",
+            "Plasma_Generator_Eldar.html",
+            "Thermo_Plasma_Generator_Eldar.html",
+            "Webway_Gate.html",
+            "Aspect_Portal.html",
+            "Soul_Shrine.html",
+            "Support_Portal.html",
+            "Support_Platform.html",
+            "Mine_Field_Eldar.html"
+        ]
+    },
+    "Orks": {
+        "Infantry": [
+            "Gretchin.html",
+            "Slugga_Boy_Squad.html",
+            "Shoota_Boy_Squad.html",
+            "Stormboyz.html",
+            "Tankbustaz.html",
+            "Nobz_Squad.html",
+            "Flash_Gitz.html",
+            "Mega_Armoured_Nobz.html",
+            "Mad_Dok.html",
+            "Big_Mek.html",
+            "Warboss.html"
+        ],
+        "Vehicles": [
+            "Wartrukk.html",
+            "Wartrak.html",
+            "Killa_Kan.html",
+            "Fighta-Bomma.html",
+            "Looted_Tank.html",
+            "Squiggoth.html"
+        ],
+        "Buildings": [
+            "Settlement.html",
+            "Da_Listenin_Post.html",
+            "Generator.html",
+            "Bigga_Generator.html",
+            "Waaagh_Banner.html",
+            "Da_Boyz_Hut.html",
+            "Pile_O_Gunz.html",
+            "Da_Mek_Shop.html",
+            "Mine_Field_Orks.html"
+        ]
+    },
+    "Imperial Guard": {
+        "Infantry": [
+            "Techpriest_Enginseer.html",
+            "Guardsmen_Squad.html",
+            "Heavy_Weapons_Team.html",
+            "Kasrkin.html",
+            "Ogryns.html",
+            "Command_Squad.html",
+            "Commissar.html",
+            "Psyker.html",
+            "Priest.html",
+            "Vindicare_Assassin.html"
+        ],
+        "Vehicles": [
+            "Chimera.html",
+            "Sentinel.html",
+            "Hellhound.html",
+            "Basilisk.html",
+            "Marauder_Bomber.html",
+            "Leman_Russ.html",
+            "Baneblade.html"
+        ],
+        "Buildings": [
+            "Field_Command.html",
+            "Listening_Post_Imperial_Guard.html",
+            "Plasma_Generator_Imperial_Guard.html",
+            "Thermo_Plasma_Generator_Imperial_Guard.html",
+            "Infantry_Command.html",
+            "Tactica_Control.html",
+            "Mechanized_Command.html",
+            "Mars_Pattern_Command.html",
+            "Heavy_Bolter_Turret_Imperial_Guard.html",
+            "Mine_Field_Imperial_Guard.html"
+        ]
+    },
+    "Tau": {
+        "Infantry": [
+            "Earth_Caste_Builder.html",
+            "XV15_Stealth_Team.html",
+            "Vespid_Stingwing_Strain.html",
+            "Fire_Warrior_Team.html",
+            "Kroot_Carnivores.html",
+            "Kroot_Shaper.html",
+            "Pathfinder_Team.html",
+            "XV88_Broadside_Battlesuit.html",
+            "XV8_Crisis_Battlesuit.html",
+            "Kroot_Hound_Pack.html",
+            "Tau_Commander.html",
+            "Ethereal.html",
+            "ShasUi_Bodyguard.html"
+        ],
+        "Vehicles": [
+            "Devilfish_Troop_Carrier.html",
+            "Skyray_Missile_Gunship.html",
+            "Drone_Squad.html",
+            "Drone_Harbinger.html",
+            "Barracuda.html",
+            "Hammerhead_Gunship.html",
+            "Krootox.html",
+            "Greater_Knarloc.html"
+        ],
+        "Buildings": [
+            "Cadre_Headquarters.html",
+            "Listening_Post_Tau.html",
+            "Plasma_Generator_Tau.html",
+            "Thermo_Plasma_Generator_Tau.html",
+            "Tau_Barracks.html",
+            "Path_to_Enlightenment.html",
+            "Kroot_Shaping_Center.html",
+            "Vehicle_Beacon.html",
+            "Kauyon_Command_Post.html",
+            "Montka_Command_Post.html",
+            "Coalition_Center.html"
+        ]
+    },
+    "Necrons": {
+        "Infantry": [
+            "Builder_Scarabs.html",
+            "Necron_Warriors.html",
+            "Wraith.html",
+            "Flayed_Ones.html",
+            "Immortals.html",
+            "Pariahs.html",
+            "Necron_Lord.html",
+            "Essence_of_the_Nightbringer.html",
+            "Essence_of_the_Deceiver.html"
+        ],
+        "Vehicles": [
+            "Tomb_Spyder.html",
+            "Attack_Scarabs.html",
+            "Destroyer.html",
+            "Heavy_Destroyer.html",
+            "Lord_Destroyer.html",
+            "Restored_Monolith.html"
+        ],
+        "Buildings": [
+            "Dormant_Monolith.html",
+            "Obelisk.html",
+            "Plasma_Generator_Necrons.html",
+            "Thermo_Plasma_Generator_Necrons.html",
+            "Summoning_Core.html",
+            "Forbidden_Archive.html",
+            "Greater_Summoning_Core.html",
+            "Energy_Core.html",
+            "Gauss_Turret.html"
+        ]
+    },
+    "Dark Eldar": {
+        "Infantry": [
+            "Tortured_Slave.html",
+            "Mandrake_Squad.html",
+            "Warrior_Squad.html",
+            "Hellion_Squad.html",
+            "Scourge_Squad.html",
+            "Wych_Squad.html",
+            "Warp_Beast_Pack.html",
+            "Archon.html",
+            "Haemonculus.html"
+        ],
+        "Vehicles": [
+            "Reaver_Jetbike.html",
+            "Raider.html",
+            "Talos.html",
+            "Raven.html",
+            "Ravager.html",
+            "Dais_of_Destruction.html"
+        ],
+        "Buildings": [
+            "Kabal_Fortress.html",
+            "Tower_of_Loathing.html",
+            "Plasma_Generator_Dark_Eldar.html",
+            "Thermo_Plasma_Generator_Dark_Eldar.html",
+            "Slave_Chamber.html",
+            "Hall_of_Blood.html",
+            "Haemonculus_Laboratory.html",
+            "Dark_Foundry.html",
+            "Wych-Cult_Arena.html",
+            "Soul_Cage.html"
+        ]
+    },
+    "Sisters of Battle": {
+        "Infantry": [
+            "Ecclesiarchal_Servitor.html",
+            "Missionary.html",
+            "Battle_Sister_Squad.html",
+            "Seraphim_Squad.html",
+            "Celestian_Squad.html",
+            "Death-Cult_Assassin.html",
+            "Sister_Repentia_Squad.html",
+            "Canoness.html",
+            "Avenging_Angel.html",
+            "Confessor.html",
+            "Living_Saint.html"
+        ],
+        "Vehicles": [
+            "Rhino_Transport.html",
+            "Immolator.html",
+            "Lightning_Fighter.html",
+            "Exorcist.html",
+            "Penitent_Engine.html"
+        ],
+        "Buildings": [
+            "Ecclesiarchal_Chapel.html",
+            "Listening_Post_Sisters_of_Battle.html",
+            "Plasma_Generator_Sisters_of_Battle.html",
+            "Thermo_Plasma_Generator_Sisters_of_Battle.html",
+            "Adepta_Sororitas_Convent.html",
+            "Pristine_Sanctuary.html",
+            "Manufactorum.html",
+            "Holy_Reliquary.html",
+            "Shrine_of_the_Living_Saint.html",
+            "Inferno_Turret.html",
+            "Purgatus_Mine_Field.html"
+        ]
+    }
+}

@@ -1,0 +1,7 @@
+{
+  "interface": "CdcEthernet1",
+  "router_address": "my.keenetic.net",
+  "router_port": "23",
+  "username": "admin",
+  "password": "1234"
+}

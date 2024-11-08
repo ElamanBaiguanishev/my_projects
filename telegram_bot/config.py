@@ -1,0 +1,5 @@
+host = "localhost"
+user = "postgres"
+password = "2507"
+db_name = "postgres"
+TOKEN = "6770356237:AAHVQtYjiqXMUvqPTfvPcJiZF2T3vtXys4w"

@@ -1,0 +1,30 @@
+
+2024-02-27 19:09:15 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\Elaman\PycharmProjects\auto_gui_ai\interface.py", line 35, in <module>
+    mainWindow = MainWindow()
+  File "C:\Users\Elaman\PycharmProjects\auto_gui_ai\interface.py", line 13, in __init__
+    self.init_ui()
+  File "C:\Users\Elaman\PycharmProjects\auto_gui_ai\interface.py", line 24, in init_ui
+    self.setLayout(self.main_layout)
+AttributeError: 'MainWindow' object has no attribute 'main_layout'
+
+2024-02-27 19:09:28 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\Elaman\PycharmProjects\auto_gui_ai\interface.py", line 32, in <module>
+    mainWindow = MainWindow()
+  File "C:\Users\Elaman\PycharmProjects\auto_gui_ai\interface.py", line 13, in __init__
+    self.init_ui()
+  File "C:\Users\Elaman\PycharmProjects\auto_gui_ai\interface.py", line 22, in init_ui
+    self.setLayout(self.main_layout)
+AttributeError: 'MainWindow' object has no attribute 'main_layout'
+
+2024-02-27 19:09:36 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\Elaman\PycharmProjects\auto_gui_ai\interface.py", line 31, in <module>
+    mainWindow = MainWindow()
+  File "C:\Users\Elaman\PycharmProjects\auto_gui_ai\interface.py", line 13, in __init__
+    self.init_ui()
+  File "C:\Users\Elaman\PycharmProjects\auto_gui_ai\interface.py", line 22, in init_ui
+    self.setLayout(self.main_layout)
+AttributeError: 'MainWindow' object has no attribute 'main_layout'

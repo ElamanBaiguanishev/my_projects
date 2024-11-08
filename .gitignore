@@ -1,0 +1,24 @@
+# Игнорируем все папки virtual environment
+venv/
+**/venv/
+
+# Игнорируем другие системные или временные файлы
+*.pyc
+__pycache__/
+.DS_Store
+.env
+.idea/
+*.log
+node_modules/
+
+# Игнорируем chromedriver.exe в любых папках
+chromedriver.exe
+**/chromedriver.exe
+
+build/
+**/build/
+
+dist/
+**/dist/
+
+**/.idea/

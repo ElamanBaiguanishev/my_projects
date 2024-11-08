@@ -1,0 +1,18 @@
+
+2024-09-02 14:01:52 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\Elaman\PycharmProjects\grade_checker\Config.py", line 64, in new_base
+    data(True, progress_dialog.update_progress)
+  File "C:\Users\Elaman\PycharmProjects\grade_checker\parsing.py", line 61, in data
+    original_key = row[0].strip()
+                   ^^^^^^^^^^^^
+AttributeError: 'float' object has no attribute 'strip'
+
+2024-09-02 14:02:58 - ERROR - Uncaught exception
+Traceback (most recent call last):
+  File "C:\Users\Elaman\PycharmProjects\grade_checker\Config.py", line 64, in new_base
+    data(True, progress_dialog.update_progress)
+  File "C:\Users\Elaman\PycharmProjects\grade_checker\parsing.py", line 61, in data
+    original_key = row[0].strip()
+                   ^^^^^^^^^^^^
+AttributeError: 'float' object has no attribute 'strip'
